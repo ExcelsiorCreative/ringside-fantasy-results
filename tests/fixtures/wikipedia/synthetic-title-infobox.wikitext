@@ -1,0 +1,5 @@
+{{Infobox championship
+| name = AEW World Tag Team Championship
+| promotion = [[All Elite Wrestling]]
+| champion = [[The Young Bucks]] <br />([[Matt Jackson]] and [[Nick Jackson]])
+}}

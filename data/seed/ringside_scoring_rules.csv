@@ -1,0 +1,20 @@
+event_key,event,points,category
+win,Win,5,Regular match
+main,Main event,3,Regular match
+title,Wins title,10,Regular match
+def,Retains title,4,Regular match
+tl,Loses title,-10,Regular match
+qual,Qualifying match win,2,Regular match
+elim,Rumble elimination,2,Royal Rumble style
+p3,Rumble 3rd place,10,Royal Rumble style
+p2,Rumble 2nd place,15,Royal Rumble style
+p1,Rumble winner,25,Royal Rumble style
+ce,Chamber entry,1,Elimination Chamber
+cx,Chamber elimination,3,Elimination Chamber
+cw,Chamber winner,10,Elimination Chamber
+mi,Money in the Bank entry,1,Money in the Bank
+mw,Money in the Bank winner,10,Money in the Bank
+cs,Successful cash-in,25,Money in the Bank
+cf,Failed cash-in,-25,Money in the Bank
+loss,Loss,-2,Regular match
+dq,DQ / interference,-3,Regular match

@@ -1,0 +1,20 @@
+{
+  "name": "ringside-results-db",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-updating WWE/AEW/TNA/NXT results database on Cloudflare's free tier, fed by a scheduled GitHub Actions runner.",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "test": "node --no-warnings --test tests/*.test.ts",
+    "typecheck": "npx -y -p typescript tsc -p tsconfig.json",
+    "seed:build": "node scripts/seed.ts",
+    "db:create": "npx wrangler@latest d1 create ringside",
+    "db:migrate": "npx wrangler@latest d1 migrations apply ringside --remote",
+    "db:seed": "npx wrangler@latest d1 execute ringside --remote --file=seed/seed.sql",
+    "deploy": "npx wrangler@latest deploy",
+    "make-key": "node scripts/make-key.ts",
+    "ingest": "node runner/run.ts",
+    "ingest:dry": "DRY_RUN=1 node runner/run.ts"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+.wrangler/
+.dev.vars
+capture/
+dry-run.json
+API-KEY.txt

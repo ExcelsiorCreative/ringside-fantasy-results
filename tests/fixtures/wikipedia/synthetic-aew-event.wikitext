@@ -1,0 +1,12 @@
+{{Infobox wrestling event
+| name      = Test Revolution (2026)
+| promotion = [[All Elite Wrestling]]
+| date      = November 15, 2026
+}}
+== Results ==
+{{Pro Wrestling results table
+|match1 = [[The Young Bucks]] ([[Matt Jackson]] and [[Nick Jackson]]) (c) defeated [[FTR (professional wrestling)|FTR]] ([[Cash Wheeler]] and [[Dax Harwood]]) by pinfall
+|stip1  = Tag team match for the [[AEW World Tag Team Championship]]
+|match2 = [[Will Ospreay]] (c) defeated [[Hangman Page|"Hangman" Adam Page]] by pinfall
+|stip2  = Singles match for the [[AEW World Championship]]
+}}

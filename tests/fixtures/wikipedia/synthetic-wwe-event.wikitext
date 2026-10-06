@@ -1,0 +1,40 @@
+{{Short description|Professional wrestling event (test fixture)}}
+{{Infobox wrestling event
+| name       = Test Slam (2026)
+| promotion  = [[WWE]]
+| brand      = [[WWE Raw|Raw]]<br />[[WWE SmackDown|SmackDown]]
+| date       = {{Start date|2026|11|28}}
+| venue      = Example Arena
+}}
+'''Test Slam''' is a synthetic event used only for tests.<ref>{{cite web |title=Not real}}</ref>
+
+== Results ==
+=== Night 1 ===
+{{Pro Wrestling results table
+|caption =
+|match1 = [[Penta (wrestler)|Penta]] defeated [[Dominik Mysterio]] by pinfall
+|stip1  = Singles match
+|time1  = 9:12
+|pre1   = yes
+|match2 = [[CM Punk]] defeated [[Roman Reigns]] (c) (with [[Paul Heyman]]) by pinfall
+|stip2  = Singles match for the [[World Heavyweight Championship (WWE)|World Heavyweight Championship]]
+|time2  = 24:51
+|match3 = [[Chelsea Green]] (c) defeated [[Tiffany Stratton]] by disqualification
+|stip3  = Singles match for the [[WWE Women's Championship]]
+|match4 = [[Iyo Sky]] defeated [[Lola Vice]], [[Liv Morgan]], and [[Rhea Ripley]] by pinfall
+|stip4  = Fatal four-way match
+|match5 = [[Seth Rollins]] vs. [[Gunther (wrestler)|Gunther]] ended in a no contest
+|stip5  = Singles match
+|match6 = [[Cody Rhodes]] defeated [[Jacob Fatu]] by submission
+|stip6  = Singles match
+}}
+
+=== Night 2 ===
+{{Pro Wrestling results table
+|match1 = [[Bron Breakker]] and [[Austin Theory]] (c) defeated [[Jey Uso]] and [[Mystery Newcomer]] by pinfall
+|stip1  = Tag team match for the [[World Tag Team Championship (WWE)|World Tag Team Championship]]
+|match2 = [[Lola Vice]] defeated [[Becky Lynch]], [[Charlotte Flair]], [[Jade Cargill]], [[Sol Ruca]], and [[Lash Legend]]
+|stip2  = [[Money in the Bank ladder match]]
+|match3 = [[Drew McIntyre]] won by last eliminating [[LA Knight]]
+|stip3  = 20-man [[Royal Rumble match]]
+}}

@@ -1,0 +1,79 @@
+name: Ingest results
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"     # every 6 hours (UTC), at :17 to avoid the top-of-hour rush
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (read sources, write nothing)"
+        type: boolean
+        default: false
+      capture:
+        description: "Save fetched Wikipedia pages as a downloadable artifact"
+        type: boolean
+        default: false
+      full_recheck:
+        description: "Re-read every page, ignoring what was already seen"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commits the small .state file so the next run knows what it has seen
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "22" }
+      - run: npm test
+
+  ingest:
+    needs: test
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "22" }
+
+      - name: Run ingestion
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          D1_DATABASE_ID: ${{ secrets.D1_DATABASE_ID }}
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+          REPO_URL: ${{ github.server_url }}/${{ github.repository }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+          CAPTURE: ${{ inputs.capture && '1' || '0' }}
+          FULL_RECHECK: ${{ inputs.full_recheck && '1' || '0' }}
+        run: node runner/run.ts
+
+      - name: Upload captured pages
+        if: ${{ always() && (inputs.capture || inputs.dry_run) }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: capture-${{ github.run_id }}
+          path: |
+            capture/
+            dry-run.json
+          if-no-files-found: ignore
+          retention-days: 7
+
+      # Saves what was seen, and keeps the repo active: GitHub turns off scheduled
+      # workflows in public repos after 60 days with no activity.
+      - name: Save state
+        if: ${{ success() && !inputs.dry_run }}
+        run: |
+          date -u +%F > .state/heartbeat.txt
+          git config user.name "ringside-bot"
+          git config user.email "ringside-bot@users.noreply.github.com"
+          git add .state
+          git diff --cached --quiet || (git commit -m "Update ingestion state [skip ci]" && git push)
