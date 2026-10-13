@@ -1,0 +1,9 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {parseFeed} from '../worker/api.js';
+const worker=await import('data:text/javascript;base64,'+Buffer.from(readFileSync('worker/index.js')).toString('base64'));
+const fixture='<feed><entry><yt:videoId>abcdefghijk</yt:videoId><title>Champions &amp; challengers</title><published>2026-10-13T10:00:00Z</published></entry><entry><yt:videoId>bad-id</yt:videoId><title>Invalid</title><published>bad</published></entry></feed>';
+test('video parser decodes titles and excludes malformed entries',()=>{assert.deepEqual(parseFeed(fixture,'WWE'),[{id:'abcdefghijk',title:'Champions & challengers',published:'2026-10-13T10:00:00Z',promotion:'WWE'}]);assert.deepEqual(parseFeed('<html>blocked</html>','WWE'),[])});
+test('homepage and HTTP boundaries',async()=>{const r=await worker.default.fetch(new Request('https://example.test/'),{},{});assert.equal(r.status,200);assert.match(await r.text(),/pop &/);assert.equal((await worker.default.fetch(new Request('https://example.test/nope'),{},{})).status,404);assert.equal((await worker.default.fetch(new Request('https://example.test/',{method:'POST'}),{},{})).status,405)});
+test('one failed channel preserves other uploads and reports failures',async()=>{const old=globalThis.fetch;let calls=0;globalThis.fetch=async()=>{calls++;return calls===2?new Response('Unavailable',{status:503}):new Response(fixture)};try{const r=await worker.default.fetch(new Request('https://example.test/api/videos'),{},{waitUntil(){}});const d=await r.json();assert.equal(d.items.length,3);assert.deepEqual(d.failed,['AEW']);assert.equal(d.items[0].title,'Champions & challengers');assert.equal(r.headers.get('cache-control'),'public, max-age=300')}finally{globalThis.fetch=old}});
