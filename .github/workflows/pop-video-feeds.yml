@@ -1,0 +1,43 @@
+name: Update Pop & Circumstance video feeds
+on:
+  schedule:
+    - cron: '7,22,37,52 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - 'newsroom/tinyfeed/channels.json'
+      - 'newsroom/tinyfeed/feeds.txt'
+      - 'newsroom/tinyfeed/videos.gtpl'
+      - 'newsroom/tinyfeed/convert.py'
+      - '.github/workflows/pop-video-feeds.yml'
+permissions:
+  contents: write
+concurrency:
+  group: pop-video-feeds
+  cancel-in-progress: false
+jobs:
+  feeds:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pinned Tinyfeed v1.5.0
+        run: |
+          curl --fail --location --retry 3 https://github.com/TheBigRoomXXL/tinyfeed/releases/download/v1.5.0/tinyfeed_linux_amd64 -o /tmp/tinyfeed
+          echo '8cc525426ced011ee7260fb7a2cecdd0d831f10c857ec3d10097488ea7c2c9b9  /tmp/tinyfeed' | sha256sum --check
+          chmod +x /tmp/tinyfeed
+      - name: Aggregate official feeds with Tinyfeed
+        working-directory: newsroom/tinyfeed
+        run: |
+          /tmp/tinyfeed --input feeds.txt --template videos.gtpl --output generated.xml --timeout 20 --limit-per-feed 8 --limit 40
+          python3 convert.py generated.xml channels.json videos.json
+      - name: Publish refreshed snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add newsroom/tinyfeed/videos.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh official wrestling video feeds with Tinyfeed'
+            git pull --rebase
+            git push
+          fi
