@@ -1,0 +1,5 @@
+import {readFileSync,writeFileSync,existsSync} from 'node:fs';
+const html=readFileSync('worker/page.html','utf8');
+const api=readFileSync('worker/api.js','utf8').replace('export function parseFeed','function parseFeed').replace('export async function videosResponse','async function videosResponse');
+const initial=existsSync('tinyfeed/videos.json')?JSON.parse(readFileSync('tinyfeed/videos.json','utf8')):{items:[],fetchedAt:null};
+writeFileSync('worker/index.js','const INITIAL_TINYFEED='+JSON.stringify(initial)+';\n'+api+'\nconst PAGE='+JSON.stringify(html)+';\nexport default {async fetch(request,env,ctx){const u=new URL(request.url);if(request.method!=="GET")return new Response("Method not allowed",{status:405,headers:{Allow:"GET"}});if(u.pathname==="/api/videos")return videosResponse(request,ctx);if(u.pathname!=="/")return new Response("Not found",{status:404});return new Response(PAGE,{headers:{"content-type":"text/html; charset=utf-8","x-content-type-options":"nosniff","referrer-policy":"strict-origin-when-cross-origin"}})}};\n');
