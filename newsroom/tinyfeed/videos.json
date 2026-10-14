@@ -1,25 +1,45 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-10-14T01:59:24Z",
+  "fetchedAt": "2026-10-14T07:28:49Z",
   "failed": [
-    "WWE",
-    "AEW",
-    "TNA",
-    "NXT",
-    "AAA"
+    "NXT"
   ],
   "items": [
     {
-      "id": "dz8B2G6KnRU",
-      "title": "\"Chelsea is going to kill me\" | Matt Cardona's big day out at New York Comic-Con: WWE Vlog",
-      "published": "2026-10-13T19:01:07+00:00",
+      "id": "FxSlmVcVrDE",
+      "title": "FULL MATCH: Tony D’Angelo vs. Myles Borne | No. 1 Contender’s Match: NXT highlights, Oct. 13, 2026",
+      "published": "2026-10-14T02:56:40+00:00",
       "promotion": "WWE"
     },
     {
-      "id": "eI8rGf0CXaM",
-      "title": "Top 10 Raw moments: WWE Top 10, Oct. 12, 2026",
-      "published": "2026-10-13T19:00:26+00:00",
+      "id": "RmjVgU9xmic",
+      "title": "Full NXT highlights, Oct. 13, 2026",
+      "published": "2026-10-14T02:37:00+00:00",
       "promotion": "WWE"
+    },
+    {
+      "id": "Ozj1noAJXfI",
+      "title": "Tavion Heights and Myles Borne get into a MASSIVE brawl: NXT highlights, Oct. 13, 2026",
+      "published": "2026-10-14T02:25:21+00:00",
+      "promotion": "WWE"
+    },
+    {
+      "id": "ETQu3sC-jKw",
+      "title": "Romeo Moreno and Noam Dar stun Fraxiom in the Dusty Cup: NXT highlights, Oct. 13, 2026",
+      "published": "2026-10-14T02:17:20+00:00",
+      "promotion": "WWE"
+    },
+    {
+      "id": "cBng8Dx8e-8",
+      "title": "La Catalina beats Kali Armstrong and retains: NXT highlights, Oct. 13, 2026",
+      "published": "2026-10-14T02:07:54+00:00",
+      "promotion": "WWE"
+    },
+    {
+      "id": "sjN7xYc1DDw",
+      "title": "TNA Destination X 2005 (FULL EVENT) | Jarrett vs. DDP, Hardy vs. Abyss, Ultimate X",
+      "published": "2026-10-13T21:00:00+00:00",
+      "promotion": "TNA"
     },
     {
       "id": "7FeNX9VdpAU",
@@ -79,18 +99,6 @@
       "id": "1o59o_YoQLE",
       "title": "Leon Slater WINS TNA World Title | TNA Bound For Glory 2026",
       "published": "2026-10-12T00:29:25+00:00",
-      "promotion": "TNA"
-    },
-    {
-      "id": "gsqlyC9_Puo",
-      "title": "TNA Bound For Glory 2026 | LIVE October 11 at 4:30pm ET from Tampa, FL",
-      "published": "2026-10-12T00:24:53+00:00",
-      "promotion": "TNA"
-    },
-    {
-      "id": "kKrudeRAydY",
-      "title": "ERICK REDBEARD Makes SHOCK Appearance Helping syX | TNA Bound For Glory 2026",
-      "published": "2026-10-11T23:59:20+00:00",
       "promotion": "TNA"
     },
     {
