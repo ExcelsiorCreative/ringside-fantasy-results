@@ -1,10 +1,38 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-10-14T13:03:06Z",
-  "failed": [
-    "NXT"
-  ],
+  "fetchedAt": "2026-10-14T17:57:22Z",
+  "failed": [],
   "items": [
+    {
+      "id": "OYwcq6RbuXI",
+      "title": "Amazing Red WINS X-Division Title | TNA Bound For Glory 2026",
+      "published": "2026-10-14T17:00:29+00:00",
+      "promotion": "TNA"
+    },
+    {
+      "id": "TIo8RzJbKiw",
+      "title": "Shayna Baszler and Zoey Serrano WIN Knockouts World Tag Team Titles | TNA Bound For Glory 2026",
+      "published": "2026-10-14T14:01:24+00:00",
+      "promotion": "TNA"
+    },
+    {
+      "id": "ujoKaWZZYzk",
+      "title": "Tiffany Stratton’s amazing NXT Women’s Championship reign",
+      "published": "2026-10-14T14:00:37+00:00",
+      "promotion": "NXT"
+    },
+    {
+      "id": "3jysycsf_cQ",
+      "title": "Behind the scenes of Roman Reigns’ “Street Fighter” stunt training: WWE Vlog",
+      "published": "2026-10-14T14:00:03+00:00",
+      "promotion": "WWE"
+    },
+    {
+      "id": "VDdtyCBD0So",
+      "title": "FULL MATCH: CM Punk vs. Jey Uso vs. LA Knight | Triple Threat Match: Raw, Oct. 13, 2025",
+      "published": "2026-10-14T13:00:06+00:00",
+      "promotion": "WWE"
+    },
     {
       "id": "tTKuguRFT2M",
       "title": "FULL MATCH: Orange Cassidy vs Cody Rhodes - TNT Championship | AEW Dynamite, 10/14/20",
@@ -18,33 +46,9 @@
       "promotion": "AEW"
     },
     {
-      "id": "FxSlmVcVrDE",
-      "title": "FULL MATCH: Tony D’Angelo vs. Myles Borne | No. 1 Contender’s Match: NXT highlights, Oct. 13, 2026",
-      "published": "2026-10-14T02:56:40+00:00",
-      "promotion": "WWE"
-    },
-    {
-      "id": "RmjVgU9xmic",
-      "title": "Full NXT highlights, Oct. 13, 2026",
-      "published": "2026-10-14T02:37:00+00:00",
-      "promotion": "WWE"
-    },
-    {
-      "id": "Ozj1noAJXfI",
-      "title": "Tavion Heights and Myles Borne get into a MASSIVE brawl: NXT highlights, Oct. 13, 2026",
-      "published": "2026-10-14T02:25:21+00:00",
-      "promotion": "WWE"
-    },
-    {
-      "id": "ETQu3sC-jKw",
-      "title": "Romeo Moreno and Noam Dar stun Fraxiom in the Dusty Cup: NXT highlights, Oct. 13, 2026",
-      "published": "2026-10-14T02:17:20+00:00",
-      "promotion": "WWE"
-    },
-    {
-      "id": "cBng8Dx8e-8",
-      "title": "La Catalina beats Kali Armstrong and retains: NXT highlights, Oct. 13, 2026",
-      "published": "2026-10-14T02:07:54+00:00",
+      "id": "YeFKI3j7v6c",
+      "title": "Best of Tiffany Stratton: Full Match Marathon",
+      "published": "2026-10-13T22:33:02+00:00",
       "promotion": "WWE"
     },
     {
@@ -58,12 +62,6 @@
       "title": "Gabby Forza & KC Navarro vs. Bear Bronson & Alisha Edwards | TNA Xplosion October 9, 2026",
       "published": "2026-10-13T16:00:07+00:00",
       "promotion": "TNA"
-    },
-    {
-      "id": "niwWS0ouAj0",
-      "title": "FULL MATCH: Zaria vs. Blake Monroe | NXT Women’s North American Title Match",
-      "published": "2026-10-13T14:00:25+00:00",
-      "promotion": "NXT"
     },
     {
       "id": "VaVUqHn2jS4",
@@ -90,34 +88,10 @@
       "promotion": "TNA"
     },
     {
-      "id": "P9sgRLt6N7A",
-      "title": "FULL EPISODE: Valkyria vs. Jayne; Lola Vice debuts | WWE NXT, Aug. 1, 2023",
-      "published": "2026-10-12T12:00:25+00:00",
-      "promotion": "NXT"
-    },
-    {
       "id": "jAH1djj8HZQ",
       "title": "FULL MATCH: FTR & Megan Bayne vs JetSpeed & Willow Nightingale | AEW Collision, 10/11/25",
       "published": "2026-10-12T09:00:00+00:00",
       "promotion": "AEW"
-    },
-    {
-      "id": "JBzZJDAz9wA",
-      "title": "FULL TNA Bound For Glory 2026 Highlights - Watch On Demand on TNA+ NOW!",
-      "published": "2026-10-12T01:30:07+00:00",
-      "promotion": "TNA"
-    },
-    {
-      "id": "1o59o_YoQLE",
-      "title": "Leon Slater WINS TNA World Title | TNA Bound For Glory 2026",
-      "published": "2026-10-12T00:29:25+00:00",
-      "promotion": "TNA"
-    },
-    {
-      "id": "v9FTwkiKwPY",
-      "title": "FULL EPISODE: Ripley vs. Valkyria; Breakker targets Wagner | WWE NXT, July 25, 2023",
-      "published": "2026-10-11T12:00:20+00:00",
-      "promotion": "NXT"
     },
     {
       "id": "QWl6p8P5fdE",
