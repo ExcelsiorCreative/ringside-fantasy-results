@@ -1,4 +1,5 @@
 import json,sys,re,datetime,xml.etree.ElementTree as ET
+from urllib.request import urlopen, Request
 from pathlib import Path
 root=ET.parse(sys.argv[1]).getroot()
 channels=json.loads(Path(sys.argv[2]).read_text())
@@ -17,11 +18,23 @@ for channel in channels:
    try: datetime.datetime.fromisoformat(video.get('published','').replace('Z','+00:00'))
    except ValueError:continue
    found.append({'id':m[1],'title':video.findtext('title',''),'published':video.get('published'),'promotion':channel['promotion']})
+ # Tinyfeed selects uploads; enrich them with official RSS view counts.
+ try:
+  request=Request('https://www.youtube.com/feeds/videos.xml?channel_id='+channel['id'],headers={'User-Agent':'PopCircumstance/1.0'})
+  with urlopen(request,timeout=15) as response: rss=ET.fromstring(response.read())
+  ns={'a':'http://www.w3.org/2005/Atom','yt':'http://www.youtube.com/xml/schemas/2015','m':'http://search.yahoo.com/mrss/'}
+  stats={}
+  for entry in rss.findall('a:entry',ns):
+   stat=entry.find('m:group/m:community/m:statistics',ns)
+   if stat is not None and stat.get('views','').isdigit():stats[entry.findtext('yt:videoId',namespaces=ns)]=int(stat.get('views'))
+  for video in found:video['views']=stats.get(video['id'])
+ except Exception:
+  for video in found:video['views']=None
  if not found:
   failed.append(channel['promotion'])
   found=[v for v in old.get('items',[]) if v.get('promotion')==channel['promotion']]
- found.sort(key=lambda v:v['published'],reverse=True);counts[channel['promotion']]=len(found[:8])
- for v in found[:8]:
+ found.sort(key=lambda v:v['published'],reverse=True);counts[channel['promotion']]=len(found[:15])
+ for v in found[:15]:
   if (v['promotion'],v['id']) in seen:continue
   seen.add((v['promotion'],v['id']));items.append(v)
 if not items:raise SystemExit('No valid uploads; preserving previous snapshot')
