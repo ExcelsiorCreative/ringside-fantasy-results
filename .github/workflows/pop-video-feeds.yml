@@ -38,6 +38,7 @@ jobs:
           git add newsroom/tinyfeed/videos.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh official wrestling video feeds with Tinyfeed'
+            git restore -- newsroom/tinyfeed/generated.xml
             git pull --rebase
             git push
           fi
