@@ -35,10 +35,12 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          cp newsroom/tinyfeed/videos.json /tmp/pop-videos.json
+          git restore -- newsroom/tinyfeed/videos.json
+          git pull --ff-only
+          cp /tmp/pop-videos.json newsroom/tinyfeed/videos.json
           git add newsroom/tinyfeed/videos.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh official wrestling video feeds with Tinyfeed'
-            git restore -- newsroom/tinyfeed/generated.xml
-            git pull --rebase
             git push
           fi
