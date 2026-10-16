@@ -29,7 +29,7 @@ jobs:
       - name: Aggregate official feeds with Tinyfeed
         working-directory: newsroom/tinyfeed
         run: |
-          /tmp/tinyfeed --input feeds.txt --template videos.gtpl --output generated.xml --timeout 20 --limit-per-feed 15 --limit 75
+          /tmp/tinyfeed --input feeds.txt --template videos.gtpl --output generated.xml --timeout 20 --limit-per-feed 15 --limit 90
           python3 convert.py generated.xml channels.json videos.json
       - name: Publish refreshed snapshot
         run: |
