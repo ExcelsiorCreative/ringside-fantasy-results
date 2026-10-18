@@ -1,406 +1,420 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-10-18T06:02:30Z",
-  "failed": [
-    "WWE",
-    "AEW",
-    "TNA",
-    "NXT",
-    "AAA",
-    "NJPW"
-  ],
+  "fetchedAt": "2026-10-18T10:54:42Z",
+  "failed": [],
   "items": [
     {
-      "id": "FXGF7TamZoI",
-      "title": "MCMG & FTR kick off first Best-of-5 match on AEW WrestleDream Tailgate Brawl!",
-      "published": "2026-10-18T00:40:11+00:00",
+      "id": "cZl5Bjazwq0",
+      "title": "AEW WrestleDream Post Event Media Scrum | 10/17/26, Orlando, FL",
+      "published": "2026-10-18T06:38:52+00:00",
       "promotion": "AEW",
-      "views": 1936
+      "views": 138887
     },
     {
-      "id": "O4xpdiFnlZA",
-      "title": "Claudio Castagnoli SWINGS Orange Cassidy for over a minute! | AEW WrestleDream 2026 Tailgate Brawl",
-      "published": "2026-10-18T00:30:18+00:00",
+      "id": "IcU7E-U_9Hc",
+      "title": "Adam Copeland has a clear message for Will Ospreay! | AEW WrestleDream 2026",
+      "published": "2026-10-18T06:00:14+00:00",
       "promotion": "AEW",
-      "views": 2172
+      "views": 46485
     },
     {
-      "id": "5zDg1e6HFSc",
-      "title": "Wardlow unleashes a POWERBOMB SYMPHONY! | AEW WrestleDream 2026 Tailgate Brawl",
-      "published": "2026-10-18T00:25:14+00:00",
+      "id": "xB07Mxfv2d0",
+      "title": "Welcome to CLOCKWORK CARNAGE! | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:45:16+00:00",
       "promotion": "AEW",
-      "views": 3570
+      "views": 70447
     },
     {
-      "id": "YZ34DXxn60I",
-      "title": "Sisters of Sin vs Divine Dominion | AEW WrestleDream 2026 Tailgate Brawl",
-      "published": "2026-10-18T00:12:43+00:00",
+      "id": "sjInqNwi8gQ",
+      "title": "Kazuchika Okada eliminates Konosuke Takeshita from Clockwork Carnage! | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:40:22+00:00",
       "promotion": "AEW",
-      "views": 5236
+      "views": 44030
     },
     {
-      "id": "MpvvCtTJ0ec",
-      "title": "AEW WrestleDream BUY IN |  LIVE, Saturday, 10/17 | 7pm ET / 6pm CT / 4pm PT",
-      "published": "2026-10-18T00:03:55+00:00",
+      "id": "Bp4tJfzcgh8",
+      "title": "Konosuke Takeshita eliminates Speedball Mike Bailey from Clockwork Carnage! | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:35:35+00:00",
       "promotion": "AEW",
-      "views": 55601
+      "views": 23983
+    },
+    {
+      "id": "cSvlk9N-V5g",
+      "title": "The New Level/Swerve Strickland vs Hangman Page/Brodido  - AEW Trios Titles | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:30:31+00:00",
+      "promotion": "AEW",
+      "views": 35673
+    },
+    {
+      "id": "xkr1pp0td8k",
+      "title": "Jon Moxley vs Mark Davis - AEW Continental Championship | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:20:15+00:00",
+      "promotion": "AEW",
+      "views": 34600
+    },
+    {
+      "id": "743Yj6ftzFw",
+      "title": "Andrade El Ídolo vs Tommaso Ciampa - AEW National Championship | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:15:34+00:00",
+      "promotion": "AEW",
+      "views": 32171
+    },
+    {
+      "id": "1hVAQ5WrjzQ",
+      "title": "Persephone vs Hyan vs Dani Luna vs Queen Aminata - TBS Championship | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:10:01+00:00",
+      "promotion": "AEW",
+      "views": 14490
+    },
+    {
+      "id": "zXkO1kBBkcM",
+      "title": "The Young Bucks vs The Jet & Kyle Fletcher - AEW World Tag Team Championship | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:05:06+00:00",
+      "promotion": "AEW",
+      "views": 22306
+    },
+    {
+      "id": "zFMwr9L4nBY",
+      "title": "Jericho vs Nick Wayne | AEW WrestleDream 2026",
+      "published": "2026-10-18T05:00:07+00:00",
+      "promotion": "AEW",
+      "views": 36415
+    },
+    {
+      "id": "P0TE0pJQBEs",
+      "title": "Mercedes Moné vs Thekla - AEW Women's World Championship | AEW WrestleDream 2026",
+      "published": "2026-10-18T04:50:16+00:00",
+      "promotion": "AEW",
+      "views": 38470
+    },
+    {
+      "id": "Q8cSPpGZzS4",
+      "title": "Motor City Machine Guns vs FTR | AEW WrestleDream 2026",
+      "published": "2026-10-18T04:45:32+00:00",
+      "promotion": "AEW",
+      "views": 33463
+    },
+    {
+      "id": "xse2fytc7oE",
+      "title": "AEW WrestleDream  - LIVE on Pay Per View | Saturday, October 17 | 8pm ET / 5pm PT",
+      "published": "2026-10-18T04:34:55+00:00",
+      "promotion": "AEW",
+      "views": 6091
+    },
+    {
+      "id": "YSWMq0HqRFs",
+      "title": "Ilja Dragunov is ALL ELITE! | AEW WrestleDream 2026",
+      "published": "2026-10-18T04:33:03+00:00",
+      "promotion": "AEW",
+      "views": 342144
+    },
+    {
+      "id": "GaGHEtJ5wXQ",
+      "title": "TNA iMPACT Marathon!",
+      "published": "2026-10-18T03:23:58+00:00",
+      "promotion": "TNA",
+      "views": 173618
+    },
+    {
+      "id": "GV9GYSCmES0",
+      "title": "Abismo Negro Jr. helps Taurus defeat El Fiscal: Lucha Libre AAA highlights, Oct. 17, 2026",
+      "published": "2026-10-18T03:00:35+00:00",
+      "promotion": "WWE",
+      "views": 54075
+    },
+    {
+      "id": "dcYKAB7SIjk",
+      "title": "Los Perros del Mal spark an epic brawl as Lucha Libre goes off the air: Lucha Libre AAA highlights",
+      "published": "2026-10-18T03:00:16+00:00",
+      "promotion": "WWE",
+      "views": 39520
+    },
+    {
+      "id": "TCzZW7jkJYY",
+      "title": "La Catalina pits Flammer and La Hiedra against each other: Lucha Libre AAA highlights, Oct. 17, 2026",
+      "published": "2026-10-18T03:00:13+00:00",
+      "promotion": "WWE",
+      "views": 48737
+    },
+    {
+      "id": "6BZE-fPtCCI",
+      "title": "FULL EPISODE: Lucha Libre AAA, Oct. 17, 2026",
+      "published": "2026-10-18T02:58:31+00:00",
+      "promotion": "WWE",
+      "views": 126848
     },
     {
       "id": "m7KwVustuAI",
       "title": "Top 10 Friday Night SmackDown moments: WWE Top 10, Oct. 16, 2026",
       "published": "2026-10-17T19:00:10+00:00",
       "promotion": "WWE",
-      "views": 126621
+      "views": 302005
     },
     {
       "id": "onosDLLdPkE",
       "title": "KNOCKOUTS WARFARE: Baszler, Serrano & Xia vs. Indi, Gabby & Hudson | TNA iMPACT! October 15, 2026",
       "published": "2026-10-17T17:00:14+00:00",
       "promotion": "TNA",
-      "views": 22549
-    },
-    {
-      "id": "GaGHEtJ5wXQ",
-      "title": "TNA iMPACT Marathon!",
-      "published": "2026-10-17T16:22:04+00:00",
-      "promotion": "TNA",
-      "views": 98425
+      "views": 34360
     },
     {
       "id": "5Vo8N8YFVTQ",
       "title": "EXCLUSIVE: Giulia promises more brutality to Blake Monroe: SmackDown highlights, Oct. 16, 2026",
       "published": "2026-10-17T15:36:40+00:00",
       "promotion": "WWE",
-      "views": 86377
+      "views": 112337
     },
     {
       "id": "MpRw0Lul61s",
       "title": "Fallon Henley | WWE x Ram: Show of Power",
       "published": "2026-10-17T14:00:39+00:00",
       "promotion": "WWE",
-      "views": 125819
+      "views": 167565
     },
     {
       "id": "iR34T4skuHE",
       "title": "TABLES MATCH: syX vs. The Righteous (FULL MATCH) | TNA iMPACT! October 15, 2026",
       "published": "2026-10-17T14:00:27+00:00",
       "promotion": "TNA",
-      "views": 29961
+      "views": 39062
     },
     {
       "id": "D0DrUFmgIrM",
       "title": "FULL MATCH: Roxanne Perez vs. Rhea Ripley: WWE NXT, Oct. 18, 2022",
       "published": "2026-10-17T14:00:09+00:00",
       "promotion": "NXT",
-      "views": 38072
+      "views": 62600
     },
     {
       "id": "I7wLECprNmE",
       "title": "Full SmackDown highlights: Oct. 16, 2026",
       "published": "2026-10-17T02:59:02+00:00",
       "promotion": "WWE",
-      "views": 927805
+      "views": 998030
     },
     {
       "id": "hfw0i0152O0",
       "title": "Cody Rhodes PUNTS Baron Corbin in front of Randy Orton: SmackDown highlights, Oct. 16, 2026",
       "published": "2026-10-17T02:20:49+00:00",
       "promotion": "WWE",
-      "views": 833648
-    },
-    {
-      "id": "CSMa3khLmL8",
-      "title": "FULL MATCH: Shelton Benjamin vs Lio Rush | AEW Dynamite, 10/16/24",
-      "published": "2026-10-17T02:15:09+00:00",
-      "promotion": "AEW",
-      "views": 46775
+      "views": 886188
     },
     {
       "id": "NvWuQ-oHCfs",
       "title": "Baron Corbin interrupts Cody Rhodes: SmackDown highlights, Oct. 16, 2026",
       "published": "2026-10-17T02:14:50+00:00",
       "promotion": "WWE",
-      "views": 219652
+      "views": 234229
     },
     {
       "id": "cIFixo56ZzM",
       "title": "Ricky Saints beats down Rey Fenix: SmackDown highlights, Oct. 16, 2026",
       "published": "2026-10-17T02:10:51+00:00",
       "promotion": "WWE",
-      "views": 142343
-    },
-    {
-      "id": "cZl5Bjazwq0",
-      "title": "AEW WrestleDream Post Show Media Scrum | 10/17/26, Orlando, FL",
-      "published": "2026-10-17T01:55:51+00:00",
-      "promotion": "AEW",
-      "views": 0
-    },
-    {
-      "id": "tp8-cHF_78s",
-      "title": "Alexa Bliss and Tatum Paxley fight off Fatal Influence: SmackDown highlights, Oct. 16, 2026",
-      "published": "2026-10-17T01:49:53+00:00",
-      "promotion": "WWE",
-      "views": 250520
-    },
-    {
-      "id": "rDTBHTZe7c8",
-      "title": "Gunther gets duped by Danhausen: SmackDown highlights, Oct. 16, 2026",
-      "published": "2026-10-17T01:26:36+00:00",
-      "promotion": "WWE",
-      "views": 352577
-    },
-    {
-      "id": "giWc73ffZqg",
-      "title": "AEW WrestleDream, Tomorrow!",
-      "published": "2026-10-17T01:23:46+00:00",
-      "promotion": "AEW",
-      "views": 65291
-    },
-    {
-      "id": "RVxJSzd7saw",
-      "title": "AEW WrestleDream 2026 Cold Open",
-      "published": "2026-10-16T22:00:39+00:00",
-      "promotion": "AEW",
-      "views": 34963
-    },
-    {
-      "id": "z1y0Rk44Tcw",
-      "title": "HOW YOU KNOW? Andrade El Ídolo! | Close Up with Renee Paquette",
-      "published": "2026-10-16T21:00:07+00:00",
-      "promotion": "AEW",
-      "views": 29513
-    },
-    {
-      "id": "0J8kuVg2ZDo",
-      "title": "Everything You Need to Know About AEW WrestleDream",
-      "published": "2026-10-16T18:00:10+00:00",
-      "promotion": "AEW",
-      "views": 29868
+      "views": 151173
     },
     {
       "id": "YPpVS2TKo3o",
       "title": "Nic and Ryan Nemeth FORCED to Wrestle Each Other By Hardys | TNA iMPACT! October 15, 2026",
       "published": "2026-10-16T17:00:33+00:00",
       "promotion": "TNA",
-      "views": 73208
-    },
-    {
-      "id": "-LNAf9RTmZ0",
-      "title": "The Very Best of WrestleDream | AEW Timelines",
-      "published": "2026-10-16T16:00:09+00:00",
-      "promotion": "AEW",
-      "views": 39419
+      "views": 76427
     },
     {
       "id": "ggUNRxJeGus",
       "title": "LADDER MATCH to Determine No. 1 Contender for the World Title | TNA iMPACT! October 15, 2026",
       "published": "2026-10-16T14:00:37+00:00",
       "promotion": "TNA",
-      "views": 54354
+      "views": 57287
     },
     {
       "id": "xPR-BTeK-Vs",
       "title": "FULL EPISODE: “Dirty” Dom vs. Dragon Lee; Breakker vs. Wagner | WWE NXT, Aug. 8, 2023",
       "published": "2026-10-16T12:00:06+00:00",
       "promotion": "NXT",
-      "views": 18722
+      "views": 19652
     },
     {
       "id": "Sm1LILsRc3A",
       "title": "【NJPW Full Match】ディック東郷 vs 獣神サンダー・ライガー／1996.6.17 東京・日本武道館",
       "published": "2026-10-16T11:00:10+00:00",
       "promotion": "NJPW",
-      "views": 139778
-    },
-    {
-      "id": "Wn7qrUJocJo",
-      "title": "FULL MATCH: Riho vs Britt Baker - AEW Women's World Championship | AEW Dynamite, 10/16/19",
-      "published": "2026-10-16T10:00:30+00:00",
-      "promotion": "AEW",
-      "views": 55200
+      "views": 146261
     },
     {
       "id": "dDoBxvDuhnM",
       "title": "【音声のみ】外道選手のPodcast『Junk Yard Radio』第42回「外道と“試される大地”」",
       "published": "2026-10-16T08:00:31+00:00",
       "promotion": "NJPW",
-      "views": 6020
+      "views": 6274
     },
     {
       "id": "CrUZa_dFkao",
       "title": "Expressions Makes Pro Wrestling DEBUT Against The Hardys | TNA iMPACT! October 15, 2026",
       "published": "2026-10-16T03:00:24+00:00",
       "promotion": "TNA",
-      "views": 87478
+      "views": 91848
     },
     {
       "id": "pbmxODeEnO0",
       "title": "Celebrating the 35 Year Legacy of The Hardys | TNA iMPACT! October 15, 2026",
       "published": "2026-10-16T02:30:11+00:00",
       "promotion": "TNA",
-      "views": 125780
+      "views": 129817
     },
     {
       "id": "-ygBEffKsmE",
       "title": "Behind the scenes of “Agent of Shadows” | Debuts Oct. 23 on ReelShort",
       "published": "2026-10-15T19:10:23+00:00",
       "promotion": "NXT",
-      "views": 29008
+      "views": 29682
     },
     {
       "id": "qR1eM94hvo0",
       "title": "FULL MATCH: Raquel Gonzalez vs. Mandy Rose | Trick or Street Fight: NXT Halloween Havoc 2021",
       "published": "2026-10-15T14:00:21+00:00",
       "promotion": "NXT",
-      "views": 93757
+      "views": 98096
     },
     {
       "id": "grNddGf3srA",
       "title": "Jason Hotch WINS TNA International Title | TNA Bound For Glory 2026",
       "published": "2026-10-14T23:00:22+00:00",
       "promotion": "TNA",
-      "views": 52128
+      "views": 52579
     },
     {
       "id": "8aYRh0xM9X8",
       "title": "Indi Hartwell WINS Knockouts World Title | TNA Bound For Glory 2026",
       "published": "2026-10-14T20:00:11+00:00",
       "promotion": "TNA",
-      "views": 74620
+      "views": 75637
     },
     {
       "id": "OYwcq6RbuXI",
       "title": "Amazing Red WINS X-Division Title | TNA Bound For Glory 2026",
       "published": "2026-10-14T17:00:29+00:00",
       "promotion": "TNA",
-      "views": 49874
+      "views": 50279
     },
     {
       "id": "TIo8RzJbKiw",
       "title": "Shayna Baszler and Zoey Serrano WIN Knockouts World Tag Team Titles | TNA Bound For Glory 2026",
       "published": "2026-10-14T14:01:24+00:00",
       "promotion": "TNA",
-      "views": 63725
+      "views": 64404
     },
     {
       "id": "ujoKaWZZYzk",
       "title": "Tiffany Stratton’s amazing NXT Women’s Championship reign",
       "published": "2026-10-14T14:00:37+00:00",
       "promotion": "NXT",
-      "views": 75722
+      "views": 77710
     },
     {
       "id": "8-xsYNbcQ9w",
       "title": "【今すぐ登録！】新日本プロレスのLIVE＆見逃し配信『NJPW WORLD』は特別コンテンツも大充実！",
       "published": "2026-10-14T09:00:12+00:00",
       "promotion": "NJPW",
-      "views": 21304
+      "views": 21520
     },
     {
       "id": "sjN7xYc1DDw",
       "title": "TNA Destination X 2005 (FULL EVENT) | Jarrett vs. DDP, Hardy vs. Abyss, Ultimate X",
       "published": "2026-10-13T21:00:00+00:00",
       "promotion": "TNA",
-      "views": 22676
+      "views": 23158
     },
     {
       "id": "7FeNX9VdpAU",
       "title": "Gabby Forza & KC Navarro vs. Bear Bronson & Alisha Edwards | TNA Xplosion October 9, 2026",
       "published": "2026-10-13T16:00:07+00:00",
       "promotion": "TNA",
-      "views": 22925
+      "views": 23089
     },
     {
       "id": "4NUTpNxHc4o",
       "title": "『棚橋弘至のPodcastOff!』#371「絶賛発売中！『棚橋弘至現役完全写真集』を作ったのか!? 　湯沢さん渾身のセレクト、とにかく写真がいい！ 金額はお高めながら納得感アリの出来栄え！」",
       "published": "2026-10-13T04:30:30+00:00",
       "promotion": "NJPW",
-      "views": 14005
+      "views": 14167
     },
     {
       "id": "PLNOy7rftfk",
       "title": "【速報】ケニー・オメガから辻陽太にメッセージ…",
       "published": "2026-10-12T11:11:26+00:00",
       "promotion": "NJPW",
-      "views": 204174
+      "views": 206436
     },
     {
       "id": "w4WCfwS7tPw",
       "title": "【大会発表】『TANAHASHI JAM 2 by CSテレ朝チャンネル』開催決定！ - 2026.11.19 東京・後楽園ホール",
       "published": "2026-10-12T11:09:28+00:00",
       "promotion": "NJPW",
-      "views": 15725
+      "views": 15797
     },
     {
       "id": "FrJZqyCcpdY",
       "title": "【速報】ジョン・モクスリーからメッセージ",
       "published": "2026-10-12T11:08:50+00:00",
       "promotion": "NJPW",
-      "views": 35221
+      "views": 35411
     },
     {
       "id": "oeLn-RLWGkU",
       "title": "【煽りVTR】Yuto-Ice＆OSKAR＆ジェフ・コブvsウィル・オスプレイ＆HENARE＆グレート-O-カーン - NEVER無差別級6人タッグ選手権試合／2026.10.12 東京・両国国技館",
       "published": "2026-10-11T11:30:39+00:00",
       "promotion": "NJPW",
-      "views": 29153
+      "views": 29340
     },
     {
       "id": "prmkIhxrHz8",
       "title": "【煽りVTR】海野翔太 vs ゲイブ・キッド - IWGP GLOBALヘビー級選手権試合／2026.10.12 東京・両国国技館",
       "published": "2026-10-11T11:30:24+00:00",
       "promotion": "NJPW",
-      "views": 17098
+      "views": 17166
     },
     {
       "id": "23i795GSV0Y",
       "title": "【煽りVTR】ウルフアロン vs 藤田晃生 - NEVER無差別級選手権試合／2026.10.12 東京・両国国技館",
       "published": "2026-10-11T11:30:06+00:00",
       "promotion": "NJPW",
-      "views": 80112
+      "views": 80795
     },
     {
       "id": "Fc388UrtxVE",
       "title": "KING OF PRO-WRESTLING 2026 オープニングVTR／2026.10.12 東京・両国国技館 #njpw #njkopw",
       "published": "2026-10-11T11:30:06+00:00",
       "promotion": "NJPW",
-      "views": 62930
+      "views": 63064
     },
     {
       "id": "G1nZCSf22yY",
       "title": "【煽りVTR】辻陽太 vs 大岩陵平 - IWGPヘビー級選手権試合／2026.10.12 東京・両国国技館",
       "published": "2026-10-11T11:30:02+00:00",
       "promotion": "NJPW",
-      "views": 32632
-    },
-    {
-      "id": "xse2fytc7oE",
-      "title": "AEW WrestleDream  - LIVE on Pay Per View | Saturday, October 17 | 8pm ET / 5pm PT",
-      "published": "2026-10-10T20:47:33+00:00",
-      "promotion": "AEW",
-      "views": 2834
+      "views": 32964
     },
     {
       "id": "qWX61QSnhVw",
       "title": "【速報】突然現れたのは…ウィル・オスプレイ！／2026.10.10 新潟・魚沼市堀之内体育館",
       "published": "2026-10-10T13:43:46+00:00",
       "promotion": "NJPW",
-      "views": 364631
+      "views": 365188
     },
     {
       "id": "QWl6p8P5fdE",
       "title": "Arranque AAA Sin Límite - Tlahuelilpan Parte 2 - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 2720
+      "views": 2721
     },
     {
       "id": "SlUlBSOtH0M",
       "title": "Hijo del Perro Aguayo - Guerra de Titanes 2014 - Próximamente",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 4759
+      "views": 4760
     },
     {
       "id": "bM6UUMlzO5U",
