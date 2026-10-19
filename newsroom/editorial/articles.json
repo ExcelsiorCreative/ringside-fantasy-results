@@ -1,6 +1,164 @@
 {
-  "updatedAt": "2026-10-15T03:20:00Z",
+  "updatedAt": "2026-10-19T16:05:49.913Z",
   "articles": [
+    {
+      "id": "pc-week-2026-10-19-wwe",
+      "date": "2026-10-19",
+      "kind": "TV review",
+      "title": "WWE: A punt addressed to somebody else",
+      "dek": "SmackDown delivers its message through Corbin.",
+      "paragraphs": [
+        "Sacramento got a peculiar delivery service on October 16: Cody Rhodes sent Randy Orton a message using Baron Corbin as the envelope. SmackDown ended with Rhodes punting Corbin after Orton interfered in their match, producing a disqualification rather than a clean finish.",
+        "My take: the borrowed brutality is more interesting than another argument about respect. Rhodes is speaking Orton’s language, and Corbin has discovered the surcharge for standing near the conversation.",
+        "The danger is repetition. Another interrupted match could make this feud feel like a bus perpetually approaching. This time, the closing image supplied a destination. Orton escaped the kick; he did not escape the point."
+      ],
+      "sources": [
+        {
+          "title": "WWE: SmackDown results, October 16, 2026",
+          "url": "https://www.wwe.com/shows/smackdown/2026-10-16"
+        },
+        {
+          "title": "Fightful: SmackDown results, October 16, 2026",
+          "url": "https://www.fightful.com/wrestling/wwe-smackdown-results-10-16-2026-cody-rhodes-randy-orton-face-to-face-rey-fenix-vs-ricky-saints-more/"
+        }
+      ],
+      "promotions": [
+        "WWE"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-19-aew",
+      "date": "2026-10-19",
+      "kind": "TV review",
+      "title": "AEW: A handshake with installments",
+      "dek": "FTR and the Machine Guns choose a series.",
+      "paragraphs": [
+        "Cleveland’s October 14 Dynamite and Collision special found room for an unusually sensible wrestling proposition: settle the argument more than once. The Motor City Machine Guns challenged FTR to a best-of-five series, with the opener set for WrestleDream. The agreement ended in a tense handshake.",
+        "My take: a series gives tag wrestling something a crowded television card can struggle to supply: memory. A counter in one match can become a trap in the next; losing can teach something besides how to complain.",
+        "This review concerns Wednesday’s setup, not Saturday’s outcome. The attraction was the promise of accumulated consequences. In a business fond of instant explosions, somebody offered an installment plan."
+      ],
+      "sources": [
+        {
+          "title": "AEW: Dynamite and Collision results, October 14, 2026",
+          "url": "https://www.allelitewrestling.com/post/aew-dynamite-collision-results-october-14-2026"
+        },
+        {
+          "title": "Slam Wrestling: Dynamite and Collision results, October 14, 2026",
+          "url": "https://slamwrestling.net/news/aew-dynamite-collision-results-october-14-2026/"
+        }
+      ],
+      "promotions": [
+        "AEW"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-19-nxt",
+      "date": "2026-10-19",
+      "kind": "TV review",
+      "title": "NXT: The bracket declines your reputation",
+      "dek": "Dar and Moreno give the Dusty Cup teeth.",
+      "paragraphs": [
+        "The Dusty Rhodes Tag Team Classic did some useful housekeeping on October 13: it stopped treating reputation as a reservation. Noam Dar and Romeo Moreno defeated Fraxiom in the quarterfinals, while tag champions Brad Baylor and Ricky Smokes advanced past Chazz Hall and Mini Vikingo.",
+        "My take: those results give the tournament two different currencies. Vanity Project bring established gold; Dar and Moreno bring the credibility of eliminating Nathan Frazer and Axiom. Neither needs a borrowed main-roster spotlight to make the next round matter.",
+        "A bracket should change how we see its entrants, not simply organize their entrances. Fraxiom arrived with the pedigree; somebody else left with the forwarding address."
+      ],
+      "sources": [
+        {
+          "title": "WWE: NXT results, October 13, 2026",
+          "url": "https://www.wwe.com/shows/wwenxt/2026-10-13"
+        },
+        {
+          "title": "Slam Wrestling: NXT results, October 13, 2026",
+          "url": "https://slamwrestling.net/news/wwe-nxt-results-october-13-2026/"
+        }
+      ],
+      "promotions": [
+        "NXT"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-19-tna",
+      "date": "2026-10-19",
+      "kind": "TV review",
+      "title": "TNA: The anniversary comes with a ladder",
+      "dek": "The Hardys’ celebration gives Miguel a destination.",
+      "paragraphs": [
+        "An anniversary show can resemble a restaurant where every table orders nostalgia. On October 15, TNA handed matchmaking duties to the Hardys, and the celebration also served the present: Trey Miguel won a five-man ladder match to earn a world-title shot against Leon Slater at Destination X.",
+        "The field included Elijah, Moose, Ricky Sosa and Jason Hotch. The contract above them gave the evening a concrete consequence beyond congratulatory speeches.",
+        "My take: this is how a tribute earns its airtime. Let the honored guests shape somebody else’s tomorrow. Slater and Miguel finished with a handshake, leaving the birthday atmosphere attached to unfinished business. The booking had another rung."
+      ],
+      "sources": [
+        {
+          "title": "TNA: iMPACT results, October 15, 2026",
+          "url": "https://tnawrestling.com/news/tna-thursday-night-impact-on-amc-results-october-15-2026"
+        },
+        {
+          "title": "PWTorch: iMPACT report, October 15, 2026",
+          "url": "https://www.pwtorch.com/site/2026/10/15/tna-impact-tv-results-10-15-hardys-35-year-legacy-nemeth-vs-nemeth-the-righteous-vs-syx-hartwell-forza-hudson-vs-brookside-serrano-baszler/"
+        }
+      ],
+      "promotions": [
+        "TNA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-19-aaa",
+      "date": "2026-10-19",
+      "kind": "TV review",
+      "title": "AAA México: Trouble at the queens’ table",
+      "dek": "La Catalina turns a celebration into an argument.",
+      "paragraphs": [
+        "On AAA’s October 17 broadcast, taped October 3 in León, La Catalina’s address acquired opposition. Las Tóxicas interrupted, with Flammer disputing the new champion’s claim to a fresh chapter. Catalina answered by questioning the pecking order among the women confronting her.",
+        "My take: that is a better use of microphone time than exchanging interchangeable threats. A champion can defend her position by making challengers explain theirs. Suddenly the faction has something to argue about besides the person holding the belt.",
+        "Independent accounts differ on some conversational details, so the useful point is the shared outline: celebration became internal friction. Catalina brought a crown to the meeting and left them the minutes."
+      ],
+      "sources": [
+        {
+          "title": "AAA official coverage index via WWE",
+          "url": "https://www.wwe.com/shows/aaa"
+        },
+        {
+          "title": "F4W/WON: AAA on Fox report, October 17, 2026",
+          "url": "https://www.f4wonline.com/news/wwe/results/aaa-on-fox-live-results-october-17-2026/"
+        },
+        {
+          "title": "Súper Luchas: AAA coverage, October 17, 2026",
+          "url": "https://superluchas.com/lucha-libre-aaa-17-de-octubre-2026/"
+        }
+      ],
+      "promotions": [
+        "AAA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-19-njpw",
+      "date": "2026-10-19",
+      "kind": "Reported feature",
+      "title": "NJPW: The headlock holds the argument",
+      "dek": "Oiwa’s challenge survives his defeat.",
+      "paragraphs": [
+        "At King of Pro-Wrestling on October 12, Ryohei Oiwa failed to take Yota Tsuji’s IWGP Heavyweight Championship. The interesting part was how stubbornly the challenger made that failure wait. Independent reports describe Oiwa repeatedly reapplying his headlock while Tsuji fought to break free.",
+        "My take: a familiar hold becomes a main-event weapon when the match persuades us that escape costs something. Oiwa did not need a new invention; he needed the champion to have trouble with an old one.",
+        "Tsuji retained, and Kenny Omega’s subsequent appearance supplied the next commotion. But the match’s smaller argument deserves its own space. Before the surprise visitor arrived, a headlock had already made a persuasive introduction."
+      ],
+      "sources": [
+        {
+          "title": "NJPW: King of Pro-Wrestling official event page, October 12, 2026",
+          "url": "https://www.njpw1972.com/tornament/result/662775"
+        },
+        {
+          "title": "POST Wrestling: King of Pro-Wrestling results, October 12, 2026",
+          "url": "https://www.postwrestling.com/2026/10/12/njpw-king-of-pro-wrestling-2026-results-yota-tsuji-turns-back-ryohei-oiwa-to-retain-iwgp-heavyweight-title-kenny-omega-issues-challenge/"
+        },
+        {
+          "title": "PWTorch: King of Pro-Wrestling report, October 12, 2026",
+          "url": "https://www.pwtorch.com/site/2026/10/12/njpw-king-of-pro-wrestling-2026-results-10-12-lansdells-report-and-analysis-of-tsuji-vs-oiwa-kidd-vs-umino-yoh-vs-eagles-and-more/"
+        }
+      ],
+      "promotions": [
+        "NJPW"
+      ]
+    },
     {
       "id": "nxt-2026-10-13-camera",
       "date": "2026-10-14",
