@@ -1,7 +1,10 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-10-18T23:44:20Z",
-  "failed": [],
+  "fetchedAt": "2026-10-19T01:50:34Z",
+  "failed": [
+    "AEW",
+    "TNA"
+  ],
   "items": [
     {
       "id": "4ojyW0apZz8",
@@ -36,21 +39,21 @@
       "title": "FULL MATCH: Charlotte Flair vs. Bianca Belair | Raw Women’s Title Match: Raw, Oct. 18, 2021",
       "published": "2026-10-18T13:00:09+00:00",
       "promotion": "WWE",
-      "views": 130465
+      "views": null
     },
     {
       "id": "Zf04LhZxVxQ",
       "title": "Badass Oba Femi moments: WWE Top 10, Oct. 18, 2026",
       "published": "2026-10-18T12:00:39+00:00",
       "promotion": "WWE",
-      "views": 133924
+      "views": null
     },
     {
       "id": "A_FWxQuieHs",
       "title": "FULL EPISODE: Hayes & Lee sign contract for Heatwave; Jayne vs. Hail | WWE NXT, Aug. 15, 2023",
       "published": "2026-10-18T12:00:36+00:00",
       "promotion": "NXT",
-      "views": 8901
+      "views": 9723
     },
     {
       "id": "cZl5Bjazwq0",
@@ -162,35 +165,35 @@
       "title": "Abismo Negro Jr. helps Taurus defeat El Fiscal: Lucha Libre AAA highlights, Oct. 17, 2026",
       "published": "2026-10-18T03:00:35+00:00",
       "promotion": "WWE",
-      "views": 84275
+      "views": null
     },
     {
       "id": "dcYKAB7SIjk",
       "title": "Los Perros del Mal spark an epic brawl as Lucha Libre goes off the air: Lucha Libre AAA highlights",
       "published": "2026-10-18T03:00:16+00:00",
       "promotion": "WWE",
-      "views": 61148
+      "views": null
     },
     {
       "id": "TCzZW7jkJYY",
       "title": "La Catalina pits Flammer and La Hiedra against each other: Lucha Libre AAA highlights, Oct. 17, 2026",
       "published": "2026-10-18T03:00:13+00:00",
       "promotion": "WWE",
-      "views": 84895
+      "views": null
     },
     {
       "id": "6BZE-fPtCCI",
       "title": "FULL EPISODE: Lucha Libre AAA, Oct. 17, 2026",
       "published": "2026-10-18T02:58:31+00:00",
       "promotion": "WWE",
-      "views": 181059
+      "views": null
     },
     {
       "id": "m7KwVustuAI",
       "title": "Top 10 Friday Night SmackDown moments: WWE Top 10, Oct. 16, 2026",
       "published": "2026-10-17T19:00:10+00:00",
       "promotion": "WWE",
-      "views": 401333
+      "views": null
     },
     {
       "id": "onosDLLdPkE",
@@ -204,14 +207,14 @@
       "title": "EXCLUSIVE: Giulia promises more brutality to Blake Monroe: SmackDown highlights, Oct. 16, 2026",
       "published": "2026-10-17T15:36:40+00:00",
       "promotion": "WWE",
-      "views": 125398
+      "views": null
     },
     {
       "id": "MpRw0Lul61s",
       "title": "Fallon Henley | WWE x Ram: Show of Power",
       "published": "2026-10-17T14:00:39+00:00",
       "promotion": "WWE",
-      "views": 215984
+      "views": null
     },
     {
       "id": "iR34T4skuHE",
@@ -225,7 +228,7 @@
       "title": "FULL MATCH: Roxanne Perez vs. Rhea Ripley: WWE NXT, Oct. 18, 2022",
       "published": "2026-10-17T14:00:09+00:00",
       "promotion": "NXT",
-      "views": 83395
+      "views": 84856
     },
     {
       "id": "YPpVS2TKo3o",
@@ -246,21 +249,21 @@
       "title": "FULL EPISODE: “Dirty” Dom vs. Dragon Lee; Breakker vs. Wagner | WWE NXT, Aug. 8, 2023",
       "published": "2026-10-16T12:00:06+00:00",
       "promotion": "NXT",
-      "views": 20386
+      "views": 20455
     },
     {
       "id": "Sm1LILsRc3A",
       "title": "【NJPW Full Match】ディック東郷 vs 獣神サンダー・ライガー／1996.6.17 東京・日本武道館",
       "published": "2026-10-16T11:00:10+00:00",
       "promotion": "NJPW",
-      "views": 153937
+      "views": null
     },
     {
       "id": "dDoBxvDuhnM",
       "title": "【音声のみ】外道選手のPodcast『Junk Yard Radio』第42回「外道と“試される大地”」",
       "published": "2026-10-16T08:00:31+00:00",
       "promotion": "NJPW",
-      "views": 6795
+      "views": null
     },
     {
       "id": "CrUZa_dFkao",
@@ -281,14 +284,14 @@
       "title": "Behind the scenes of “Agent of Shadows” | Debuts Oct. 23 on ReelShort",
       "published": "2026-10-15T19:10:23+00:00",
       "promotion": "NXT",
-      "views": 30365
+      "views": 30408
     },
     {
       "id": "qR1eM94hvo0",
       "title": "FULL MATCH: Raquel Gonzalez vs. Mandy Rose | Trick or Street Fight: NXT Halloween Havoc 2021",
       "published": "2026-10-15T14:00:21+00:00",
       "promotion": "NXT",
-      "views": 101872
+      "views": 102185
     },
     {
       "id": "grNddGf3srA",
@@ -316,84 +319,84 @@
       "title": "Tiffany Stratton’s amazing NXT Women’s Championship reign",
       "published": "2026-10-14T14:00:37+00:00",
       "promotion": "NXT",
-      "views": 80349
+      "views": 80597
     },
     {
       "id": "8-xsYNbcQ9w",
       "title": "【今すぐ登録！】新日本プロレスのLIVE＆見逃し配信『NJPW WORLD』は特別コンテンツも大充実！",
       "published": "2026-10-14T09:00:12+00:00",
       "promotion": "NJPW",
-      "views": 21880
+      "views": null
     },
     {
       "id": "4NUTpNxHc4o",
       "title": "『棚橋弘至のPodcastOff!』#371「絶賛発売中！『棚橋弘至現役完全写真集』を作ったのか!? 　湯沢さん渾身のセレクト、とにかく写真がいい！ 金額はお高めながら納得感アリの出来栄え！」",
       "published": "2026-10-13T04:30:30+00:00",
       "promotion": "NJPW",
-      "views": 14380
+      "views": null
     },
     {
       "id": "PLNOy7rftfk",
       "title": "【速報】ケニー・オメガから辻陽太にメッセージ…",
       "published": "2026-10-12T11:11:26+00:00",
       "promotion": "NJPW",
-      "views": 208998
+      "views": null
     },
     {
       "id": "w4WCfwS7tPw",
       "title": "【大会発表】『TANAHASHI JAM 2 by CSテレ朝チャンネル』開催決定！ - 2026.11.19 東京・後楽園ホール",
       "published": "2026-10-12T11:09:28+00:00",
       "promotion": "NJPW",
-      "views": 15872
+      "views": null
     },
     {
       "id": "FrJZqyCcpdY",
       "title": "【速報】ジョン・モクスリーからメッセージ",
       "published": "2026-10-12T11:08:50+00:00",
       "promotion": "NJPW",
-      "views": 35658
+      "views": null
     },
     {
       "id": "oeLn-RLWGkU",
       "title": "【煽りVTR】Yuto-Ice＆OSKAR＆ジェフ・コブvsウィル・オスプレイ＆HENARE＆グレート-O-カーン - NEVER無差別級6人タッグ選手権試合／2026.10.12 東京・両国国技館",
       "published": "2026-10-11T11:30:39+00:00",
       "promotion": "NJPW",
-      "views": 29586
+      "views": null
     },
     {
       "id": "prmkIhxrHz8",
       "title": "【煽りVTR】海野翔太 vs ゲイブ・キッド - IWGP GLOBALヘビー級選手権試合／2026.10.12 東京・両国国技館",
       "published": "2026-10-11T11:30:24+00:00",
       "promotion": "NJPW",
-      "views": 17298
+      "views": null
     },
     {
       "id": "23i795GSV0Y",
       "title": "【煽りVTR】ウルフアロン vs 藤田晃生 - NEVER無差別級選手権試合／2026.10.12 東京・両国国技館",
       "published": "2026-10-11T11:30:06+00:00",
       "promotion": "NJPW",
-      "views": 81697
+      "views": null
     },
     {
       "id": "Fc388UrtxVE",
       "title": "KING OF PRO-WRESTLING 2026 オープニングVTR／2026.10.12 東京・両国国技館 #njpw #njkopw",
       "published": "2026-10-11T11:30:06+00:00",
       "promotion": "NJPW",
-      "views": 63178
+      "views": null
     },
     {
       "id": "G1nZCSf22yY",
       "title": "【煽りVTR】辻陽太 vs 大岩陵平 - IWGPヘビー級選手権試合／2026.10.12 東京・両国国技館",
       "published": "2026-10-11T11:30:02+00:00",
       "promotion": "NJPW",
-      "views": 33640
+      "views": null
     },
     {
       "id": "qWX61QSnhVw",
       "title": "【速報】突然現れたのは…ウィル・オスプレイ！／2026.10.10 新潟・魚沼市堀之内体育館",
       "published": "2026-10-10T13:43:46+00:00",
       "promotion": "NJPW",
-      "views": 365751
+      "views": null
     },
     {
       "id": "QWl6p8P5fdE",
