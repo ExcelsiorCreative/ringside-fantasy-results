@@ -1,7 +1,9 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-10-25T00:14:23Z",
+  "fetchedAt": "2026-10-25T04:54:42Z",
   "failed": [
+    "WWE",
+    "AEW",
     "TNA",
     "NXT",
     "AAA",
