@@ -1,14 +1,19 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-10-24T22:00:18Z",
-  "failed": [],
+  "fetchedAt": "2026-10-25T00:14:23Z",
+  "failed": [
+    "TNA",
+    "NXT",
+    "AAA",
+    "NJPW"
+  ],
   "items": [
     {
       "id": "Q2mGkg8R0G4",
       "title": "Top 10 SmackDown moments: WWE Top 10, Oct. 23, 2026",
       "published": "2026-10-24T19:00:05+00:00",
       "promotion": "WWE",
-      "views": 40333
+      "views": 77621
     },
     {
       "id": "RcexrJ5vJJY",
@@ -43,63 +48,63 @@
       "title": "FULL MATCH: Chris Jericho vs Mark Briscoe in the ROH World Championship Ladder War Match! | 10/23/24",
       "published": "2026-10-24T12:00:21+00:00",
       "promotion": "AEW",
-      "views": 28065
+      "views": 30110
     },
     {
       "id": "o77YX3Y3iHw",
       "title": "Full SmackDown highlights: Oct.23, 2026",
       "published": "2026-10-24T03:27:57+00:00",
       "promotion": "WWE",
-      "views": 930343
+      "views": 959223
     },
     {
       "id": "Sx_sN_0rxPg",
       "title": "EXCLUSIVE: Gunther vows to make Danhausen’s SmackDown special: SmackDown highlights",
       "published": "2026-10-24T03:11:21+00:00",
       "promotion": "WWE",
-      "views": 181339
+      "views": 187643
     },
     {
       "id": "RZW9s9cNIIk",
       "title": "Penta, Trick Williams & Rey Fenix vs. Sami Zayn, Johnny Gargano & Ricky Saints: SmackDown highlights",
       "published": "2026-10-24T02:27:46+00:00",
       "promotion": "WWE",
-      "views": 253511
+      "views": 259242
     },
     {
       "id": "kdt3Uc3G0rc",
       "title": "Ricky Saints crashes Williams & Fenix vs. Zayn & Gargano: SmackDown highlights, Oct. 23, 2026",
       "published": "2026-10-24T02:23:28+00:00",
       "promotion": "WWE",
-      "views": 160908
+      "views": 164764
     },
     {
       "id": "jKyTN-mwqaM",
       "title": "Bakusai engage The MFTs in a CHAOTIC BRAWL after Kyoki steals Haku’s staff: SmackDown highlights",
       "published": "2026-10-24T02:17:07+00:00",
       "promotion": "WWE",
-      "views": 320362
+      "views": 327898
     },
     {
       "id": "sku6jA55QG4",
       "title": "FULL SEGMENT: Cody Rhodes challenges Randy Orton to a Last Man Standing Match: SmackDown highlights",
       "published": "2026-10-24T02:13:10+00:00",
       "promotion": "WWE",
-      "views": 429456
+      "views": 440518
     },
     {
       "id": "LRO-XpWA7Z0",
       "title": "CM Punk and Kevin Owens trade insults during intense interview: SmackDown highlights, Oct. 23, 2026",
       "published": "2026-10-24T02:11:48+00:00",
       "promotion": "WWE",
-      "views": 293838
+      "views": 304467
     },
     {
       "id": "tsxCDxTcYc8",
       "title": "Michin & B-Fab win the WWE Women’s Tag Team Title with Jade Cargill’s help: SmackDown highlights",
       "published": "2026-10-24T01:57:08+00:00",
       "promotion": "WWE",
-      "views": 198226
+      "views": null
     },
     {
       "id": "INPL2x0ZsAw",
@@ -120,7 +125,7 @@
       "title": "Best of WWE Street Fights: Full Match Marathon",
       "published": "2026-10-23T13:49:33+00:00",
       "promotion": "WWE",
-      "views": 190162
+      "views": 211413
     },
     {
       "id": "qEhHf_Fmmis",
@@ -148,7 +153,7 @@
       "title": "FULL MATCH: Bryan Danielson vs Dustin Rhodes | AEW Dynamite, 10/23/21",
       "published": "2026-10-23T08:00:32+00:00",
       "promotion": "AEW",
-      "views": 42989
+      "views": 43354
     },
     {
       "id": "YjwtCLhHo70",
@@ -183,63 +188,56 @@
       "title": "FULL MATCH: Orange Cassidy vs Powerhouse Hobbs | AEW Rampage, 10/22/21",
       "published": "2026-10-22T12:00:37+00:00",
       "promotion": "AEW",
-      "views": 38321
+      "views": 38427
     },
     {
       "id": "--UYvkLQ_Zo",
       "title": "Swerve Strickland Challenges Hangman Page & Brodido to TEXAS DEATH! | AEW Dynamite, 10/21/26",
       "published": "2026-10-22T05:04:22+00:00",
       "promotion": "AEW",
-      "views": 149458
+      "views": 150279
     },
     {
       "id": "NnH-WQGnWqs",
       "title": "Ilja Dragunov's FIRST match in AEW! Dragunov vs \"Speedball\" Mike Bailey! | AEW Dynamite, 10/21/26",
       "published": "2026-10-22T03:53:25+00:00",
       "promotion": "AEW",
-      "views": 94654
+      "views": 95035
     },
     {
       "id": "HRj855wHfYQ",
       "title": "Ilja Dragunov's FIRST match in AEW! Dragunov vs \"Speedball\" Mike Bailey! | AEW Dynamite, 10/21/26",
       "published": "2026-10-22T03:49:45+00:00",
       "promotion": "AEW",
-      "views": 236982
+      "views": 238636
     },
     {
       "id": "MacMTnJ8uAE",
       "title": "Queen Aminata vs Maya World for the Number 1 Contender spot for TBS Title! | AEW Dynamite, 10/21/26",
       "published": "2026-10-22T03:28:58+00:00",
       "promotion": "AEW",
-      "views": 53479
+      "views": 53636
     },
     {
       "id": "6d9Z4AnGfsY",
       "title": "Queen Aminata vs Maya World for the Number 1 Contender spot for TBS Title! | AEW Dynamite, 10/21/26",
       "published": "2026-10-22T03:27:16+00:00",
       "promotion": "AEW",
-      "views": 37184
+      "views": 37240
     },
     {
       "id": "irE6QfSS6pA",
       "title": "Mercedes Moné and the AEW Women's World Title targeted by Marina Shafir! | AEW Dynamite, 10/21/26",
       "published": "2026-10-22T03:10:19+00:00",
       "promotion": "AEW",
-      "views": 142872
+      "views": 143875
     },
     {
       "id": "EEgl6dpyR6c",
       "title": "The Death Riders & Conglomeration LAID OUT by The Dogs & Bang Bang Gang! | AEW Dynamite, 10/21/26",
       "published": "2026-10-22T03:05:29+00:00",
       "promotion": "AEW",
-      "views": 214443
-    },
-    {
-      "id": "wjoPM2rWACk",
-      "title": "The Death Riders & Conglomeration LAID OUT by The Dogs & Bang Bang Gang! | AEW Dynamite, 10/21/26",
-      "published": "2026-10-22T03:05:23+00:00",
-      "promotion": "AEW",
-      "views": 65157
+      "views": 215297
     },
     {
       "id": "Mt4M1Ny4gF0",
