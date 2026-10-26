@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-10-19T16:05:49.913Z",
+  "updatedAt": "2026-10-26T16:05:27.919Z",
   "articles": [
+    {
+      "id": "pc-week-2026-10-26-wwe",
+      "date": "2026-10-26",
+      "kind": "TV review",
+      "title": "WWE: The shortest route to gold went through ringside",
+      "dek": "Michin and B-Fab win the titles after Jade Cargill supplies the punctuation.",
+      "paragraphs": [
+        "SmackDown brought the WWE Women’s Tag Team Championship to Ontario, California, on October 23 and sent it home with Michin and B-Fab. Alexa Bliss and Tatum Paxley were defending when Jade Cargill struck Paxley from ringside while the referee was displaced. Michin followed with a Styles Clash for the pin.",
+        "My take: the result gave the division movement, though the interference made the new champions’ first photograph feel crowded. WWE traded a young reign for an alliance with sharper edges, and now owes Michin and B-Fab a victory that belongs entirely to them.",
+        "Gold changes hands quickly in wrestling. Credibility requires a slightly longer layaway plan."
+      ],
+      "sources": [
+        {
+          "title": "WWE: SmackDown results, October 23, 2026",
+          "url": "https://www.wwe.com/shows/smackdown/2026-10-23"
+        },
+        {
+          "title": "Cageside Seats: Michin and B-Fab win WWE Women’s Tag Team titles",
+          "url": "https://www.cagesideseats.com/wwe/483105/michin-b-fab-new-wwe-womens-tag-team-champions-alexa-bliss-paxley-lose-jade-cargill-baddies"
+        }
+      ],
+      "promotions": [
+        "WWE"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-26-aew",
+      "date": "2026-10-26",
+      "kind": "TV review",
+      "title": "AEW: Dragunov arrives at closing time",
+      "dek": "A debut gets the main event and two emphatic full stops.",
+      "paragraphs": [
+        "AEW placed Ilja Dragunov’s first company match in the October 21 Dynamite main event opposite “Speedball” Mike Bailey. Bailey threatened with speed and a late cradle, but Dragunov won by pinfall after two D-Bombs, one directed at the knee and the finishing blow at the head.",
+        "My take: the slot mattered nearly as much as the result. A debut at closing time tells the audience to remember the name after the credits, while Bailey’s resistance kept the introduction from becoming a brochure.",
+        "AEW has not yet supplied Dragunov with a settled feud. It did give him the building’s last word, delivered with the subtlety of a dropped piano."
+      ],
+      "sources": [
+        {
+          "title": "AEW: Dynamite results, October 21, 2026",
+          "url": "https://www.allelitewrestling.com/post/aew-dynamite-results-october-21-2026"
+        },
+        {
+          "title": "Fightful: Ilja Dragunov wins AEW in-ring debut",
+          "url": "https://www.fightful.com/wrestling/335090-ilja-dragunov-aew/"
+        }
+      ],
+      "promotions": [
+        "AEW"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-26-nxt",
+      "date": "2026-10-26",
+      "kind": "TV review",
+      "title": "NXT: The count reached ten; the anger kept going",
+      "dek": "Cruz Montana and Dion Lennox turn a match into an eviction notice.",
+      "paragraphs": [
+        "NXT’s October 20 main event between Cruz Montana and Dion Lennox ended in a double count-out after their fight abandoned the ring. Lennox invoked Montana’s family, Montana snapped, and the violence expanded to DarkState before security led Montana away.",
+        "My take: a non-finish works when the missing winner is the point. This was less a contest than evidence that Montana’s self-control had left the building ahead of him. NXT framed the escalation as character, not administrative delay.",
+        "The risk comes next: another pull-apart without consequence would turn fury into furniture. For one night, though, the bell stopped the match and discovered it had no jurisdiction."
+      ],
+      "sources": [
+        {
+          "title": "WWE: NXT results, October 20, 2026",
+          "url": "https://www.wwe.com/shows/wwenxt/2026-10-20"
+        },
+        {
+          "title": "Fightful: WWE NXT results, October 20, 2026",
+          "url": "https://www.fightful.com/wrestling/wwe-nxt-results-10-20-2026-cruz-montana-vs-dion-lennox-dusty-cup-more/"
+        }
+      ],
+      "promotions": [
+        "NXT"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-26-tna",
+      "date": "2026-10-26",
+      "kind": "TV review",
+      "title": "TNA: Three falls and one clean exit",
+      "dek": "Jason Hotch closes the book on Mustafa Ali.",
+      "paragraphs": [
+        "TNA gave Jason Hotch and Mustafa Ali three falls on the October 22 iMPACT. Ali captured the first with a roll-up. Hotch received the second when Ali used the title belt and was disqualified. With the score level, Hotch avoided the Swanton 450 and drove Ali onto his knee for the deciding pin, retaining the International Championship.",
+        "My take: the format turned their history into arithmetic without making it feel like homework. Each fall changed the match’s temperature, and the final one belonged to Hotch’s wrestling rather than somebody else’s rescue.",
+        "Leon Slater congratulated him afterward. The feud closed with two champions standing, and no asterisk looking for a chair."
+      ],
+      "sources": [
+        {
+          "title": "TNA: iMPACT results, October 22, 2026",
+          "url": "https://tnawrestling.com/news/tna-thursday-night-impact-on-amc-results-october-22-2026"
+        },
+        {
+          "title": "Fightful: TNA iMPACT results, October 22, 2026",
+          "url": "https://www.fightful.com/wrestling/tna-impact-results-10-22-mustafa-ali-vs-jason-hotch/"
+        }
+      ],
+      "promotions": [
+        "TNA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-26-aaa",
+      "date": "2026-10-26",
+      "kind": "TV review",
+      "title": "AAA México: Two challengers, one opening",
+      "dek": "La Catalina lets Las Tóxicas argue themselves out of a championship.",
+      "paragraphs": [
+        "AAA Héroes Inmortales opened its televised run on October 24 with La Catalina defending the Reina de Reinas Championship against Flammer and La Hiedra. The Las Tóxicas partners began cooperatively, then disagreed over pinfalls. Catalina used the fracture and defeated Flammer with a running knee to retain.",
+        "My take: triple threats often promise chaos and deliver traffic. This one had a useful map: the champion survived because the challengers valued individual possession over collective strategy. The finish advanced Catalina while leaving a faction argument on the table.",
+        "A champion cannot always choose her opponents. She can, apparently, wait until they choose each other—and keep the receipt."
+      ],
+      "sources": [
+        {
+          "title": "AAA: Héroes Inmortales Week 1 results, October 24, 2026",
+          "url": "https://www.wwe.com/shows/aaa/aaa-heroes-inmortales-week-1-results"
+        },
+        {
+          "title": "Pro Wrestling Dot Net: AAA results, October 24, 2026",
+          "url": "https://prowrestling.net/site/2026/10/25/aaa-lucha-libre-worldwide-results-10-24-vetters-review-of-dominik-mysterio-vs-grande-americano-la-catalina-vs-la-hiedra-vs-flammer-for-the-aaa-reina-de-reinas-championship/"
+        }
+      ],
+      "promotions": [
+        "AAA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-10-26-njpw",
+      "date": "2026-10-26",
+      "kind": "Reported feature",
+      "title": "NJPW: The Sweet Boys collect a serious win",
+      "dek": "Eagles and Fujita stop The Swirl in Korakuen Hall.",
+      "paragraphs": [
+        "Robbie Eagles and Kosei Fujita met AEW visitors Blake Christian and Lee Johnson in the October 25 Super Junior Tag League main event at Korakuen Hall. The Swirl controlled long stretches, but the Ichiban Sweet Boys rallied and pinned Johnson after the Interceptor, moving to two tournament wins.",
+        "My take: round-robin wrestling needs victories that alter more than a spreadsheet. Beating the visiting team gave Eagles and Fujita a statement, while Christian and Johnson left with proof that sustained control is not the same as closing.",
+        "The tournament still has miles to travel. On Sunday, the Sweet Boys found that the quickest route through a Swirl was straight down the middle."
+      ],
+      "sources": [
+        {
+          "title": "NJPW: Super Junior Tag League official results index",
+          "url": "https://www.njpw.co.jp/"
+        },
+        {
+          "title": "POST Wrestling: Super Junior Tag League report, October 25, 2026",
+          "url": "https://www.postwrestling.com/2026/10/25/nick-wayne-kushida-earn-first-win-in-njpw-super-junior-tag-league/"
+        }
+      ],
+      "promotions": [
+        "NJPW"
+      ]
+    },
     {
       "id": "pc-week-2026-10-19-wwe",
       "date": "2026-10-19",
