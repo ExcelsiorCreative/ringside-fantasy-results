@@ -1,7 +1,13 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-10-26T21:50:59Z",
-  "failed": [],
+  "fetchedAt": "2026-10-27T00:56:17Z",
+  "failed": [
+    "WWE",
+    "TNA",
+    "NXT",
+    "AAA",
+    "NJPW"
+  ],
   "items": [
     {
       "id": "I_aMyn8gGDI",
@@ -64,7 +70,7 @@
       "title": "FULL MATCH: Bryan Danielson vs Sammy Guevara | AEW Dynamite, 10/26/22",
       "published": "2026-10-26T07:00:15+00:00",
       "promotion": "AEW",
-      "views": 64469
+      "views": null
     },
     {
       "id": "-jpizfktIzI",
@@ -78,7 +84,7 @@
       "title": "FULL MATCH: Hangman Page & The Young Bucks vs The Hardys & Isiah Kassidy | AEW Dynamite, 10/25/23",
       "published": "2026-10-26T01:00:27+00:00",
       "promotion": "AEW",
-      "views": 47066
+      "views": null
     },
     {
       "id": "DOL1Kh5zhXc",
@@ -92,7 +98,7 @@
       "title": "EXCLUSIVE: Jay White Introduces The Cut and Sends a WARNING to Jon Moxley & The Death Riders!",
       "published": "2026-10-25T15:58:56+00:00",
       "promotion": "AEW",
-      "views": 102203
+      "views": null
     },
     {
       "id": "cEs1wP_Bkuw",
@@ -120,70 +126,70 @@
       "title": "Jon Moxley & Orange Cassidy lead a BRAWL with The Last Outfit! | AEW Collision, 10/24/26",
       "published": "2026-10-25T03:10:01+00:00",
       "promotion": "AEW",
-      "views": 155618
+      "views": null
     },
     {
       "id": "Zyi6GLuxlpw",
       "title": "Jon Moxley & Orange Cassidy lead a BRAWL with The Last Outfit! | AEW Collision, 10/24/26",
       "published": "2026-10-25T03:10:01+00:00",
       "promotion": "AEW",
-      "views": 43956
+      "views": null
     },
     {
       "id": "gWe7V2jSA-o",
       "title": "Willow Nightingale calls for BLOOD AND GUTS! | AEW Collision, 10/24/26",
       "published": "2026-10-25T03:05:39+00:00",
       "promotion": "AEW",
-      "views": 73256
+      "views": null
     },
     {
       "id": "pwpYuaEYAI0",
       "title": "Willow Nightingale calls for BLOOD AND GUTS! | AEW Collision, 10/24/26",
       "published": "2026-10-25T03:05:12+00:00",
       "promotion": "AEW",
-      "views": 39998
+      "views": null
     },
     {
       "id": "3HhrTC2D58s",
       "title": "Swerve Strickland vs Myron Reed | AEW Collision, 10/24/26",
       "published": "2026-10-25T03:00:34+00:00",
       "promotion": "AEW",
-      "views": 52176
+      "views": null
     },
     {
       "id": "Fg3D9YkCapE",
       "title": "Swerve Strickland vs Myron Reed | AEW Collision, 10/24/26",
       "published": "2026-10-25T03:00:25+00:00",
       "promotion": "AEW",
-      "views": 28585
+      "views": null
     },
     {
       "id": "QD9yISMmims",
       "title": "Adam Copeland makes a SURPRISE appearance and is out for REVENGE! | AEW Collision, 10/24/26",
       "published": "2026-10-25T02:55:38+00:00",
       "promotion": "AEW",
-      "views": 128692
+      "views": null
     },
     {
       "id": "hkYStHokAVs",
       "title": "Adam Copeland makes a SURPRISE appearance and is out for REVENGE! | AEW Collision, 10/24/26",
       "published": "2026-10-25T02:55:22+00:00",
       "promotion": "AEW",
-      "views": 126358
+      "views": null
     },
     {
       "id": "HxzI9eEoG04",
       "title": "It's Jon Moxley's move now! | AEW Collision, 10/24/26",
       "published": "2026-10-25T02:50:22+00:00",
       "promotion": "AEW",
-      "views": 121971
+      "views": null
     },
     {
       "id": "opvOB4esqtU",
       "title": "It's Jon Moxley's move now! | AEW Collision, 10/24/26",
       "published": "2026-10-25T02:50:14+00:00",
       "promotion": "AEW",
-      "views": 115349
+      "views": null
     },
     {
       "id": "EcfJrqh0OyI",
