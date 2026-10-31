@@ -1,7 +1,13 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-10-30T23:09:37Z",
-  "failed": [],
+  "fetchedAt": "2026-10-31T02:29:55Z",
+  "failed": [
+    "WWE",
+    "TNA",
+    "NXT",
+    "AAA",
+    "NJPW"
+  ],
   "items": [
     {
       "id": "NjQpF2QyZrU",
@@ -36,7 +42,7 @@
       "title": "EVERY Blood & Guts Match in AEW! ⛓️🩸",
       "published": "2026-10-30T15:00:09+00:00",
       "promotion": "AEW",
-      "views": 50762
+      "views": 58266
     },
     {
       "id": "mWmg9yxqWOA",
@@ -71,7 +77,7 @@
       "title": "FULL MATCH: Kazuchika Okada vs Tommaso Ciampa - AEW International Championship | AEW All Out 2026",
       "published": "2026-10-30T10:00:09+00:00",
       "promotion": "AEW",
-      "views": 71458
+      "views": 75767
     },
     {
       "id": "N5021nyEoLo",
@@ -162,7 +168,7 @@
       "title": "FULL MATCH: CHICAGO STREET FIGHT! Brawling Birds vs Divine Dominion | AEW All Out 2026",
       "published": "2026-10-29T10:00:29+00:00",
       "promotion": "AEW",
-      "views": 148665
+      "views": 151417
     },
     {
       "id": "2eUyXnJX3DQ",
@@ -183,42 +189,42 @@
       "title": "She's your NEW TBS CHAMPION! Queen Aminata gets the TREAT at AEW Fright Night Dynamite!",
       "published": "2026-10-29T03:45:29+00:00",
       "promotion": "AEW",
-      "views": 139469
+      "views": 142494
     },
     {
       "id": "7mZnJq0Ayqk",
       "title": "She's your NEW TBS CHAMPION! Queen Aminata gets the TREAT at AEW Fright Night Dynamite!",
       "published": "2026-10-29T03:45:11+00:00",
       "promotion": "AEW",
-      "views": 65852
+      "views": 67003
     },
     {
       "id": "_LLWmUJoVpQ",
       "title": "Darby Allin & Steven Borden are READY for BLOOD & GUTS! | AEW Fright Night Dynamite 2026",
       "published": "2026-10-29T03:35:35+00:00",
       "promotion": "AEW",
-      "views": 59256
+      "views": 60269
     },
     {
       "id": "AJ4mQSVbrxk",
       "title": "IT'S STEVEN BORDEN! Darby Allin gets backup against Josh Alexander | AEW Fright Night Dynamite 2026",
       "published": "2026-10-29T03:30:17+00:00",
       "promotion": "AEW",
-      "views": 124969
+      "views": 126578
     },
     {
       "id": "wYLVDR3WubE",
       "title": "IT'S STEVEN BORDEN! Darby Allin gets backup against Josh Alexander | AEW Fright Night Dynamite 2026",
       "published": "2026-10-29T03:25:19+00:00",
       "promotion": "AEW",
-      "views": 95875
+      "views": 101019
     },
     {
       "id": "Y1HEc0bagUc",
       "title": "Jon Moxley & Claudio Castagnoli get LAID OUT by The Cut! | AEW Fright Night Dynamite 2026",
       "published": "2026-10-29T03:20:26+00:00",
       "promotion": "AEW",
-      "views": 132632
+      "views": 136009
     },
     {
       "id": "DgHIplWfFO0",
