@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-10-26T16:05:27.919Z",
+  "updatedAt": "2026-11-02T17:05:37.021Z",
   "articles": [
+    {
+      "id": "pc-week-2026-11-02-wwe",
+      "date": "2026-11-02",
+      "kind": "TV review",
+      "title": "WWE: Two champions beat the traffic",
+      "dek": "Liv Morgan and Sami Zayn kept their gold while cash-in attempts stalled at ringside.",
+      "paragraphs": [
+        "Raw in Fresno on October 26 turned Liv Morgan’s Women’s World Championship defense into a rush-hour pileup. Becky Lynch won by disqualification when The Judgment Day attacked, so Morgan kept the belt; Tiffany Stratton then arrived with her Money in the Bank briefcase, only for Dominik Mysterio to pull the champion clear.",
+        "My take: the scene worked because every interruption carried a separate bill. Lynch had the moral victory, Morgan had the title, and Stratton had the contract but no receipt. Earlier, Sami Zayn retained the Undisputed WWE Championship over Je’Von Evans after Bron Breakker stopped Penta’s attempted cash-in.",
+        "Two champions escaped Fresno with their gold. Neither escaped the traffic report."
+      ],
+      "sources": [
+        {
+          "title": "WWE Raw results — October 26, 2026",
+          "url": "https://www.wwe.com/shows/raw/2026-10-26"
+        },
+        {
+          "title": "Fightful: WWE Raw results — October 26, 2026",
+          "url": "https://www.fightful.com/wrestling/wwe-raw-results-10-26-2026-bayley-vs-lyra-valkyria-in-a-no-disqualification-match-more/"
+        }
+      ],
+      "promotions": [
+        "WWE"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-02-aew",
+      "date": "2026-11-02",
+      "kind": "TV review",
+      "title": "AEW: Queen Aminata found the right forecast",
+      "dek": "Fright Night closed with the TBS Championship changing hands and the locker room filling the frame.",
+      "paragraphs": [
+        "Fright Night Dynamite in St. Louis on October 28 ended with Queen Aminata winning the TBS Championship from Persephone. Britt Baker struck Aminata with the belt during a referee distraction, but the challenger survived Persephone’s moonsault and finished with a headbutt and Off With Her Head. The locker room joined the celebration.",
+        "My take: AEW gave the title change the useful luxury of a main event and a clean emotional address. Elsewhere, Kyle Fletcher beat Jack Perry and secured a Full Gear challenge against World Champion Will Ospreay, while the Motor City Machine Guns moved ahead of FTR in their best-of-five series.",
+        "Confetti is wrestling’s municipal snow: brief, inconvenient and perfect when the forecast is right."
+      ],
+      "sources": [
+        {
+          "title": "AEW Fright Night Dynamite results — October 28, 2026",
+          "url": "https://www.allelitewrestling.com/post/aew-fright-night-dynamite-results-october-28-2026"
+        },
+        {
+          "title": "Pro Wrestling Dot Net: AEW Dynamite review — October 28, 2026",
+          "url": "https://prowrestling.net/site/2026/10/28/aew-dynamite-results-10-28-powells-review-of-fright-night-featuring-darby-allin-vs-josh-alexander-for-the-tnt-title-mcmg-vs-ftr-in-the-third-match-of-the-best-of-five-series/"
+        }
+      ],
+      "promotions": [
+        "AEW"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-02-nxt",
+      "date": "2026-11-02",
+      "kind": "TV review",
+      "title": "NXT: Grayson Waller’s door kept knocking",
+      "dek": "A crowbar preserved the NXT title before CM Punk supplied the next appointment.",
+      "paragraphs": [
+        "Halloween Havoc on October 31 put Grayson Waller and Tony D’Angelo through the furniture department before Waller retained the NXT Championship. A referee collision opened the door for Waller to use the D’Angelo Family crowbar, then land the Rolling Stunner. CM Punk appeared afterward and demanded a title opportunity.",
+        "My take: the main event’s props were less interesting than its last visitor. Punk’s challenge instantly moved Waller from neighborhood menace to a man with a famous caller downstairs. Kelani Jordan also retained the NXT Women’s Championship over Wren Sinclair by using the ropes during the pin.",
+        "Halloween ended at the Performance Center; the knock at Waller’s door did not."
+      ],
+      "sources": [
+        {
+          "title": "WWE: Full NXT Halloween Havoc 2026 results",
+          "url": "https://www.wwe.com/shows/nxtple/full-nxt-halloween-havoc-2026-results"
+        },
+        {
+          "title": "Fightful: WWE NXT Halloween Havoc results — October 31, 2026",
+          "url": "https://www.fightful.com/wrestling-news/wwe-nxt-halloween-havoc-results-10-31-2026-danhausen-hosts-grayson-waller-kelani-jordan-zilla-fatu-more/"
+        }
+      ],
+      "promotions": [
+        "NXT"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-02-tna",
+      "date": "2026-11-02",
+      "kind": "TV review",
+      "title": "TNA: The belts stayed; an employee left",
+      "dek": "Two champions retained on Impact while the Elegance Brand misplaced its gentleman.",
+      "paragraphs": [
+        "Thursday’s Impact from Dothan on October 29 staged two title defenses and one office resignation without a desk in sight. M by Elegance retained the Knockouts Television Championship over Jada Stone after Heather by Elegance interrupted a pin; Mr. Elegance then refused to hand over the belt and quit the group. M still found the winning fall.",
+        "My take: the match turned faction paperwork into the sharper hook. Amazing Red later retained the X-Division Championship against Cedric Alexander with a Codebreaker, while syX beat the Hardys by knockout in the Slaughterhouse syX main event.",
+        "The belts stayed put, but the Elegance Brand lost an employee on live television. Even glamour has an exit interview."
+      ],
+      "sources": [
+        {
+          "title": "TNA Impact results — October 29, 2026",
+          "url": "https://tnawrestling.com/news/tna-thursday-night-impact-on-amc-results-october-29-2026"
+        },
+        {
+          "title": "TPWW: TNA Impact results — October 29, 2026",
+          "url": "https://www.tpww.net/2026/10/tna-impact-results-oct-29-2026-the-hardys-vs-syx-in-slaughterhouse-syx-match-m-by-elegance-vs-jada-stone-amazing-red-vs-cedric-alexander/"
+        }
+      ],
+      "promotions": [
+        "TNA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-02-aaa",
+      "date": "2026-11-02",
+      "kind": "TV review",
+      "title": "AAA: Three matches, two titles, one roaming feud",
+      "dek": "Héroes Inmortales moved briskly while champions held firm and Pagano kept swinging.",
+      "paragraphs": [
+        "Héroes Inmortales Week 2 aired October 31 with three matches and no wasted corridor. Los Wagner Brothers retained the AAA World Tag Team Championship over Histeria and Taurus of Los Vipers. Pagano and El Carnicero then beat Murder Clown and Dave the Clown before continuing their attack, drawing Psycho Clown into the wreckage.",
+        "In the closer, Rey Fenix retained the AAA World Cruiserweight Championship over Laredo Kid, Jack Cartwheel and Takuma with the Mexican Muscle Buster. My take: the short card behaved like a good Mexico City taxi—several destinations, one meter, little ceremony.",
+        "Two titles stayed home; the Psycho Clown–Pagano quarrel kept roaming. Some feuds need a ring. This one wants the whole block."
+      ],
+      "sources": [
+        {
+          "title": "AAA Héroes Inmortales Week 2 results — October 31, 2026",
+          "url": "https://www.wwe.com/shows/aaa/aaa-h%C3%A9roes-inmortales-week-2-results-oct-31-2026"
+        },
+        {
+          "title": "Fightful: AAA Héroes Inmortales Week 2 results",
+          "url": "https://www.fightful.com/wrestling/aaa-heroes-inmortales-week-two-results-10-31/"
+        }
+      ],
+      "promotions": [
+        "AAA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-02-njpw",
+      "date": "2026-11-02",
+      "kind": "Reported feature",
+      "title": "NJPW: The arithmetic booked Hiroshima",
+      "dek": "Two 4–1 teams emerged from the Super Junior Tag League blocks with a final to settle.",
+      "paragraphs": [
+        "New Japan’s Super Junior Tag League finished its blocks over the weekend and booked a symmetrical final. Taiji Ishimori and Robbie X won A Block on October 31 by defeating KUSHIDA and Nick Wayne; Robbie Eagles and Kosei Fujita took B Block on November 1 by beating Hyo and YOH. Both finalists ended 4–1 with eight points.",
+        "My take: round robins earn their drama honestly, one small arithmetic emergency at a time. The final, set for Power Struggle on November 3, pairs a team that survived Saturday’s tiebreaker with one that grabbed Sunday’s last available chair.",
+        "The league has done its counting. Hiroshima gets the argument."
+      ],
+      "sources": [
+        {
+          "title": "NJPW: Super Junior Tag League results — November 1, 2026",
+          "url": "https://www.njpw1972.com/tornament/result/662780"
+        },
+        {
+          "title": "Fightful: NJPW Super Junior Tag League 2026 final set",
+          "url": "https://www.fightful.com/wrestling/njpw-super-junior-tag-league-2026-finals-set/"
+        }
+      ],
+      "promotions": [
+        "NJPW"
+      ]
+    },
     {
       "id": "pc-week-2026-10-26-wwe",
       "date": "2026-10-26",
