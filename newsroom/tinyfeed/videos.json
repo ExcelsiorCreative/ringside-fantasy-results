@@ -1,287 +1,280 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-04T02:39:54Z",
-  "failed": [
-    "WWE",
-    "AEW",
-    "TNA",
-    "NXT",
-    "AAA",
-    "NJPW"
-  ],
+  "fetchedAt": "2026-11-04T09:57:45Z",
+  "failed": [],
   "items": [
+    {
+      "id": "Z8_BlNgWOzI",
+      "title": "FULL MATCH: Wardlow & Samoa Joe vs Gates of Agony | AEW Rampage, 11/4/22",
+      "published": "2026-11-04T02:00:25+00:00",
+      "promotion": "AEW",
+      "views": 30270
+    },
     {
       "id": "xFUVGg-wiTY",
       "title": "TNA Destination X 2011 (FULL EVENT) | Styles vs. Daniels, Kaz vs. Joe, RVD vs. Lynn",
       "published": "2026-11-03T22:00:26+00:00",
       "promotion": "TNA",
-      "views": 324
+      "views": 9702
     },
     {
       "id": "jtTfj4uIfWM",
       "title": "Top 10 Monday Night Raw moments: WWE Top 10, Nov. 2, 2026",
       "published": "2026-11-03T20:00:25+00:00",
       "promotion": "WWE",
-      "views": 39402
+      "views": 406525
     },
     {
       "id": "qCi1ojKMvoY",
       "title": "Shazza McKenzie vs. B3cca | TNA Xplosion October 30, 2026",
       "published": "2026-11-03T17:01:23+00:00",
       "promotion": "TNA",
-      "views": 6361
+      "views": 12870
     },
     {
       "id": "2MAkbA9RReA",
-      "title": "FULL MATCH: Andrade El Ídolo vs Cody Rhodes | AEW Rampage, 11/3/21",
+      "title": "FULL MATCH: Andrade El Ídolo vs Cody Rhodes | AEW Dynamite, 11/3/21",
       "published": "2026-11-03T17:00:04+00:00",
       "promotion": "AEW",
-      "views": 13524
+      "views": 25475
     },
     {
       "id": "6KUdSTHW4lA",
       "title": "FULL MATCH: Lola Vice & The Culling vs. Fatal Influence: NXT, Nov. 4, 2025",
       "published": "2026-11-03T15:00:03+00:00",
       "promotion": "NXT",
-      "views": 32731
+      "views": 79106
     },
     {
       "id": "zKLOh-_oT3Y",
       "title": "【速報】謎の男からメッセージ「俺様に負けたらYOHは新日本プロレス即追放」→この後凄いことに！",
       "published": "2026-11-03T11:30:35+00:00",
       "promotion": "NJPW",
-      "views": 71030
+      "views": 78637
     },
     {
       "id": "5jGCxvfxHv0",
       "title": "【速報】MJFから再び大岩陵平へ…  #njpw #aew",
       "published": "2026-11-03T11:30:22+00:00",
       "promotion": "NJPW",
-      "views": 11011
+      "views": 13309
     },
     {
       "id": "gvMU-S8qj1M",
       "title": "【煽りVTR】石森太二＆ロビー・エックス vs ロビー・イーグルス＆藤田晃生 - 『SUPER Jr. TAG LEAGUE 2026』優勝決定戦／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T05:00:39+00:00",
       "promotion": "NJPW",
-      "views": 12049
+      "views": 12573
     },
     {
       "id": "7TSHwpbGH7Q",
       "title": "Ethan Page celebrates winning Intercontinental Title, Cruz Montana helps 946 | Raw Recap: WWE Now",
       "published": "2026-11-03T04:29:43+00:00",
       "promotion": "WWE",
-      "views": 118628
+      "views": 130347
     },
     {
       "id": "SqB3vG388-Y",
       "title": "Sami Zayn HELLUVA KICKS Roman Reigns after a 946 beatdown: Raw highlights, Nov. 2, 2026",
       "published": "2026-11-03T02:20:08+00:00",
       "promotion": "WWE",
-      "views": 710831
+      "views": 829109
     },
     {
       "id": "ZX85h3dbNOg",
       "title": "Cruz Montana levels Roman Reigns and joins The 946: Raw highlights, Nov. 2, 2026",
       "published": "2026-11-03T02:14:54+00:00",
       "promotion": "WWE",
-      "views": 1313144
+      "views": 1462337
     },
     {
       "id": "mqMWMtK1Czg",
       "title": "Royce Keys throws down with Solo Sikoa: Raw highlights, Nov. 2, 2026",
       "published": "2026-11-03T02:09:46+00:00",
       "promotion": "WWE",
-      "views": 291054
+      "views": 318140
     },
     {
       "id": "k2MfA0JT8fM",
       "title": "【煽りVTR】辻陽太 vs ボルチン・オレッグ vs ケニー・オメガ - スペシャル3WAYマッチ／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:40+00:00",
       "promotion": "NJPW",
-      "views": 16377
+      "views": 16994
     },
     {
       "id": "7d80JLB52FI",
       "title": "POWER STRUGGLE ～SUPER Jr. TAG LEAGUE 2026～ オープニングVTR／11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:21+00:00",
       "promotion": "NJPW",
-      "views": 35948
+      "views": 36643
     },
     {
       "id": "-CiKrjxgTtw",
       "title": "【煽りVTR】タイチ vs ゲイブ・キッド - IWGP GLOBALヘビー級選手権試合／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:15+00:00",
       "promotion": "NJPW",
-      "views": 32145
+      "views": 33339
     },
     {
       "id": "KknomH4ovws",
       "title": "【煽りVTR】Yuto-Ice＆OSKAR vs ウィル・オスプレイ＆カラム・ニューマン - IWGPタッグ選手権試合／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:12+00:00",
       "promotion": "NJPW",
-      "views": 20064
+      "views": 20974
     },
     {
       "id": "VPHuTA0fGiQ",
       "title": "TOP 10 Moments from TNA iMPACT! October 29, 2026",
       "published": "2026-11-02T21:00:28+00:00",
       "promotion": "TNA",
-      "views": 15836
+      "views": 20924
     },
     {
       "id": "mlu2lXSwees",
       "title": "FULL MATCH: Darby Allin vs Lance Archer | AEW Collision, 11/4/23",
       "published": "2026-11-02T17:30:00+00:00",
       "promotion": "AEW",
-      "views": 37970
+      "views": 40843
     },
     {
       "id": "9UrLVrzhy4g",
       "title": "Moose vs. Special Agent 0 (FULL MATCH) | TNA Rebellion 2026",
       "published": "2026-11-02T15:19:33+00:00",
       "promotion": "TNA",
-      "views": 26157
+      "views": 28920
     },
     {
       "id": "fP6oUv4bgDI",
       "title": "FULL EPISODE: Mysterio vs. Williams; Women’s Breakout Tournament begins | WWE NXT, Oct. 3, 2023",
       "published": "2026-11-02T13:00:03+00:00",
       "promotion": "NXT",
-      "views": 19848
+      "views": 22764
     },
     {
       "id": "l-jtgL_2cXI",
       "title": "【音声のみ】『KUSHIDAのナイショ話』第55回「ブラジルからタイ、そして魚沼まで！世界を駆け巡るクッシーの最新“現地”報告！ブラジルのプロレス『テレキャッチ』とは？」",
       "published": "2026-11-02T09:11:02+00:00",
       "promotion": "NJPW",
-      "views": 6249
+      "views": 6378
     },
     {
       "id": "WgfYC0iR1_w",
       "title": "【NJPW Full Match】YOH＆豹 vs ロビー・イーグルス＆藤田晃生／SUPER Jr. TAG LEAGUE 2026 - 11.1 岡山・赤磐市山陽ふれあい公園総合体育館",
       "published": "2026-11-02T08:00:26+00:00",
       "promotion": "NJPW",
-      "views": 59760
+      "views": 61734
     },
     {
       "id": "fETbXisbFg8",
       "title": "2009 TNA iMPACT Marathon!",
       "published": "2026-11-02T04:21:56+00:00",
       "promotion": "TNA",
-      "views": 238663
+      "views": 239495
     },
     {
       "id": "XL8Jcp96cIE",
       "title": "『棚橋弘至のPodcastOff!』#372「いよいよ開催！11.3広島目前！料理の味を根本から変える男・ボルチン！反AEW派・タイチのGLOBAL王座戦に注目！『SUPER Jr.TAG』安田...",
       "published": "2026-11-02T03:04:00+00:00",
       "promotion": "NJPW",
-      "views": 6730
+      "views": 6949
     },
     {
       "id": "gXJjHM6Nqmo",
       "title": "FULL MATCH: Orange Cassidy vs Claudio Castagnoli | AEW Dynamite, 11/5/25",
       "published": "2026-11-01T18:00:14+00:00",
       "promotion": "AEW",
-      "views": 57681
+      "views": 58927
     },
     {
       "id": "PJq_tm8pDpw",
       "title": "Fire 'N Flava Become First Knockouts Tag Champs of Modern Era | TNA Hard To Kill 2021",
       "published": "2026-11-01T17:00:38+00:00",
       "promotion": "TNA",
-      "views": 37149
+      "views": 39534
     },
     {
       "id": "h36Ut7bIJCI",
       "title": "Kurt Angle vs. Sting: TNA World Title! (FULL MATCH) | TNA Destination X 2009",
       "published": "2026-11-01T14:00:38+00:00",
       "promotion": "TNA",
-      "views": 44091
+      "views": 47705
     },
     {
       "id": "t3HUop4ostw",
       "title": "FULL EPISODE: Trick shines in Fatal 4-Way; Corbin vs. Briggs | WWE NXT, Sept. 26, 2023",
       "published": "2026-11-01T13:00:02+00:00",
       "promotion": "NXT",
-      "views": 21274
+      "views": 21848
     },
     {
       "id": "5OwJJJCV2xI",
       "title": "FULL MATCH: Mercedes Moné vs Olympia - CMLL Women's World Title | AEW Fright Night Collision 2025",
       "published": "2026-11-01T12:00:03+00:00",
       "promotion": "AEW",
-      "views": 72030
+      "views": 79137
     },
     {
       "id": "QLCKb-5yIMY",
       "title": "2008 TNA iMPACT Marathon!",
       "published": "2026-11-01T03:25:47+00:00",
       "promotion": "TNA",
-      "views": 224866
+      "views": 225104
     },
     {
       "id": "6dYSQL84fi0",
       "title": "【インタビュー】タイチ - IWGP GLOBALヘビー級選手権試合／2026.11.3 広島・広島サンプラザホール #njpw  #njpst",
       "published": "2026-11-01T03:00:38+00:00",
       "promotion": "NJPW",
-      "views": 114180
-    },
-    {
-      "id": "ezBrvDqOGvg",
-      "title": "The Cut continues to DOMINATE All Elite Wrestling! | AEW Fright Night Collision 2026",
-      "published": "2026-11-01T02:50:38+00:00",
-      "promotion": "AEW",
-      "views": 68430
+      "views": 115560
     },
     {
       "id": "5sLCG9YYy1M",
       "title": "Who Can Stop Zer0?? | TNA iMPACT! October 29, 2026",
       "published": "2026-10-31T17:00:30+00:00",
       "promotion": "TNA",
-      "views": 22412
+      "views": 22665
     },
     {
       "id": "DgeTPduMFXM",
       "title": "John Skyler and AJ Francis Battle After Mila Moore DISRESPECT | TNA iMPACT! October 29, 2026",
       "published": "2026-10-31T14:00:37+00:00",
       "promotion": "TNA",
-      "views": 30322
+      "views": 30616
     },
     {
       "id": "9eaORVHMVn8",
       "title": "FULL MATCH: Broken Hardys vs. DarkState | NXT Tag Team Title Broken Rules Match",
       "published": "2026-10-31T14:00:35+00:00",
       "promotion": "NXT",
-      "views": 114102
+      "views": 121690
     },
     {
       "id": "1yr_knl76Us",
       "title": "鷹木信悟が闘いたい女子選手とは!?【11.20 後楽園 Bound for Unbound】",
       "published": "2026-10-31T03:00:23+00:00",
       "promotion": "NJPW",
-      "views": 21764
+      "views": 21828
     },
     {
       "id": "Sz__gVRT-cg",
       "title": "The Nemeths Look To AMBUSH Elijah | TNA iMPACT! October 29, 2026",
       "published": "2026-10-30T17:00:23+00:00",
       "promotion": "TNA",
-      "views": 45062
+      "views": 45535
     },
     {
       "id": "mWmg9yxqWOA",
       "title": "The Elegance Brand Begins To CRUMBLE as KO TV Title On The Line | TNA iMPACT! October 29, 2026",
       "published": "2026-10-30T14:00:15+00:00",
       "promotion": "TNA",
-      "views": 52787
+      "views": 53640
     },
     {
       "id": "N5021nyEoLo",
       "title": "【音声のみ】外道選手のPodcast『Junk Yard Radio』第43回「外道に刺さったAI-DJからのレコメンド」",
       "published": "2026-10-30T08:00:02+00:00",
       "promotion": "NJPW",
-      "views": 5649
+      "views": 5702
     },
     {
       "id": "QWl6p8P5fdE",
