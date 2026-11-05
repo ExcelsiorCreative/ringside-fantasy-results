@@ -1,12 +1,9 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-04T23:33:49Z",
+  "fetchedAt": "2026-11-05T03:41:57Z",
   "failed": [
     "WWE",
-    "AEW",
     "TNA",
-    "NXT",
-    "AAA",
     "NJPW"
   ],
   "items": [
@@ -29,7 +26,7 @@
       "title": "Every “Demon” Finn Bálor match in NXT",
       "published": "2026-11-04T15:00:01+00:00",
       "promotion": "NXT",
-      "views": 2779
+      "views": null
     },
     {
       "id": "A7tPE8fUG5k",
@@ -43,14 +40,14 @@
       "title": "FULL MATCH: MJF & Wardlow vs The Inner Circle | AEW Dynamite, 11/4/20",
       "published": "2026-11-04T11:30:04+00:00",
       "promotion": "AEW",
-      "views": 13212
+      "views": null
     },
     {
       "id": "Z8_BlNgWOzI",
       "title": "FULL MATCH: Wardlow & Samoa Joe vs Gates of Agony | AEW Rampage, 11/4/22",
       "published": "2026-11-04T02:00:25+00:00",
       "promotion": "AEW",
-      "views": 53518
+      "views": null
     },
     {
       "id": "xFUVGg-wiTY",
@@ -78,14 +75,14 @@
       "title": "FULL MATCH: Andrade El Ídolo vs Cody Rhodes | AEW Dynamite, 11/3/21",
       "published": "2026-11-03T17:00:04+00:00",
       "promotion": "AEW",
-      "views": 30621
+      "views": null
     },
     {
       "id": "6KUdSTHW4lA",
       "title": "FULL MATCH: Lola Vice & The Culling vs. Fatal Influence: NXT, Nov. 4, 2025",
       "published": "2026-11-03T15:00:03+00:00",
       "promotion": "NXT",
-      "views": 106635
+      "views": null
     },
     {
       "id": "zKLOh-_oT3Y",
@@ -169,7 +166,7 @@
       "title": "FULL MATCH: Darby Allin vs Lance Archer | AEW Collision, 11/4/23",
       "published": "2026-11-02T17:30:00+00:00",
       "promotion": "AEW",
-      "views": 44168
+      "views": null
     },
     {
       "id": "9UrLVrzhy4g",
@@ -177,13 +174,6 @@
       "published": "2026-11-02T15:19:33+00:00",
       "promotion": "TNA",
       "views": 31013
-    },
-    {
-      "id": "fP6oUv4bgDI",
-      "title": "FULL EPISODE: Mysterio vs. Williams; Women’s Breakout Tournament begins | WWE NXT, Oct. 3, 2023",
-      "published": "2026-11-02T13:00:03+00:00",
-      "promotion": "NXT",
-      "views": 24303
     },
     {
       "id": "l-jtgL_2cXI",
@@ -218,7 +208,7 @@
       "title": "FULL MATCH: Orange Cassidy vs Claudio Castagnoli | AEW Dynamite, 11/5/25",
       "published": "2026-11-01T18:00:14+00:00",
       "promotion": "AEW",
-      "views": 60441
+      "views": null
     },
     {
       "id": "PJq_tm8pDpw",
@@ -233,13 +223,6 @@
       "published": "2026-11-01T14:00:38+00:00",
       "promotion": "TNA",
       "views": 53116
-    },
-    {
-      "id": "t3HUop4ostw",
-      "title": "FULL EPISODE: Trick shines in Fatal 4-Way; Corbin vs. Briggs | WWE NXT, Sept. 26, 2023",
-      "published": "2026-11-01T13:00:02+00:00",
-      "promotion": "NXT",
-      "views": 22135
     },
     {
       "id": "QLCKb-5yIMY",
@@ -295,28 +278,28 @@
       "title": "Arranque AAA Sin Límite - Tlahuelilpan Parte 2 - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 2746
+      "views": null
     },
     {
       "id": "SlUlBSOtH0M",
       "title": "Hijo del Perro Aguayo - Guerra de Titanes 2014 - Próximamente",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 4765
+      "views": null
     },
     {
       "id": "bM6UUMlzO5U",
       "title": "¿Electro Shock confirma su retiro? - AAA Sin Límite - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 3023
+      "views": null
     },
     {
       "id": "jNKMTiONmMA",
       "title": "Yo Soy El Patrón - Parte 2 - AAA Sin Límite - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 6607
+      "views": null
     }
   ]
 }
