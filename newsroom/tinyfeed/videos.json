@@ -1,378 +1,357 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-07T06:29:58Z",
-  "failed": [
-    "WWE",
-    "AEW",
-    "TNA",
-    "NXT",
-    "AAA",
-    "NJPW"
-  ],
+  "fetchedAt": "2026-11-07T13:28:13Z",
+  "failed": [],
   "items": [
     {
-      "id": "SEPDOk8BA2M",
-      "title": "AAA Héroes Inmortales: November 7, 2026",
-      "published": "2026-11-06T20:02:29+00:00",
+      "id": "ORuZ3zLJD0Y",
+      "title": "Chelsea Green vs. Liv Morgan | Champion vs. Champion Match: WWE Crown Jewel 2026 Hype Package",
+      "published": "2026-11-07T13:00:08+00:00",
       "promotion": "WWE",
+      "views": 1364
+    },
+    {
+      "id": "NYCm6fKAqYs",
+      "title": "Cody Rhodes vs. Randy Orton | Last Man Standing Match: WWE Crown Jewel 2026 Hype Package",
+      "published": "2026-11-07T12:00:33+00:00",
+      "promotion": "WWE",
+      "views": 12038
+    },
+    {
+      "id": "EmZ_ZQ5SmHo",
+      "title": "Roman Reigns vs. Sami Zayn | Champion vs. Champion Match: WWE Crown Jewel 2026 Hype Package",
+      "published": "2026-11-07T11:00:15+00:00",
+      "promotion": "WWE",
+      "views": 22644
+    },
+    {
+      "id": "2IlZl_TRwmo",
+      "title": "OSKAR「世界中のモンスター かかってこい！」【11.20 後楽園 Bound for Unbound】",
+      "published": "2026-11-07T09:00:39+00:00",
+      "promotion": "NJPW",
+      "views": 17721
+    },
+    {
+      "id": "XetoNP6FlYo",
+      "title": "FULL MATCH: Inaugural AEW National Championship Casino Gauntlet Match | AEW Full Gear 2025",
+      "published": "2026-11-07T09:00:23+00:00",
+      "promotion": "AEW",
+      "views": 16469
+    },
+    {
+      "id": "_pLgCcJs6UQ",
+      "title": "ロビー・エックスvsドラゴン・キッド 世界屈指のハイフライヤー対決実現!!【11.20 後楽園 Bound for Unbound】",
+      "published": "2026-11-07T09:00:22+00:00",
+      "promotion": "NJPW",
+      "views": 11849
+    },
+    {
+      "id": "pGbgB28UkAY",
+      "title": "2008 TNA iMPACT Marathon!",
+      "published": "2026-11-07T05:09:56+00:00",
+      "promotion": "TNA",
       "views": 0
     },
     {
-      "id": "z9Dbucboh8o",
-      "title": "Zuffa Boxing 12 Ceremonial Weigh-In",
-      "published": "2026-11-06T18:17:34+00:00",
+      "id": "0VzdZUc1a7c",
+      "title": "Top 10 Friday Night SmackDown moments: WWE Top 10, Nov. 6, 2026",
+      "published": "2026-11-07T05:00:28+00:00",
       "promotion": "WWE",
-      "views": 6453
+      "views": 123698
+    },
+    {
+      "id": "bUAeizXPZMQ",
+      "title": "Rey Mysterio's Priceless Reaction to his Rangoli | Superstars send Diwali wishes: WWE Now India",
+      "published": "2026-11-07T03:30:30+00:00",
+      "promotion": "WWE",
+      "views": 51628
+    },
+    {
+      "id": "75EZFe2FVOk",
+      "title": "Full SmackDown highlights: Nov. 6, 2026",
+      "published": "2026-11-07T03:15:27+00:00",
+      "promotion": "WWE",
+      "views": 612452
+    },
+    {
+      "id": "eLUolSanuBM",
+      "title": "FULL MATCH: CM Punk vs. Kevin Owens | No Holds Barred Match: SmackDown, Nov. 6, 2026",
+      "published": "2026-11-07T03:00:42+00:00",
+      "promotion": "WWE",
+      "views": 367853
+    },
+    {
+      "id": "Cec1MIcGcaU",
+      "title": "【伝説爆誕！世界震撼!!】竹内朱莉さん（書家／元「アンジュルム」）に書いていただきました！ - 2027.1.4 『闘魂55年 WRESTLE KINGDOM 21 in 東京ドーム』",
+      "published": "2026-11-07T03:00:32+00:00",
+      "promotion": "NJPW",
+      "views": 7795
+    },
+    {
+      "id": "_5hvoJtOh2g",
+      "title": "Get your tickets to the John Cena Classic in Orlando on Nov. 13: SmackDown highlights, Nov. 6, 2026",
+      "published": "2026-11-07T02:30:22+00:00",
+      "promotion": "WWE",
+      "views": 159925
+    },
+    {
+      "id": "u9BXQixLK5Q",
+      "title": "Damian Priest brutalizes Fraxiom in shocking fashion: SmackDown highlights, Nov. 6, 2026",
+      "published": "2026-11-07T02:23:47+00:00",
+      "promotion": "WWE",
+      "views": 146960
+    },
+    {
+      "id": "oJTnP9csJRQ",
+      "title": "Liv Morgan to Chelsea Green: “You’re a charity case”: SmackDown highlights, Nov. 6, 2026",
+      "published": "2026-11-07T02:13:23+00:00",
+      "promotion": "WWE",
+      "views": 181399
     },
     {
       "id": "t9SrZsTREzw",
       "title": "World Champion and X-Division Champion Challenge For Tag Gold | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T18:00:25+00:00",
       "promotion": "TNA",
-      "views": 2297
+      "views": 18513
     },
     {
       "id": "2_iURZ2s-Ws",
       "title": "Women's Blood & Guts Match | NO COMMENTARY!",
       "published": "2026-11-06T15:00:32+00:00",
       "promotion": "AEW",
-      "views": 12480
-    },
-    {
-      "id": "y31mpJX0Apw",
-      "title": "WWE Crown Jewel 2026 Special",
-      "published": "2026-11-06T15:00:09+00:00",
-      "promotion": "WWE",
-      "views": 120126
+      "views": 26808
     },
     {
       "id": "w009_rVWDi4",
       "title": "The Righteous Initiation Turns To SACRIFICE | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T15:00:01+00:00",
       "promotion": "TNA",
-      "views": 26366
-    },
-    {
-      "id": "SzZIp8K03Og",
-      "title": "WWE Crown Jewel 2026 Cold Open",
-      "published": "2026-11-06T14:00:15+00:00",
-      "promotion": "WWE",
-      "views": 51384
-    },
-    {
-      "id": "jrHIcN3kMbM",
-      "title": "FULL MATCH: Cody Rhodes vs. Damian Priest: Crown Jewel 2023",
-      "published": "2026-11-06T14:00:12+00:00",
-      "promotion": "WWE",
-      "views": 66475
-    },
-    {
-      "id": "f23lXi5x4U0",
-      "title": "WWE Crown Jewel 2026 Preview (Hindi): WWE Now India",
-      "published": "2026-11-06T13:57:19+00:00",
-      "promotion": "WWE",
-      "views": 17632
+      "views": 61087
     },
     {
       "id": "qIzeU6gs_i8",
       "title": "FULL EPISODE: The Undertaker rides into NXT; Rhodes, Cena & Heyman appear | WWE NXT, Oct. 10, 2023",
       "published": "2026-11-06T13:00:39+00:00",
       "promotion": "NXT",
-      "views": 12244
-    },
-    {
-      "id": "4pvPeyo591w",
-      "title": "Liv Morgan vs. Chelsea Green | Road to Crown Jewel 2026: WWE Playlist",
-      "published": "2026-11-06T13:00:27+00:00",
-      "promotion": "WWE",
-      "views": 51827
-    },
-    {
-      "id": "KJu8H5VQoAU",
-      "title": "Roman Reigns and Sami Zayn clash for the Crown Jewel Title | Crown Jewel Preview: WWE Now",
-      "published": "2026-11-06T12:00:19+00:00",
-      "promotion": "WWE",
-      "views": 35887
+      "views": 24206
     },
     {
       "id": "zvs_hwyiYJU",
       "title": "FULL MATCH: Hangman Page vs Samoa Joe - AEW World Championship Steel Cage Match | AEW Full Gear 2025",
       "published": "2026-11-06T11:00:15+00:00",
       "promotion": "AEW",
-      "views": 26668
+      "views": 38505
     },
     {
       "id": "gdeIcyeptgM",
       "title": "【NJPW Full Match】橋本真也＆武藤敬司 vs ビッグバン・ベイダー＆ムッシュ・ランボー／1992.5.21 東京・後楽園ホール",
       "published": "2026-11-06T11:00:01+00:00",
       "promotion": "NJPW",
-      "views": 35012
+      "views": 77259
     },
     {
       "id": "V6D7F5ALMxk",
       "title": "【発表】TANAHASHI JAM 2 by CSテレ朝チャンネル 全対戦カード発表！ - 2026.11.19 東京・後楽園ホール",
       "published": "2026-11-06T10:00:10+00:00",
       "promotion": "NJPW",
-      "views": 53560
+      "views": 55675
     },
     {
       "id": "eHSgFj1izv4",
       "title": "【新日本プロレス】ナッツRV presents タイチ＆ウルフアロンのキャンピングカーの旅！ウルフがRVパークを初体験でまさかの柔道対決に！？さらに先輩タイチから◯◯◯のサプライズプレゼント！",
       "published": "2026-11-06T09:00:01+00:00",
       "promotion": "NJPW",
-      "views": 55606
+      "views": 80239
     },
     {
       "id": "UBqeVUrPdIM",
       "title": "\"Welcome to our house...the Dollhouse.\" | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T04:15:11+00:00",
       "promotion": "TNA",
-      "views": 36400
+      "views": 47473
     },
     {
       "id": "ePtkc2s1dyk",
       "title": "Shotzi Blackheart BACK IN ACTION Against Reunited Fire 'N Flava | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T04:00:11+00:00",
       "promotion": "TNA",
-      "views": 74978
+      "views": 86908
     },
     {
       "id": "xMuGttlZNBg",
       "title": "FIGHT For Leadership of The System | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T03:30:14+00:00",
       "promotion": "TNA",
-      "views": 50190
-    },
-    {
-      "id": "s77SgL7Zv0o",
-      "title": "The MFTs threaten Kyoki over the Tongan Staff: Main Event highlights, Nov. 2, 2026",
-      "published": "2026-11-05T23:07:45+00:00",
-      "promotion": "WWE",
-      "views": 99463
-    },
-    {
-      "id": "C4eBQiT2zRo",
-      "title": "Ethan Page basks in his Intercontinental Title win: Main Event highlights, Nov. 2, 2026",
-      "published": "2026-11-05T22:39:30+00:00",
-      "promotion": "WWE",
-      "views": 73279
+      "views": 57281
     },
     {
       "id": "Un4CD1cdb5k",
       "title": "Men's Blood & Guts Match | NO COMMENTARY!",
       "published": "2026-11-05T22:30:04+00:00",
       "promotion": "AEW",
-      "views": 34855
+      "views": 40799
     },
     {
       "id": "02D40D0rhSg",
       "title": "EXCLUSIVE: Marina Shafir does NOT hold back against Mercedes Moné!",
       "published": "2026-11-05T19:53:05+00:00",
       "promotion": "AEW",
-      "views": 81640
+      "views": 94575
     },
     {
       "id": "10L1Do0eCCM",
       "title": "EXCLUSIVE: Austin Creed has a HUGE problem with Bandido now!",
       "published": "2026-11-05T19:24:51+00:00",
       "promotion": "AEW",
-      "views": 189927
+      "views": 215418
     },
     {
       "id": "G8E-h-sDgJY",
       "title": "MJF betrays Cody Rhodes! | AEW Full Gear 2019",
       "published": "2026-11-05T19:00:08+00:00",
       "promotion": "AEW",
-      "views": 14396
+      "views": 15756
     },
     {
       "id": "7R2Iu7FIpZs",
       "title": "TNA vs. The World: ESSENTIAL X-Cup Matches from TNA History",
       "published": "2026-11-05T15:51:34+00:00",
       "promotion": "TNA",
-      "views": 12225
+      "views": 13981
     },
     {
       "id": "T0LmivO1Pwk",
       "title": "FULL MATCH: Jordynne Grace vs. Blake Monroe | Weaponized Steel Cage Match: NXT No Mercy 2025",
       "published": "2026-11-05T15:00:05+00:00",
       "promotion": "NXT",
-      "views": 218014
+      "views": 263178
     },
     {
       "id": "KZ7MybNwtKk",
       "title": "FULL MATCH: Orange Cassidy vs Katsuyori Shibata | AEW Rampage, 11/4/22",
       "published": "2026-11-05T12:00:05+00:00",
       "promotion": "AEW",
-      "views": 46326
+      "views": 55590
     },
     {
       "id": "YyhAhACFuJ0",
       "title": "鷹木&なつぽいに挑むのは\"チーム250キロ\"！【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-05T09:00:24+00:00",
       "promotion": "NJPW",
-      "views": 71056
+      "views": 80617
     },
     {
       "id": "wiKu4KZEPLE",
       "title": "2007 TNA iMPACT Marathon!",
       "published": "2026-11-05T04:22:31+00:00",
       "promotion": "TNA",
-      "views": 181460
+      "views": 182282
     },
     {
       "id": "1GhgwjJrb-E",
       "title": "Men's Blood and Guts MATCH HIGHLIGHTS | AEW Blood and Guts 2026",
       "published": "2026-11-05T04:20:33+00:00",
       "promotion": "AEW",
-      "views": 438403
+      "views": 510294
     },
     {
       "id": "5vfFjoED0uo",
       "title": "Men's Blood and Guts Match | AEW Blood and Guts 2026",
       "published": "2026-11-05T04:20:28+00:00",
       "promotion": "AEW",
-      "views": 95355
-    },
-    {
-      "id": "-lL6oYRFmL8",
-      "title": "Nick Wayne would like to remind you that he BEAT CHRIS JERICHO TWICE! 💥💥💥 | AEW Blood and Guts 2026",
-      "published": "2026-11-05T04:15:35+00:00",
-      "promotion": "AEW",
-      "views": 68230
-    },
-    {
-      "id": "AOkp4ILBcFk",
-      "title": "Mercedes Moné slaps Marina Shafir AGAIN! 😱 | AEW Blood and Guts 2026",
-      "published": "2026-11-05T04:10:06+00:00",
-      "promotion": "AEW",
-      "views": 283714
-    },
-    {
-      "id": "KW9ie4D-lLM",
-      "title": "Jon Moxley turns to Orange Cassidy for help against The Cut at Anarchy in the Arena",
-      "published": "2026-11-05T04:05:15+00:00",
-      "promotion": "AEW",
-      "views": 176984
+      "views": 103585
     },
     {
       "id": "xBISVuXkczY",
       "title": "Every “Demon” Finn Bálor match in NXT",
       "published": "2026-11-04T15:00:01+00:00",
       "promotion": "NXT",
-      "views": 41303
+      "views": 42742
     },
     {
       "id": "xFUVGg-wiTY",
       "title": "TNA Destination X 2011 (FULL EVENT) | Styles vs. Daniels, Kaz vs. Joe, RVD vs. Lynn",
       "published": "2026-11-03T22:00:26+00:00",
       "promotion": "TNA",
-      "views": 22823
+      "views": 24775
     },
     {
       "id": "qCi1ojKMvoY",
       "title": "Shazza McKenzie vs. B3cca | TNA Xplosion October 30, 2026",
       "published": "2026-11-03T17:01:23+00:00",
       "promotion": "TNA",
-      "views": 18725
+      "views": 19207
     },
     {
       "id": "6KUdSTHW4lA",
       "title": "FULL MATCH: Lola Vice & The Culling vs. Fatal Influence: NXT, Nov. 4, 2025",
       "published": "2026-11-03T15:00:03+00:00",
       "promotion": "NXT",
-      "views": 163418
+      "views": 168712
     },
     {
       "id": "zKLOh-_oT3Y",
       "title": "【速報】謎の男からメッセージ「俺様に負けたらYOHは新日本プロレス即追放」→この後凄いことに！",
       "published": "2026-11-03T11:30:35+00:00",
       "promotion": "NJPW",
-      "views": 88067
+      "views": 88717
     },
     {
       "id": "5jGCxvfxHv0",
       "title": "【速報】MJFから再び大岩陵平へ…  #njpw #aew",
       "published": "2026-11-03T11:30:22+00:00",
       "promotion": "NJPW",
-      "views": 17500
+      "views": 17836
     },
     {
       "id": "gvMU-S8qj1M",
       "title": "【煽りVTR】石森太二＆ロビー・エックス vs ロビー・イーグルス＆藤田晃生 - 『SUPER Jr. TAG LEAGUE 2026』優勝決定戦／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T05:00:39+00:00",
       "promotion": "NJPW",
-      "views": 13702
+      "views": 13840
     },
     {
       "id": "k2MfA0JT8fM",
       "title": "【煽りVTR】辻陽太 vs ボルチン・オレッグ vs ケニー・オメガ - スペシャル3WAYマッチ／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:40+00:00",
       "promotion": "NJPW",
-      "views": 18486
+      "views": 18658
     },
     {
       "id": "7d80JLB52FI",
       "title": "POWER STRUGGLE ～SUPER Jr. TAG LEAGUE 2026～ オープニングVTR／11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:21+00:00",
       "promotion": "NJPW",
-      "views": 37841
+      "views": 37960
     },
     {
       "id": "-CiKrjxgTtw",
       "title": "【煽りVTR】タイチ vs ゲイブ・キッド - IWGP GLOBALヘビー級選手権試合／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:15+00:00",
       "promotion": "NJPW",
-      "views": 37915
-    },
-    {
-      "id": "KknomH4ovws",
-      "title": "【煽りVTR】Yuto-Ice＆OSKAR vs ウィル・オスプレイ＆カラム・ニューマン - IWGPタッグ選手権試合／2026.11.3 広島・広島サンプラザホール",
-      "published": "2026-11-03T01:00:12+00:00",
-      "promotion": "NJPW",
-      "views": 25480
+      "views": 38684
     },
     {
       "id": "VPHuTA0fGiQ",
       "title": "TOP 10 Moments from TNA iMPACT! October 29, 2026",
       "published": "2026-11-02T21:00:28+00:00",
       "promotion": "TNA",
-      "views": 41815
+      "views": 44890
     },
     {
       "id": "9UrLVrzhy4g",
       "title": "Moose vs. Special Agent 0 (FULL MATCH) | TNA Rebellion 2026",
       "published": "2026-11-02T15:19:33+00:00",
       "promotion": "TNA",
-      "views": 35788
-    },
-    {
-      "id": "l-jtgL_2cXI",
-      "title": "【音声のみ】『KUSHIDAのナイショ話』第55回「ブラジルからタイ、そして魚沼まで！世界を駆け巡るクッシーの最新“現地”報告！ブラジルのプロレス『テレキャッチ』とは？」",
-      "published": "2026-11-02T09:11:02+00:00",
-      "promotion": "NJPW",
-      "views": 7080
-    },
-    {
-      "id": "WgfYC0iR1_w",
-      "title": "【NJPW Full Match】YOH＆豹 vs ロビー・イーグルス＆藤田晃生／SUPER Jr. TAG LEAGUE 2026 - 11.1 岡山・赤磐市山陽ふれあい公園総合体育館",
-      "published": "2026-11-02T08:00:26+00:00",
-      "promotion": "NJPW",
-      "views": 68799
+      "views": 36550
     },
     {
       "id": "fETbXisbFg8",
       "title": "2009 TNA iMPACT Marathon!",
       "published": "2026-11-02T04:21:56+00:00",
       "promotion": "TNA",
-      "views": 241373
-    },
-    {
-      "id": "PJq_tm8pDpw",
-      "title": "Fire 'N Flava Become First Knockouts Tag Champs of Modern Era | TNA Hard To Kill 2021",
-      "published": "2026-11-01T17:00:38+00:00",
-      "promotion": "TNA",
-      "views": 46205
+      "views": 241825
     },
     {
       "id": "QWl6p8P5fdE",
@@ -386,7 +365,7 @@
       "title": "Hijo del Perro Aguayo - Guerra de Titanes 2014 - Próximamente",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 4765
+      "views": 4767
     },
     {
       "id": "bM6UUMlzO5U",
@@ -400,7 +379,7 @@
       "title": "Yo Soy El Patrón - Parte 2 - AAA Sin Límite - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 6608
+      "views": 6609
     }
   ]
 }
