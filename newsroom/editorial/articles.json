@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-11-02T17:05:37.021Z",
+  "updatedAt": "2026-11-09T17:02:51.118Z",
   "articles": [
+    {
+      "id": "pc-week-2026-11-09-wwe",
+      "date": "2026-11-09",
+      "kind": "Reported feature",
+      "title": "WWE: Chelsea Green’s coronation found a trapdoor",
+      "dek": "Tiffany Stratton turned friendship and a briefcase into the shortest route to the WWE Women’s Championship.",
+      "paragraphs": [
+        "Crown Jewel on November 7 gave Chelsea Green a coronation and a trapdoor. Green defeated Liv Morgan by roll-up to become Women’s Crown Jewel Champion. Minutes later, Tiffany Stratton appeared as an ally, struck Green with the Money in the Bank briefcase and cashed in. One Prettiest Moonsault Ever produced a new WWE Women’s Champion.",
+        "My take: betrayal works best when the paperwork is already in the room. Green’s victory made the cash-in hurt more because celebration had barely learned the address. Elsewhere, Penta and Je’Von Evans took the World Tag Team Championship from Bron Breakker and Austin Theory.",
+        "Green left with one new crown and one missing belt. Wrestling keeps very short office hours."
+      ],
+      "sources": [
+        {
+          "title": "WWE Crown Jewel 2026 results",
+          "url": "https://www.wwe.com/shows/crownjewel/2026/results"
+        },
+        {
+          "title": "Fightful: WWE Crown Jewel results — November 7, 2026",
+          "url": "https://www.fightful.com/wrestling/wwe-crown-jewel-results-11-7-2026-roman-reigns-vs-sami-zayn-chelsea-green-vs-liv-morgan-more/"
+        }
+      ],
+      "promotions": [
+        "WWE"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-09-aew",
+      "date": "2026-11-09",
+      "kind": "TV review",
+      "title": "AEW: The toolbox won Blood and Guts",
+      "dek": "Kyle Fletcher converted Will Ospreay’s safety into Adam Copeland’s surrender.",
+      "paragraphs": [
+        "Blood and Guts filled two rings in Jacksonville on November 4 and still found room for leverage. The Don Callis Family won the men’s match when Adam Copeland surrendered after Kyle Fletcher threatened Will Ospreay with a screwdriver. Wardlow then threw Darby Allin from the cage through tables on the floor.",
+        "My take: the surrender gave Fletcher more than a victory; it made Ospreay’s safety the currency. Earlier, the women’s team of the Brawling Birds, Wrathlander, Willow Nightingale and Queen Aminata won when Julia Hart submitted to Harley Cameron’s single-leg crab while Kris Statlander applied barbed-wire pressure.",
+        "Two cages, two capitulations, one useful civic lesson: Jacksonville should inspect every toolbox before Wednesday."
+      ],
+      "sources": [
+        {
+          "title": "AEW Blood and Guts results — November 4, 2026",
+          "url": "https://www.allelitewrestling.com/post/aew-dynamite-blood-and-guts-results-november-4-2026"
+        },
+        {
+          "title": "Fightful: AEW Blood and Guts results — November 4, 2026",
+          "url": "https://www.fightful.com/wrestling/aew-dynamite-blood-guts-results-11-4/"
+        }
+      ],
+      "promotions": [
+        "AEW"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-09-nxt",
+      "date": "2026-11-09",
+      "kind": "TV review",
+      "title": "NXT: The Dusty Cup found new owners",
+      "dek": "Noam Dar and Romeo Moreno finished an upset run with a High-Low and a polished trophy photograph.",
+      "paragraphs": [
+        "Noam Dar and Romeo Moreno won the 2026 Dusty Rhodes Tag Team Classic on November 4, defeating Hank and Tank with tandem Cross Rhodes followed by a High-Low. Cody Rhodes presented the trophy, giving the upset run a suitably polished photograph.",
+        "My take: tournaments are at their best when they improve a team’s résumé faster than introductions can explain it. Dar and Moreno entered as an improvised pairing and left with hardware, while the established bruisers supplied the final obstacle. NXT Champion Grayson Waller later retained against CM Punk after Kevin Owens created a distraction and Waller grabbed the tights.",
+        "The Cup found new owners. Waller merely found the nearest exit."
+      ],
+      "sources": [
+        {
+          "title": "WWE NXT results — November 4, 2026",
+          "url": "https://www.wwe.com/shows/wwenxt/2026-11-4/results"
+        },
+        {
+          "title": "Fightful: WWE NXT results — November 4, 2026",
+          "url": "https://www.fightful.com/wrestling-news/wwe-nxt-results-11-4-cm-punk-vs-grayson-waller-john-cena-appears"
+        }
+      ],
+      "promotions": [
+        "NXT"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-09-tna",
+      "date": "2026-11-09",
+      "kind": "TV review",
+      "title": "TNA: The champions kept the belts and lost the argument",
+      "dek": "The Nemeths survived the Champions Challenge after a referee bump and a title-belt shortcut.",
+      "paragraphs": [
+        "Impact’s November 5 Champions Challenge offered the Nemeths a familiar advantage: a referee looking elsewhere. Leon Slater and Amazing Red challenged for the TNA World Tag Team Championship. Red had Nic Nemeth pinned while the official was down, but Ryan Nemeth struck Red with a title belt, allowing Nic to finish with Danger Zone.",
+        "My take: the champions retained, though the ending placed more shine on the challengers’ grievance than on the belts. Elijah chased the Nemeths after the bell, extending the traffic jam toward Destination X. Earlier, Allie and Shotzi Blackheart defeated Fire ’N Flava with Shotzi’s senton.",
+        "The titles stayed with the Nemeths. The clean getaway missed its connection."
+      ],
+      "sources": [
+        {
+          "title": "TNA Impact results — November 5, 2026",
+          "url": "https://tnawrestling.com/news/tna-thursday-night-impact-on-amc-results-november-5-2026"
+        },
+        {
+          "title": "Fightful: TNA Impact results — November 5, 2026",
+          "url": "https://www.fightful.com/wrestling-news/tna-impact-results-11-5-nemeths-vs-leon-slater-and-amazing-red"
+        }
+      ],
+      "promotions": [
+        "TNA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-09-aaa",
+      "date": "2026-11-09",
+      "kind": "TV review",
+      "title": "AAA: A Hall of Fame ceremony missed the quiet part",
+      "dek": "Marisela Peña received the honor before Dorian Roldán turned history into an on-screen power struggle.",
+      "paragraphs": [
+        "Héroes Inmortales Week 3 aired November 7 with Marisela Peña entering the AAA Hall of Fame and Rey Mysterio handling the induction. Dorian Roldán interrupted the ceremony and announced Mysterio’s indefinite suspension as general manager—an on-screen storyline, not a reported corporate action.",
+        "My take: the segment placed company history beside present-day melodrama and let the contrast do the shouting. On the card, Bravo Americano defeated Cruz Del Toro and Kento after outside confusion, while El Fiscal’s match with Abismo Negro Jr. ended by disqualification in most reports after Abismo used the ring steps.",
+        "The plaque joined the Hall of Fame. Peace and quiet missed the ceremony."
+      ],
+      "sources": [
+        {
+          "title": "AAA official coverage — November 7, 2026",
+          "url": "https://prod-www.luchalibreaaa.com/"
+        },
+        {
+          "title": "Cageside Seats: AAA Héroes Inmortales Week 3 results",
+          "url": "https://www.cagesideseats.com/lucha-libre-aaa-cmll/485564/wwe-aaa-heroes-inmortales-results-live-discussion-week-3-nov-7-2026-hall-of-fame-induction-marisela-pena-rey-mysterio"
+        }
+      ],
+      "promotions": [
+        "AAA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-09-njpw",
+      "date": "2026-11-09",
+      "kind": "Reported feature",
+      "title": "NJPW: The league closed and another tab opened",
+      "dek": "Ishimori and Robbie X won the Super Junior Tag League before the vacant titles complicated the victory.",
+      "paragraphs": [
+        "Power Struggle in Hiroshima on November 3 completed the Super Junior Tag League with Taiji Ishimori and Robbie X defeating Robbie Eagles and Kosei Fujita by schoolboy roll-up. The winners finished their tournament by taking the shortest route through the final.",
+        "My take: the modest finish suited a league built on accumulated inches. The next problem arrived immediately: Místico announced the IWGP Junior Heavyweight Tag titles were vacant, then Ishimori proposed a three-way championship match involving the finalists and Místico with a new partner. Gabe Kidd also retained the IWGP Global Heavyweight Championship against Taichi with the Death Dog Driver.",
+        "The tournament closed its ledger and opened another tab."
+      ],
+      "sources": [
+        {
+          "title": "NJPW Power Struggle results — November 3, 2026",
+          "url": "https://www.njpw1972.com/tornament/result/662785"
+        },
+        {
+          "title": "Fightful: NJPW Power Struggle results — November 3, 2026",
+          "url": "https://www.fightful.com/wrestling/njpw-power-struggle-results-11-3-kenny-omega-yota-tsuji-jon-moxley-compete/"
+        }
+      ],
+      "promotions": [
+        "NJPW"
+      ]
+    },
     {
       "id": "pc-week-2026-11-02-wwe",
       "date": "2026-11-02",
