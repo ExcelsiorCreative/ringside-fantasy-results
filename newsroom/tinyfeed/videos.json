@@ -1,440 +1,406 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-09T02:04:06Z",
-  "failed": [
-    "WWE",
-    "AEW",
-    "TNA",
-    "NXT",
-    "AAA"
-  ],
+  "fetchedAt": "2026-11-09T09:39:13Z",
+  "failed": [],
   "items": [
+    {
+      "id": "-5ODLGruK1U",
+      "title": "FULL MATCH: Bryan Danielson vs Sammy Guevara - Best 2 out of 3 Falls Match | AEW Dynamite, 11/9/22",
+      "published": "2026-11-09T08:30:19+00:00",
+      "promotion": "AEW",
+      "views": 1106
+    },
+    {
+      "id": "3Va1uGYY1-Y",
+      "title": "FULL MATCH: MJF vs Daniel Garcia | AEW Dynamite, 11/8/23",
+      "published": "2026-11-09T01:00:01+00:00",
+      "promotion": "AEW",
+      "views": 22883
+    },
     {
       "id": "hGwgtROaWdc",
       "title": "Trey Miguel vs. Steve Maclin: X-Division Title! (FULL MATCH) | TNA Hard To Kill 2022",
       "published": "2026-11-08T21:03:45+00:00",
       "promotion": "TNA",
-      "views": 540
+      "views": 8924
     },
     {
       "id": "-0-MGpEGNd4",
       "title": "4-Way for a TNA Contract: Low Ki vs. Austin Aries vs. Jack Evans vs. Zema Ion | Destination X 2011",
       "published": "2026-11-08T18:00:02+00:00",
       "promotion": "TNA",
-      "views": 4803
+      "views": 12815
     },
     {
       "id": "lBZqSjsXiF4",
       "title": "El Fiscal vs. Abismo Negro: Héroes Inmortales XVIII highlights",
       "published": "2026-11-08T17:00:12+00:00",
       "promotion": "WWE",
-      "views": 35133
+      "views": 66770
     },
     {
       "id": "61EMVoff0qw",
       "title": "Rey Mysterio and Marisela Pena accused of having an AFFAIR!: Héroes Inmortales XVIII highlights",
       "published": "2026-11-08T17:00:11+00:00",
       "promotion": "WWE",
-      "views": 61094
+      "views": 168507
     },
     {
       "id": "tGbuA4PKZV0",
       "title": "Bravo takes on Cruz del Toro and Kento in a Triple Threat: Héroes Inmortales XVIII highlights",
       "published": "2026-11-08T17:00:08+00:00",
       "promotion": "WWE",
-      "views": 23482
+      "views": 38061
     },
     {
       "id": "3L8w7DcWDEw",
       "title": "Best of Full Gear | AEW Top 10",
       "published": "2026-11-08T16:00:11+00:00",
       "promotion": "AEW",
-      "views": 20744
+      "views": 39512
     },
     {
       "id": "gJguEySiAp4",
       "title": "FULL SEGMENT: Sami Zayn and Roman Reigns reunite: SmackDown, Nov. 8, 2024",
       "published": "2026-11-08T14:00:32+00:00",
       "promotion": "WWE",
-      "views": 106699
+      "views": 142352
     },
     {
       "id": "nxpavAUszs8",
       "title": "Top 10 moments from Crown Jewel 2026 | WWE Top 10, Nov. 7, 2026",
       "published": "2026-11-08T13:00:03+00:00",
       "promotion": "WWE",
-      "views": 194631
+      "views": 294533
     },
     {
       "id": "kFDxNcPP-wY",
       "title": "FULL EPISODE: Hayes vs. Corbin vs. Dijak; Breakout Tournament continues | WWE NXT, Oct. 17, 2023",
       "published": "2026-11-08T13:00:00+00:00",
       "promotion": "NXT",
-      "views": 10427
+      "views": 16048
     },
     {
       "id": "-XGuS8nEr3A",
       "title": "【生配信】11月の闘魂ショッピングは海野翔太が登場！",
       "published": "2026-11-08T11:14:33+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 31390
     },
     {
       "id": "pGbgB28UkAY",
       "title": "2008 TNA iMPACT Marathon!",
       "published": "2026-11-08T04:32:21+00:00",
       "promotion": "TNA",
-      "views": 177917
+      "views": 179370
     },
     {
       "id": "mRnrmSzDlrA",
       "title": "AND NEW! Tommaso Ciampa becomes AEW National Champion! | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T04:00:32+00:00",
       "promotion": "AEW",
-      "views": 165987
+      "views": 191753
     },
     {
       "id": "I3CtpUZaCfE",
       "title": "Tommaso Ciampa vs Andrade El Ídolo - AEW National Title | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T04:00:10+00:00",
       "promotion": "AEW",
-      "views": 98537
+      "views": 108466
     },
     {
       "id": "0Pi8-_eFNfA",
       "title": "TBS Champion Queen Aminata stands up to Persephone | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T03:55:08+00:00",
       "promotion": "AEW",
-      "views": 37500
+      "views": 44818
     },
     {
       "id": "upq95gtb7pU",
       "title": "TBS Champion Queen Aminata stands up to Persephone | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T03:55:08+00:00",
       "promotion": "AEW",
-      "views": 44511
+      "views": 49779
     },
     {
       "id": "pl3AvLYgcg8",
       "title": "Nick Wayne is the CAPTAIN of the Jericho Cruise now?! | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T03:50:09+00:00",
       "promotion": "AEW",
-      "views": 35502
+      "views": 40117
     },
     {
       "id": "E9uIBMTWmt0",
       "title": "Nick Wayne is the CAPTAIN of the Jericho Cruise now?! | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T03:50:05+00:00",
       "promotion": "AEW",
-      "views": 24504
+      "views": 26946
     },
     {
       "id": "uEwnjjkwNb4",
       "title": "FTR vs MCMG - Match 4 in Best-of-5 Series | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T03:45:20+00:00",
       "promotion": "AEW",
-      "views": 24330
+      "views": 27938
     },
     {
       "id": "04Nx7AMe2iQ",
       "title": "FTR vs MCMG - Match 4 in Best-of-5 Series | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T03:45:18+00:00",
       "promotion": "AEW",
-      "views": 30607
+      "views": 33381
     },
     {
       "id": "0Qkkspo9DM0",
       "title": "Mercedes Moné and The Cut square off with the Death Riders! | AEW Collision: Jericho Cruise 2026",
       "published": "2026-11-08T03:40:04+00:00",
       "promotion": "AEW",
-      "views": 67241
-    },
-    {
-      "id": "ADlYEpfYyW8",
-      "title": "Jericho sets sail on the high seas against Blake Christian | AEW Collision: Jericho Cruise 2026",
-      "published": "2026-11-08T03:35:37+00:00",
-      "promotion": "AEW",
-      "views": 44165
-    },
-    {
-      "id": "DQkzpQShbPE",
-      "title": "Jericho sets sail on the high seas against Blake Christian | AEW Collision: Jericho Cruise 2026",
-      "published": "2026-11-08T03:35:09+00:00",
-      "promotion": "AEW",
-      "views": 36350
-    },
-    {
-      "id": "qLIGfHllaHE",
-      "title": "The New Level issues a warning ahead of TEXAS DEATH! | AEW Collision: Jericho Cruise 2026",
-      "published": "2026-11-08T03:30:22+00:00",
-      "promotion": "AEW",
-      "views": 88560
-    },
-    {
-      "id": "J34jFvU3DRQ",
-      "title": "What did Mercedes Moné say to Jon Moxley?! | AEW Collision: Jericho Cruise 2026",
-      "published": "2026-11-08T03:26:04+00:00",
-      "promotion": "AEW",
-      "views": 113752
+      "views": 78706
     },
     {
       "id": "SEPDOk8BA2M",
       "title": "AAA Héroes Inmortales: November 7, 2026",
       "published": "2026-11-08T03:04:04+00:00",
       "promotion": "WWE",
-      "views": 258477
+      "views": 289849
     },
     {
       "id": "JANix7iV5LQ",
       "title": "Questions surround Cody Rhodes after Last Man Standing victory | Crown Jewel Recap: WWE Now",
       "published": "2026-11-07T23:45:31+00:00",
       "promotion": "WWE",
-      "views": 119255
+      "views": 129435
     },
     {
       "id": "Mkbj89YOvTU",
       "title": "Full Crown Jewel 2026 highlights",
       "published": "2026-11-07T21:42:28+00:00",
       "promotion": "WWE",
-      "views": 1714788
+      "views": 1919739
     },
     {
       "id": "DdHUzvlSXnc",
       "title": "Roman Reigns vs. Sami Zayn | Champion vs. Champion: WWE Crown Jewel 2026 highlights",
       "published": "2026-11-07T20:53:48+00:00",
       "promotion": "WWE",
-      "views": 1298594
+      "views": 1444817
     },
     {
       "id": "4n7gHGwD3dI",
       "title": "Roman Reigns embraces Sami Zayn after epic clash: WWE Crown Jewel 2026 highlights",
       "published": "2026-11-07T20:47:29+00:00",
       "promotion": "WWE",
-      "views": 1052612
-    },
-    {
-      "id": "Aqihjc7V-n8",
-      "title": "WWE Crown Jewel Post-Show: Nov. 7, 2026",
-      "published": "2026-11-07T20:21:09+00:00",
-      "promotion": "WWE",
-      "views": 220884
+      "views": 1157056
     },
     {
       "id": "U4-o6EN1RHE",
       "title": "Matt Hardy and Moose UNITE to Battle syX | TNA iMPACT! November 5, 2026",
       "published": "2026-11-07T18:00:39+00:00",
       "promotion": "TNA",
-      "views": 56395
+      "views": 66586
     },
     {
       "id": "LqhMpivru7c",
       "title": "FULL MATCH: Vaquer, Giulia, Zaria, Jordan & Grace vs. Perez, Jade & Fatal Influence: Nov. 6, 2024",
       "published": "2026-11-07T15:00:28+00:00",
       "promotion": "NXT",
-      "views": 217034
+      "views": 261101
     },
     {
       "id": "ahsG5oeziVw",
       "title": "Avery Styles and Frankie Kazarian Make Tag Team DEBUT | TNA iMPACT! November 5, 2026",
       "published": "2026-11-07T15:00:15+00:00",
       "promotion": "TNA",
-      "views": 32259
+      "views": 36583
     },
     {
       "id": "2IlZl_TRwmo",
       "title": "OSKAR「世界中のモンスター かかってこい！」【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-07T09:00:39+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 46219
     },
     {
       "id": "_pLgCcJs6UQ",
       "title": "ロビー・エックスvsドラゴン・キッド 世界屈指のハイフライヤー対決実現!!【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-07T09:00:22+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 29829
     },
     {
       "id": "Cec1MIcGcaU",
       "title": "【伝説爆誕！世界震撼!!】竹内朱莉さん（書家／元「アンジュルム」）に書いていただきました！ - 2027.1.4 『闘魂55年 WRESTLE KINGDOM 21 in 東京ドーム』",
       "published": "2026-11-07T03:00:32+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 11387
     },
     {
       "id": "t9SrZsTREzw",
       "title": "World Champion and X-Division Champion Challenge For Tag Gold | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T18:00:25+00:00",
       "promotion": "TNA",
-      "views": 23112
+      "views": 23727
     },
     {
       "id": "w009_rVWDi4",
       "title": "The Righteous Initiation Turns To SACRIFICE | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T15:00:01+00:00",
       "promotion": "TNA",
-      "views": 76448
+      "views": 80103
     },
     {
       "id": "qIzeU6gs_i8",
       "title": "FULL EPISODE: The Undertaker rides into NXT; Rhodes, Cena & Heyman appear | WWE NXT, Oct. 10, 2023",
       "published": "2026-11-06T13:00:39+00:00",
       "promotion": "NXT",
-      "views": 28181
+      "views": 28668
     },
     {
       "id": "gdeIcyeptgM",
       "title": "【NJPW Full Match】橋本真也＆武藤敬司 vs ビッグバン・ベイダー＆ムッシュ・ランボー／1992.5.21 東京・後楽園ホール",
       "published": "2026-11-06T11:00:01+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 116805
     },
     {
       "id": "V6D7F5ALMxk",
       "title": "【発表】TANAHASHI JAM 2 by CSテレ朝チャンネル 全対戦カード発表！ - 2026.11.19 東京・後楽園ホール",
       "published": "2026-11-06T10:00:10+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 58219
     },
     {
       "id": "eHSgFj1izv4",
       "title": "【新日本プロレス】ナッツRV presents タイチ＆ウルフアロンのキャンピングカーの旅！ウルフがRVパークを初体験でまさかの柔道対決に！？さらに先輩タイチから◯◯◯のサプライズプレゼント！",
       "published": "2026-11-06T09:00:01+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 100366
     },
     {
       "id": "UBqeVUrPdIM",
       "title": "\"Welcome to our house...the Dollhouse.\" | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T04:15:11+00:00",
       "promotion": "TNA",
-      "views": 53450
+      "views": 54081
     },
     {
       "id": "ePtkc2s1dyk",
       "title": "Shotzi Blackheart BACK IN ACTION Against Reunited Fire 'N Flava | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T04:00:11+00:00",
       "promotion": "TNA",
-      "views": 91439
+      "views": 91492
     },
     {
       "id": "xMuGttlZNBg",
       "title": "FIGHT For Leadership of The System | TNA iMPACT! November 5, 2026",
       "published": "2026-11-06T03:30:14+00:00",
       "promotion": "TNA",
-      "views": 61415
+      "views": 62122
     },
     {
       "id": "7R2Iu7FIpZs",
       "title": "TNA vs. The World: ESSENTIAL X-Cup Matches from TNA History",
       "published": "2026-11-05T15:51:34+00:00",
       "promotion": "TNA",
-      "views": 16108
+      "views": 16564
     },
     {
       "id": "T0LmivO1Pwk",
       "title": "FULL MATCH: Jordynne Grace vs. Blake Monroe | Weaponized Steel Cage Match: NXT No Mercy 2025",
       "published": "2026-11-05T15:00:05+00:00",
       "promotion": "NXT",
-      "views": 330316
+      "views": 341446
     },
     {
       "id": "YyhAhACFuJ0",
       "title": "鷹木&なつぽいに挑むのは\"チーム250キロ\"！【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-05T09:00:24+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 95249
     },
     {
       "id": "wiKu4KZEPLE",
       "title": "2007 TNA iMPACT Marathon!",
       "published": "2026-11-05T04:22:31+00:00",
       "promotion": "TNA",
-      "views": 183256
+      "views": 183504
     },
     {
       "id": "xBISVuXkczY",
       "title": "Every “Demon” Finn Bálor match in NXT",
       "published": "2026-11-04T15:00:01+00:00",
       "promotion": "NXT",
-      "views": 44873
+      "views": 45253
     },
     {
       "id": "xFUVGg-wiTY",
       "title": "TNA Destination X 2011 (FULL EVENT) | Styles vs. Daniels, Kaz vs. Joe, RVD vs. Lynn",
       "published": "2026-11-03T22:00:26+00:00",
       "promotion": "TNA",
-      "views": 29787
+      "views": 30918
     },
     {
       "id": "qCi1ojKMvoY",
       "title": "Shazza McKenzie vs. B3cca | TNA Xplosion October 30, 2026",
       "published": "2026-11-03T17:01:23+00:00",
       "promotion": "TNA",
-      "views": 19905
+      "views": 20149
     },
     {
       "id": "zKLOh-_oT3Y",
       "title": "【速報】謎の男からメッセージ「俺様に負けたらYOHは新日本プロレス即追放」→この後凄いことに！",
       "published": "2026-11-03T11:30:35+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 90080
     },
     {
       "id": "5jGCxvfxHv0",
       "title": "【速報】MJFから再び大岩陵平へ…  #njpw #aew",
       "published": "2026-11-03T11:30:22+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 18407
     },
     {
       "id": "gvMU-S8qj1M",
       "title": "【煽りVTR】石森太二＆ロビー・エックス vs ロビー・イーグルス＆藤田晃生 - 『SUPER Jr. TAG LEAGUE 2026』優勝決定戦／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T05:00:39+00:00",
       "promotion": "NJPW",
-      "views": null
+      "views": 14336
     },
     {
       "id": "k2MfA0JT8fM",
       "title": "【煽りVTR】辻陽太 vs ボルチン・オレッグ vs ケニー・オメガ - スペシャル3WAYマッチ／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:40+00:00",
       "promotion": "NJPW",
-      "views": null
-    },
-    {
-      "id": "7d80JLB52FI",
-      "title": "POWER STRUGGLE ～SUPER Jr. TAG LEAGUE 2026～ オープニングVTR／11.3 広島・広島サンプラザホール",
-      "published": "2026-11-03T01:00:21+00:00",
-      "promotion": "NJPW",
-      "views": null
+      "views": 19195
     },
     {
       "id": "QWl6p8P5fdE",
       "title": "Arranque AAA Sin Límite - Tlahuelilpan Parte 2 - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 2748
+      "views": 2749
     },
     {
       "id": "SlUlBSOtH0M",
       "title": "Hijo del Perro Aguayo - Guerra de Titanes 2014 - Próximamente",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 4767
+      "views": 4768
     },
     {
       "id": "bM6UUMlzO5U",
       "title": "¿Electro Shock confirma su retiro? - AAA Sin Límite - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 3023
+      "views": 3024
     },
     {
       "id": "jNKMTiONmMA",
       "title": "Yo Soy El Patrón - Parte 2 - AAA Sin Límite - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 6609
+      "views": 6610
     }
   ]
 }
