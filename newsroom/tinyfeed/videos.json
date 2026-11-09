@@ -1,7 +1,13 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-08T22:47:27Z",
-  "failed": [],
+  "fetchedAt": "2026-11-09T02:04:06Z",
+  "failed": [
+    "WWE",
+    "AEW",
+    "TNA",
+    "NXT",
+    "AAA"
+  ],
   "items": [
     {
       "id": "hGwgtROaWdc",
@@ -71,7 +77,7 @@
       "title": "【生配信】11月の闘魂ショッピングは海野翔太が登場！",
       "published": "2026-11-08T11:14:33+00:00",
       "promotion": "NJPW",
-      "views": 30058
+      "views": null
     },
     {
       "id": "pGbgB28UkAY",
@@ -239,21 +245,21 @@
       "title": "OSKAR「世界中のモンスター かかってこい！」【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-07T09:00:39+00:00",
       "promotion": "NJPW",
-      "views": 44613
+      "views": null
     },
     {
       "id": "_pLgCcJs6UQ",
       "title": "ロビー・エックスvsドラゴン・キッド 世界屈指のハイフライヤー対決実現!!【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-07T09:00:22+00:00",
       "promotion": "NJPW",
-      "views": 28814
+      "views": null
     },
     {
       "id": "Cec1MIcGcaU",
       "title": "【伝説爆誕！世界震撼!!】竹内朱莉さん（書家／元「アンジュルム」）に書いていただきました！ - 2027.1.4 『闘魂55年 WRESTLE KINGDOM 21 in 東京ドーム』",
       "published": "2026-11-07T03:00:32+00:00",
       "promotion": "NJPW",
-      "views": 11049
+      "views": null
     },
     {
       "id": "t9SrZsTREzw",
@@ -281,21 +287,21 @@
       "title": "【NJPW Full Match】橋本真也＆武藤敬司 vs ビッグバン・ベイダー＆ムッシュ・ランボー／1992.5.21 東京・後楽園ホール",
       "published": "2026-11-06T11:00:01+00:00",
       "promotion": "NJPW",
-      "views": 109209
+      "views": null
     },
     {
       "id": "V6D7F5ALMxk",
       "title": "【発表】TANAHASHI JAM 2 by CSテレ朝チャンネル 全対戦カード発表！ - 2026.11.19 東京・後楽園ホール",
       "published": "2026-11-06T10:00:10+00:00",
       "promotion": "NJPW",
-      "views": 57295
+      "views": null
     },
     {
       "id": "eHSgFj1izv4",
       "title": "【新日本プロレス】ナッツRV presents タイチ＆ウルフアロンのキャンピングカーの旅！ウルフがRVパークを初体験でまさかの柔道対決に！？さらに先輩タイチから◯◯◯のサプライズプレゼント！",
       "published": "2026-11-06T09:00:01+00:00",
       "promotion": "NJPW",
-      "views": 95309
+      "views": null
     },
     {
       "id": "UBqeVUrPdIM",
@@ -337,7 +343,7 @@
       "title": "鷹木&なつぽいに挑むのは\"チーム250キロ\"！【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-05T09:00:24+00:00",
       "promotion": "NJPW",
-      "views": 93110
+      "views": null
     },
     {
       "id": "wiKu4KZEPLE",
@@ -372,35 +378,35 @@
       "title": "【速報】謎の男からメッセージ「俺様に負けたらYOHは新日本プロレス即追放」→この後凄いことに！",
       "published": "2026-11-03T11:30:35+00:00",
       "promotion": "NJPW",
-      "views": 89858
+      "views": null
     },
     {
       "id": "5jGCxvfxHv0",
       "title": "【速報】MJFから再び大岩陵平へ…  #njpw #aew",
       "published": "2026-11-03T11:30:22+00:00",
       "promotion": "NJPW",
-      "views": 18285
+      "views": null
     },
     {
       "id": "gvMU-S8qj1M",
       "title": "【煽りVTR】石森太二＆ロビー・エックス vs ロビー・イーグルス＆藤田晃生 - 『SUPER Jr. TAG LEAGUE 2026』優勝決定戦／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T05:00:39+00:00",
       "promotion": "NJPW",
-      "views": 14262
+      "views": null
     },
     {
       "id": "k2MfA0JT8fM",
       "title": "【煽りVTR】辻陽太 vs ボルチン・オレッグ vs ケニー・オメガ - スペシャル3WAYマッチ／2026.11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:40+00:00",
       "promotion": "NJPW",
-      "views": 19109
+      "views": null
     },
     {
       "id": "7d80JLB52FI",
       "title": "POWER STRUGGLE ～SUPER Jr. TAG LEAGUE 2026～ オープニングVTR／11.3 広島・広島サンプラザホール",
       "published": "2026-11-03T01:00:21+00:00",
       "promotion": "NJPW",
-      "views": 38281
+      "views": null
     },
     {
       "id": "QWl6p8P5fdE",
