@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-11-09T17:02:51.118Z",
+  "updatedAt": "2026-11-11T19:10:51.604493Z",
   "articles": [
+    {
+      "id": "pc-update-2026-11-11-wwe",
+      "date": "2026-11-11",
+      "kind": "Reported update & commentary",
+      "title": "WWE: The Bloodline takes the fight to WarGames.",
+      "dek": "Jacob Fatu returns as Roman Reigns challenges The 946.",
+      "paragraphs": [
+        "Raw on November 9 gave The Bloodline a familiar face and a new destination. Jacob Fatu returned, and Roman Reigns challenged The 946 to WarGames. Rey Fenix also won the three-way match that determined Ethan Page’s next Intercontinental Championship challenger.",
+        "My take: a faction feud needs a reason to outgrow ordinary television, and a returning family member supplies one. The cage should now force choices about trust, rather than merely offer a larger place to brawl. Fenix’s contender win gives the same episode a separate championship thread worth following.",
+        "One fight grows bigger. Another gets a clearly identified next challenger."
+      ],
+      "sources": [
+        {
+          "title": "WWE source report",
+          "url": "https://www.wwe.com/shows/raw/2026-11-09"
+        },
+        {
+          "title": "WWE supporting coverage / official schedule",
+          "url": "https://www.onlineworldofwrestling.com/results/wwe/raw/wwe-monday-night-raw-2026/wwe-monday-night-raw-11-09-2026/"
+        }
+      ],
+      "promotions": [
+        "WWE"
+      ]
+    },
+    {
+      "id": "pc-update-2026-11-11-aew",
+      "date": "2026-11-11",
+      "kind": "Preview & commentary",
+      "title": "AEW: One last stop. One deciding tag match.",
+      "dek": "Dynamite/Collision previews Full Gear with FTR–MCMG tied 2–2.",
+      "paragraphs": [
+        "AEW’s November 11 Dynamite/Collision special is a preview at this edition’s cutoff. Its advertised card includes the fifth FTR–Motor City Machine Guns match, Tommaso Ciampa defending the National Championship against Mike Bailey, and Will Ospreay facing Kyle Fletcher in a final confrontation before Full Gear.",
+        "My take: three hours earn their keep when a show resolves one argument while sharpening the next. The tag series has a finish line; Ospreay and Fletcher still have a championship fight ahead. Giving those stories different jobs should keep the broadcast moving.",
+        "The advertised stakes are real. The winners remain unreported until the matches happen."
+      ],
+      "sources": [
+        {
+          "title": "AEW source report",
+          "url": "https://www.allelitewrestling.com/post/aew-dynamite-collision-preview-november-11-2026"
+        },
+        {
+          "title": "AEW supporting coverage / official schedule",
+          "url": "https://www.fightful.com/wrestling/ftr-vs-motor-city-machine-guns-match-five-set-for-three-hour-aew-dynamite-collision/"
+        }
+      ],
+      "promotions": [
+        "AEW"
+      ]
+    },
+    {
+      "id": "pc-update-2026-11-11-nxt",
+      "date": "2026-11-11",
+      "kind": "Reported update & commentary",
+      "title": "NXT: The challengers changed. The champions did not.",
+      "dek": "Vanity Project retain after Dar and Moreno’s opportunity is derailed.",
+      "paragraphs": [
+        "NXT’s November 10 tag-title match changed participants, but not champions. After Noam Dar and Romeo Moreno were attacked, Hank and Tank stepped in. Vanity Project retained when Dar and Moreno’s attempted retaliation created another opening for the champions.",
+        "My take: denying the Dusty Cup winners their clean opportunity can build sympathy, provided the eventual match pays it back. An obstacle is useful; an endless detour is bookkeeping. Kendal Grey’s confirmed November 17 rematch against Kelani Jordan gives the women’s championship story a firmer date.",
+        "One division is waiting for its promised opportunity. The other has put the next one on the calendar."
+      ],
+      "sources": [
+        {
+          "title": "NXT source report",
+          "url": "https://www.wwe.com/shows/wwenxt/2026-11-10/results"
+        },
+        {
+          "title": "NXT supporting coverage / official schedule",
+          "url": "https://www.postwrestling.com/2026/11/10/kelani-jordan-vs-kendal-grey-title-rematch-set-for-11-17-wwe-nxt/"
+        }
+      ],
+      "promotions": [
+        "NXT"
+      ]
+    },
+    {
+      "id": "pc-update-2026-11-11-tna",
+      "date": "2026-11-11",
+      "kind": "Preview & commentary",
+      "title": "TNA: Destination X gets its final dress rehearsal.",
+      "dek": "Moose–Samuel Shaw and Ali–Kazarian headline Thursday’s preview.",
+      "paragraphs": [
+        "TNA’s final Impact before Destination X advertises Moose against Samuel Shaw, Mustafa Ali against Frankie Kazarian, and Elijah against Nic Nemeth on November 12. Leon Slater and Trey Miguel are also scheduled for Destination Next before their World Championship match on November 15.",
+        "My take: the go-home show works when every confrontation explains why Sunday matters. Moose already has an opponent inside the broader syX conflict, while Slater and Miguel need to make their title match feel distinct from the surrounding traffic. There is enough here without inventing a surprise.",
+        "This is the advertised road to Edmonton. Thursday’s outcomes are still ahead."
+      ],
+      "sources": [
+        {
+          "title": "TNA source report",
+          "url": "https://tnawrestling.com/news/tna-thursday-night-impact-on-amc-preview-november-12-2026"
+        },
+        {
+          "title": "TNA supporting coverage / official schedule",
+          "url": "https://tnawrestling.com/destinationx"
+        }
+      ],
+      "promotions": [
+        "TNA"
+      ]
+    },
+    {
+      "id": "pc-update-2026-11-11-aaa",
+      "date": "2026-11-11",
+      "kind": "Reported update & commentary",
+      "title": "AAA: A Hall of Fame ceremony becomes a power play.",
+      "dek": "Marisela Peña’s induction ends with an on-screen suspension for Rey Mysterio.",
+      "paragraphs": [
+        "Marisela Peña’s Hall of Fame induction on the November 7 Héroes Inmortales broadcast became the setting for another AAA authority struggle. Rey Mysterio delivered the induction, then Dorian Roldán interrupted and announced Mysterio’s suspension as general manager within the television storyline.",
+        "My take: putting an authority angle inside a celebration borrows emotion from the ceremony. It can make the interruption sting, but the honor still needs room to mean something after the argument takes over. Peña’s history should be more than scenery for the next dispute.",
+        "The suspension is an on-screen plot development, not a separately verified corporate personnel announcement."
+      ],
+      "sources": [
+        {
+          "title": "AAA source report",
+          "url": "https://www.postwrestling.com/2026/11/07/rey-mysterio-suspended-as-aaa-general-manager-accused-of-affair-with-marisela-pena/"
+        },
+        {
+          "title": "AAA supporting coverage / official schedule",
+          "url": "https://prod-www.luchalibreaaa.com/videos/resumen-completo-de-lucha-libre-aaa-7-de-noviembre-2026"
+        }
+      ],
+      "promotions": [
+        "AAA"
+      ]
+    },
+    {
+      "id": "pc-update-2026-11-11-njpw",
+      "date": "2026-11-11",
+      "kind": "Preview & commentary",
+      "title": "NJPW: Dangerous Tekkers have another league in them.",
+      "dek": "Zack Sabre Jr. joins Taichi for World Tag League.",
+      "paragraphs": [
+        "Dangerous Tekkers are returning to World Tag League. NJPW confirmed Zack Sabre Jr. alongside Taichi, with the tournament opening November 23. The familiar partnership gives the field a team whose shared history needs very little explanation.",
+        "My take: a reunion is useful when the matches test whether the old understanding still works. Nostalgia earns the entrance reaction; teamwork has to earn the points. A round-robin schedule is a good setting for that distinction because one emotional opening night cannot carry an entire campaign.",
+        "The partnership is confirmed. The standings are not: this league has not started at the time of publication."
+      ],
+      "sources": [
+        {
+          "title": "NJPW source report",
+          "url": "https://www.njpw1972.com/681064"
+        },
+        {
+          "title": "NJPW supporting coverage / official schedule",
+          "url": "https://help.njpwworld.com/hc/en-us/articles/63266081784089-Schedule-for-November-2026"
+        }
+      ],
+      "promotions": [
+        "NJPW"
+      ]
+    },
     {
       "id": "pc-week-2026-11-09-wwe",
       "date": "2026-11-09",
