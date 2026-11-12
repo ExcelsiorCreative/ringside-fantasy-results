@@ -1,7 +1,14 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-12T00:49:52Z",
-  "failed": [],
+  "fetchedAt": "2026-11-12T07:48:06Z",
+  "failed": [
+    "WWE",
+    "AEW",
+    "TNA",
+    "NXT",
+    "AAA",
+    "NJPW"
+  ],
   "items": [
     {
       "id": "zUYCeP_mS8k",
