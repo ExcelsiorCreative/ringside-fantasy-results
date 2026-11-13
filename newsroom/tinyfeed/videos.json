@@ -1,35 +1,41 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-12T22:19:06Z",
-  "failed": [],
+  "fetchedAt": "2026-11-13T02:41:51Z",
+  "failed": [
+    "AEW",
+    "TNA",
+    "NXT",
+    "AAA",
+    "NJPW"
+  ],
   "items": [
     {
       "id": "pKafkmpf-Ro",
       "title": "EXCLUSIVE: Axiom to Damian Priest: “You are a coward”: Main Event highlights, Nov. 11, 2026",
       "published": "2026-11-12T22:00:21+00:00",
       "promotion": "WWE",
-      "views": 639
+      "views": null
     },
     {
       "id": "18f2DPDc9D8",
       "title": "EXCLUSIVE: Raquel Rodriguez aims to destroy IYO SKY: Main Event highlights, Nov. 11, 2026",
       "published": "2026-11-12T21:01:08+00:00",
       "promotion": "WWE",
-      "views": 6865
+      "views": null
     },
     {
       "id": "CBl4SnkLLoc",
       "title": "Otis and Ivar collide in clash of titans: Main Event highlights, Nov. 11, 2026",
       "published": "2026-11-12T19:30:19+00:00",
       "promotion": "WWE",
-      "views": 13084
+      "views": null
     },
     {
       "id": "mzChNXC0J18",
       "title": "Sol Ruca looks to snatch soul from Nikkita Lyons: Main Event highlights, Nov. 11, 2026",
       "published": "2026-11-12T19:00:12+00:00",
       "promotion": "WWE",
-      "views": 24626
+      "views": null
     },
     {
       "id": "p6OXvlraido",
@@ -43,7 +49,7 @@
       "title": "FULL INTERVIEW: Becky Lynch loves beating up The Judgment Day | Raw Recap: WWE Now",
       "published": "2026-11-12T17:00:13+00:00",
       "promotion": "WWE",
-      "views": 20983
+      "views": null
     },
     {
       "id": "c6e3Lpzh0a0",
@@ -64,28 +70,28 @@
       "title": "WWE Evolve FULL EPISODE: November 11, 2026",
       "published": "2026-11-12T14:30:25+00:00",
       "promotion": "WWE",
-      "views": 23756
+      "views": null
     },
     {
       "id": "xwR0NnJPGF8",
       "title": "FULL MATCH: Cody Rhodes vs. Bronson Reed | Undisputed WWE Title Match: SmackDown, Nov. 14, 2025",
       "published": "2026-11-12T14:00:19+00:00",
       "promotion": "WWE",
-      "views": 80728
+      "views": null
     },
     {
       "id": "Y5XxN1e3byw",
       "title": "FULL MATCH: Bianca Belair, Charlotte Flair & Asuka vs. Damage CTRL: SmackDown, Nov. 10, 2023",
       "published": "2026-11-12T14:00:01+00:00",
       "promotion": "WWE",
-      "views": 44659
+      "views": null
     },
     {
       "id": "lVCGHjBaGVQ",
       "title": "Roman Reigns’ signs of respect: WWE Playlist",
       "published": "2026-11-12T13:00:00+00:00",
       "promotion": "WWE",
-      "views": 88401
+      "views": null
     },
     {
       "id": "JlJ1neXCuM8",
@@ -197,7 +203,7 @@
       "title": "Best of Traditional Survivor Series Matches: Full Match Marathon",
       "published": "2026-11-12T01:21:33+00:00",
       "promotion": "WWE",
-      "views": 184737
+      "views": null
     },
     {
       "id": "WLtQU6RXOfA",
@@ -218,7 +224,7 @@
       "title": "Best of Traditional Survivor Series Matches: Full Match Marathon",
       "published": "2026-11-11T03:42:18+00:00",
       "promotion": "WWE",
-      "views": 209923
+      "views": null
     },
     {
       "id": "Yh4XfZA3XcA",
