@@ -1,350 +1,399 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-15T07:45:43Z",
-  "failed": [
-    "WWE",
-    "AEW",
-    "TNA",
-    "NXT",
-    "AAA",
-    "NJPW"
-  ],
+  "fetchedAt": "2026-11-15T14:59:37Z",
+  "failed": [],
   "items": [
+    {
+      "id": "8_mvhK5NYDE",
+      "title": "FULL MATCH: Jericho, Paul Wight, Kenny Omega & Kota Ibushi in the Like a Dragon Gaiden Street Fight!",
+      "published": "2026-11-15T14:00:19+00:00",
+      "promotion": "AEW",
+      "views": 3782
+    },
+    {
+      "id": "fr7PXCQyIMI",
+      "title": "FULL MATCH: Women’s WarGames Match: Survivor Series: WarGames 2025",
+      "published": "2026-11-15T14:00:08+00:00",
+      "promotion": "WWE",
+      "views": 8306
+    },
+    {
+      "id": "XDuC_4U5C0k",
+      "title": "FULL EPISODE: Hayes & Williams unravel; Stratton vs. Henley | WWE NXT, Nov. 7, 2023",
+      "published": "2026-11-15T13:00:22+00:00",
+      "promotion": "NXT",
+      "views": 1131
+    },
+    {
+      "id": "DMjIwwn6zgQ",
+      "title": "25 good women gone bad: WWE Top 10 special edition, Nov. 15, 2026",
+      "published": "2026-11-15T13:00:07+00:00",
+      "promotion": "WWE",
+      "views": 8063
+    },
+    {
+      "id": "MnfpSMbHdrw",
+      "title": "AEW WrestleDream Post Event Media Scrum | 10/17/26, Orlando, FL",
+      "published": "2026-11-15T12:04:38+00:00",
+      "promotion": "AEW",
+      "views": 0
+    },
+    {
+      "id": "R5yG6QyZM2o",
+      "title": "MJF is BACK! | AEW Full Gear 2026",
+      "published": "2026-11-15T08:15:25+00:00",
+      "promotion": "AEW",
+      "views": 142290
+    },
+    {
+      "id": "QAITFb3MXMs",
+      "title": "Will Ospreay vs Kyle Fletcher - AEW World Championship | AEW Full Gear 2026",
+      "published": "2026-11-15T08:10:06+00:00",
+      "promotion": "AEW",
+      "views": 52162
+    },
+    {
+      "id": "PL5I3dsjM9k",
+      "title": "aew full gear got frame mogged by nick wayne 😮‍💨",
+      "published": "2026-11-15T08:00:34+00:00",
+      "promotion": "AEW",
+      "views": 22342
+    },
+    {
+      "id": "A_7ZBUPIf4Q",
+      "title": "From FRIENDS to FOES! Will Ospreay arrives to face Kyle Fletcher at AEW Full Gear 2026",
+      "published": "2026-11-15T07:56:04+00:00",
+      "promotion": "AEW",
+      "views": 23005
+    },
+    {
+      "id": "pqy7p43AqFc",
+      "title": "Anarchy in the Arena was UP IN HERE! (UP IN HERE!) | AEW Full Gear 2026",
+      "published": "2026-11-15T07:45:43+00:00",
+      "promotion": "AEW",
+      "views": 60361
+    },
+    {
+      "id": "xNI4VBBC3Yg",
+      "title": "Mercedes Moné & Kemalito CRASHED Anarchy in the Arena! | AEW Full Gear 2026",
+      "published": "2026-11-15T07:33:23+00:00",
+      "promotion": "AEW",
+      "views": 102761
+    },
+    {
+      "id": "-pHsrTJPKT0",
+      "title": "AEW Full Gear Post Show Media Scrum",
+      "published": "2026-11-15T07:27:54+00:00",
+      "promotion": "AEW",
+      "views": 50222
+    },
+    {
+      "id": "Lu_UUSYaHaA",
+      "title": "Claudio Castagnoli & KeMalito RULE at Anarchy in the Arena! | AEW Full Gear 2026",
+      "published": "2026-11-15T07:20:50+00:00",
+      "promotion": "AEW",
+      "views": 86735
+    },
+    {
+      "id": "TFpFQrW2yow",
+      "title": "Jon Moxley brings back WILD THING for Anarchy in the Arena! | AEW Full Gear 2026",
+      "published": "2026-11-15T07:11:53+00:00",
+      "promotion": "AEW",
+      "views": 72396
+    },
+    {
+      "id": "_4vL2oz1Pzo",
+      "title": "Mercedes Moné vs Marina Shafir - AEW Women's World Championship | AEW Full Gear 2026",
+      "published": "2026-11-15T07:10:33+00:00",
+      "promotion": "AEW",
+      "views": 84556
+    },
+    {
+      "id": "WXHxiBEHkag",
+      "title": "Ilja Dragunov & Tommaso Ciampa deliver a HARD-HITTING CLASSIC at AEW Full Gear 2026!",
+      "published": "2026-11-15T07:05:15+00:00",
+      "promotion": "AEW",
+      "views": 39475
+    },
+    {
+      "id": "6gh0QLuhaII",
+      "title": "The Brawling Birds vs Wrathlander - AEW Women's World Tag Team Championship | AEW Full Gear 2026",
+      "published": "2026-11-15T07:00:11+00:00",
+      "promotion": "AEW",
+      "views": 18825
+    },
+    {
+      "id": "x1Sv22lzNzc",
+      "title": "Samoa Joe is LOOKING for \"Jungle\" Jack Perry this Wednesday! | AEW Full Gear 2026",
+      "published": "2026-11-15T06:55:11+00:00",
+      "promotion": "AEW",
+      "views": 13055
+    },
+    {
+      "id": "F8D_MEF_8Nk",
+      "title": "A mysterious attacker helps Omos beat Pimpinela Escarlata | No DQ Match: Lucha Libre AAA highlights",
+      "published": "2026-11-15T03:42:41+00:00",
+      "promotion": "WWE",
+      "views": 94938
+    },
+    {
+      "id": "-3aNKHss2W0",
+      "title": "Grande Americano, Rey Fenix, and La Parka, put Omos through a table: Lucha Libre AAA highlights",
+      "published": "2026-11-15T03:26:25+00:00",
+      "promotion": "WWE",
+      "views": 164678
+    },
+    {
+      "id": "8uAbAnYuANw",
+      "title": "Jack Cartwheel defeats Kento and Lince Dorado | Tournament Match: Lucha Libre AAA highlights",
+      "published": "2026-11-15T03:17:49+00:00",
+      "promotion": "WWE",
+      "views": 26484
+    },
+    {
+      "id": "saYGiwAv9FU",
+      "title": "FULL EPISODE: Lucha Libre AAA, November 14, 2026",
+      "published": "2026-11-15T03:06:22+00:00",
+      "promotion": "WWE",
+      "views": 186277
+    },
+    {
+      "id": "dwB1_I7Tgis",
+      "title": "New interim GM Dorian Roldan kicks Rey Mysterio out of the arena: Lucha Libre AAA highlights",
+      "published": "2026-11-15T03:02:54+00:00",
+      "promotion": "WWE",
+      "views": 147198
+    },
+    {
+      "id": "xrBtGK1hJhU",
+      "title": "2007 TNA iMPACT Marathon!",
+      "published": "2026-11-15T02:22:09+00:00",
+      "promotion": "TNA",
+      "views": 132825
+    },
     {
       "id": "4OwRGrh9kHg",
       "title": "Top 10 SmackDown moments: WWE Top 10, Nov. 13, 2026",
       "published": "2026-11-14T20:00:17+00:00",
       "promotion": "WWE",
-      "views": 11429
-    },
-    {
-      "id": "xrBtGK1hJhU",
-      "title": "2007 TNA iMPACT Marathon!",
-      "published": "2026-11-14T18:21:36+00:00",
-      "promotion": "TNA",
-      "views": 6089
+      "views": 354298
     },
     {
       "id": "zsgpSfHd_Rs",
       "title": "Apex DOMINANT Ahead of Destination X | TNA iMPACT! November 12, 2026",
       "published": "2026-11-14T18:10:03+00:00",
       "promotion": "TNA",
-      "views": 5899
+      "views": 34997
     },
     {
       "id": "KCFBeWkAdjE",
       "title": "Elayna Black vs. Heather By Elegance (FULL MATCH) | TNA iMPACT! November 12, 2026",
       "published": "2026-11-14T15:08:02+00:00",
       "promotion": "TNA",
-      "views": 19751
+      "views": 50071
     },
     {
       "id": "tdfp02psTpo",
       "title": "FULL MATCH: Finn Bálor vs. Riddle: NXT TakeOver: WarGames 2019",
       "published": "2026-11-14T15:00:20+00:00",
       "promotion": "NXT",
-      "views": 8671
+      "views": 21881
     },
     {
       "id": "EjdaYkSGh4o",
       "title": "Pre-Show and first preliminary match: Riyadh Season Zuffa Boxing 13",
       "published": "2026-11-14T12:30:03+00:00",
       "promotion": "WWE",
-      "views": 11800
-    },
-    {
-      "id": "K2rvUdNIIbo",
-      "title": "Kenny Omega & Hangman Page sign their championship contract! | AEW Dynamite, 11/10/21",
-      "published": "2026-11-14T10:30:08+00:00",
-      "promotion": "AEW",
-      "views": 23529
+      "views": 16249
     },
     {
       "id": "-8kUmodkhHE",
       "title": "外道の相手は\"どうしても勝ちたいヤツ\"【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-14T09:00:05+00:00",
       "promotion": "NJPW",
-      "views": 44504
+      "views": 59368
     },
     {
       "id": "JO-NVkYpbXA",
       "title": "WWE Celebrates Children’s Day: WWE Now India",
       "published": "2026-11-14T04:00:30+00:00",
       "promotion": "WWE",
-      "views": 11413
+      "views": 12391
     },
     {
       "id": "CCKgz9k7QLc",
       "title": "Full SmackDown highlights: Nov. 13, 2026",
       "published": "2026-11-14T03:45:57+00:00",
       "promotion": "WWE",
-      "views": 836022
-    },
-    {
-      "id": "pYI4KJpPcQo",
-      "title": "Finn Bálor vs. Gunther: SmackDown highlights, Nov. 13, 2026",
-      "published": "2026-11-14T03:23:00+00:00",
-      "promotion": "WWE",
-      "views": 216354
-    },
-    {
-      "id": "fvfkdP800mw",
-      "title": "Tiffany Stratton knocks out Chelsea Green with Crown Jewel ring: SmackDown highlights, Nov. 13, 2026",
-      "published": "2026-11-14T03:01:17+00:00",
-      "promotion": "WWE",
-      "views": 299891
-    },
-    {
-      "id": "rPlXdMmAi7Q",
-      "title": "Stephanie Vaquer joins Charlotte Flair in brawl, sparks WarGames challenge: SmackDown highlights",
-      "published": "2026-11-14T02:57:26+00:00",
-      "promotion": "WWE",
-      "views": 405154
-    },
-    {
-      "id": "QLOlyrpQdXc",
-      "title": "EXCLUSIVE: The Bloodline challenge The 946 to WarGames: SmackDown highlights, Nov. 13, 2026",
-      "published": "2026-11-14T02:50:53+00:00",
-      "promotion": "WWE",
-      "views": 544996
-    },
-    {
-      "id": "0nd2fI8gEfo",
-      "title": "FULL SEGMENT: Kevin Owens demands a WWE Title Match from Sami Zayn: SmackDown highlights",
-      "published": "2026-11-14T02:43:36+00:00",
-      "promotion": "WWE",
-      "views": 568882
-    },
-    {
-      "id": "Tf3IMi25vTc",
-      "title": "Chris Jericho meets MJF! | AEW Dynamite, 11/13/19",
-      "published": "2026-11-13T22:00:31+00:00",
-      "promotion": "AEW",
-      "views": 26326
+      "views": 1004446
     },
     {
       "id": "py3dIYIqUdQ",
       "title": "The Rise and Fall of Order 4 | Immersed: In Order 4 We Trust",
       "published": "2026-11-13T17:00:29+00:00",
       "promotion": "TNA",
-      "views": 11009
-    },
-    {
-      "id": "i9vgcVSmHK0",
-      "title": "AEW Full Gear MARATHON! | AEW Timelines",
-      "published": "2026-11-13T15:30:09+00:00",
-      "promotion": "AEW",
-      "views": 37996
+      "views": 12662
     },
     {
       "id": "SEBZ3huqYFQ",
       "title": "World Title Shot ON THE LINE: Nic Nemeth vs. Elijah (FULL MATCH) | TNA iMPACT! November 12, 2026",
       "published": "2026-11-13T15:00:21+00:00",
       "promotion": "TNA",
-      "views": 24289
+      "views": 27141
     },
     {
       "id": "IYEFMJAxcgs",
       "title": "FULL EPISODE: Mysterio vs. Frazer; Tables, Ladders & Scares Match | WWE NXT, Oct. 31, 2023",
       "published": "2026-11-13T13:00:22+00:00",
       "promotion": "NXT",
-      "views": 25332
+      "views": 29175
     },
     {
       "id": "viqnkk78Bkg",
       "title": "【NJPW Full Match】ザック・セイバーJr. vs エチセロ／2025.1.12 アメリカ『Battle in the Valley 2025』",
       "published": "2026-11-13T11:08:26+00:00",
       "promotion": "NJPW",
-      "views": 63016
+      "views": 85561
     },
     {
       "id": "Yh4XfZA3XcA",
       "title": "【🇲🇽年に一度のお祭り🇯🇵】『NJPW PRESENTS CMLL FANTASTICA MANIA 2027』出場選手発表",
       "published": "2026-11-13T11:00:11+00:00",
       "promotion": "NJPW",
-      "views": 63118
+      "views": 69860
     },
     {
       "id": "vbfQ583ezSQ",
       "title": "Yuto-Iceの対戦相手は この男!!【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-13T09:00:22+00:00",
       "promotion": "NJPW",
-      "views": 80390
+      "views": 86430
     },
     {
       "id": "Dhkl8KuqLNQ",
       "title": "【音声のみ】外道選手のPodcast『Junk Yard Radio』第44回「外道、はじめての画鋲」",
       "published": "2026-11-13T08:00:14+00:00",
       "promotion": "NJPW",
-      "views": 7301
+      "views": 7930
     },
     {
       "id": "XqlnGatg4hc",
       "title": "FIRST TIME EVER MATCH: Mustafa Ali vs. Frankie Kazarian (FULL MATCH) | TNA iMPACT! November 12, 2026",
       "published": "2026-11-13T04:15:04+00:00",
       "promotion": "TNA",
-      "views": 37556
+      "views": 39654
     },
     {
       "id": "cEw85aOYFNo",
       "title": "How the TNA World Title Changed Leon Slater's Life: Destination neXt | TNA iMPACT! November 12, 2026",
       "published": "2026-11-13T04:00:38+00:00",
       "promotion": "TNA",
-      "views": 12170
+      "views": 12760
     },
     {
       "id": "OnzR4bs-H-8",
       "title": "Trey Miguel's Emotional Journey to Destination X: Destination neXt | TNA iMPACT! November 12, 2026",
       "published": "2026-11-13T04:00:04+00:00",
       "promotion": "TNA",
-      "views": 9617
+      "views": 10081
     },
     {
       "id": "vBOpR6q58bU",
       "title": "Moose vs. Samuel Shaw as War With syX Escalates | TNA iMPACT! November 12, 2026",
       "published": "2026-11-13T03:30:10+00:00",
       "promotion": "TNA",
-      "views": 47548
-    },
-    {
-      "id": "Qv66pztnG60",
-      "title": "Everything You Need To Know About AEW Full Gear 2026 ⚙️",
-      "published": "2026-11-13T00:00:07+00:00",
-      "promotion": "AEW",
-      "views": 37009
-    },
-    {
-      "id": "p6OXvlraido",
-      "title": "Christian Cage Entrance with a Children's Choir?! | AEW Full Gear 2023",
-      "published": "2026-11-12T18:30:17+00:00",
-      "promotion": "AEW",
-      "views": 38982
-    },
-    {
-      "id": "c6e3Lpzh0a0",
-      "title": "OMG Full Gear Moments! | AEW Top 10",
-      "published": "2026-11-12T16:00:28+00:00",
-      "promotion": "AEW",
-      "views": 27469
+      "views": 49826
     },
     {
       "id": "gqt6zpKSORo",
       "title": "FULL MATCH: Ricky Saints vs. Trick Williams | NXT Title Last Man Standing Match: NXT, Nov. 11, 2025",
       "published": "2026-11-12T15:00:39+00:00",
       "promotion": "NXT",
-      "views": 38134
+      "views": 40961
     },
     {
       "id": "JlJ1neXCuM8",
       "title": "OSKAR×ランス・アーチャー 超弩級のモンスターバトル！【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-12T09:00:16+00:00",
       "promotion": "NJPW",
-      "views": 45020
-    },
-    {
-      "id": "KbSQCXBw-4U",
-      "title": "AEW Full Gear 2026 Cold Open",
-      "published": "2026-11-12T07:00:21+00:00",
-      "promotion": "AEW",
-      "views": 33195
-    },
-    {
-      "id": "Fw9XZXB7Rek",
-      "title": "Countdown to AEW Full Gear 2026 | All Elite Wrestling",
-      "published": "2026-11-12T06:00:06+00:00",
-      "promotion": "AEW",
-      "views": 50616
-    },
-    {
-      "id": "ifcKW2-m4TU",
-      "title": "Ilja Dragunov with the SURPRISE for Tommaso Ciampa! | AEW Dynamite, 11/11/26",
-      "published": "2026-11-12T05:45:31+00:00",
-      "promotion": "AEW",
-      "views": 120674
-    },
-    {
-      "id": "Lt57fUEhc2k",
-      "title": "bro really interrupted mistico fr 😂💀",
-      "published": "2026-11-12T05:45:23+00:00",
-      "promotion": "AEW",
-      "views": 91739
+      "views": 45827
     },
     {
       "id": "mhxBzkhFlWo",
       "title": "2009 TNA iMPACT Marathon!",
       "published": "2026-11-12T04:20:55+00:00",
       "promotion": "TNA",
-      "views": 220616
+      "views": 219907
     },
     {
       "id": "fAhlCKcp0fQ",
       "title": "【チケット発売中！】2027年1月4日東京ドーム『闘魂55年 WRESTLE KINGDOM 21 in 東京ドーム』",
       "published": "2026-11-12T02:20:51+00:00",
       "promotion": "NJPW",
-      "views": 46622
+      "views": 66476
     },
     {
       "id": "WLtQU6RXOfA",
       "title": "The best of Cruz Montana in NXT",
       "published": "2026-11-11T15:00:39+00:00",
       "promotion": "NXT",
-      "views": 32580
+      "views": 33088
     },
     {
       "id": "_YR2HEfGR60",
       "title": "Unbound Co.No.1マスクマン決定戦実現!?【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-11T09:00:26+00:00",
       "promotion": "NJPW",
-      "views": 33006
+      "views": 34822
     },
     {
       "id": "LLTPtN21tBU",
       "title": "TNA Destination X 2006 (FULL EVENT) | Christian vs. Monty, Styles vs. Daniels vs. Joe",
       "published": "2026-11-10T22:00:13+00:00",
       "promotion": "TNA",
-      "views": 15201
+      "views": 15905
     },
     {
       "id": "sKF8fNqCGaQ",
       "title": "Cedric Alexander vs. TW3 | TNA Xplosion November 6, 2026",
       "published": "2026-11-10T17:00:20+00:00",
       "promotion": "TNA",
-      "views": 15464
+      "views": 15664
     },
     {
       "id": "ndwsTXLTi-g",
       "title": "FULL MATCH: LA Knight vs. Solo Sikoa vs. Grayson Waller | Triple Threat Match: NXT, Nov. 9, 2021",
       "published": "2026-11-10T15:00:39+00:00",
       "promotion": "NXT",
-      "views": 18791
+      "views": 19024
     },
     {
       "id": "Z7_tJ94wv9U",
       "title": "ベトナムプロレス アレス 辻陽太と覚悟の一騎打ち【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-10T09:00:04+00:00",
       "promotion": "NJPW",
-      "views": 37232
+      "views": 37548
     },
     {
       "id": "Bz-IkS_SRWQ",
       "title": "TOP 10 Moments from TNA iMPACT! November 5, 2026",
       "published": "2026-11-09T21:00:43+00:00",
       "promotion": "TNA",
-      "views": 33293
+      "views": 33734
     },
     {
       "id": "-XGuS8nEr3A",
       "title": "【生配信】11月の闘魂ショッピングは海野翔太が登場！",
       "published": "2026-11-08T11:14:33+00:00",
       "promotion": "NJPW",
-      "views": 33978
+      "views": 34070
     },
     {
       "id": "2IlZl_TRwmo",
       "title": "OSKAR「世界中のモンスター かかってこい！」【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-07T09:00:39+00:00",
       "promotion": "NJPW",
-      "views": 50615
+      "views": 50721
     },
     {
       "id": "QWl6p8P5fdE",
