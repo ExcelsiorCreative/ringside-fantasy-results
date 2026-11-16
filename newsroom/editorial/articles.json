@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-11-11T19:10:51.604493Z",
+  "updatedAt": "2026-11-16T17:06:02Z",
   "articles": [
+    {
+      "id": "pc-week-2026-11-16-wwe",
+      "date": "2026-11-16",
+      "kind": "TV review",
+      "title": "WWE: The Ring General takes a shortcut",
+      "dek": "Gunther beat Finn Bálor after the referee became an inconvenient witness.",
+      "paragraphs": [
+        "SmackDown on November 13 gave Gunther a victory with a distinctly crooked approach. He pushed Finn Bálor into the referee, delivered a low blow while the official was disoriented, then finished with a Powerbomb. The Ring General had apparently discovered an express lane.",
+        "My take: the shortcut matters more than another entry in the win column. A wrestler who carries himself like the building inspector becomes considerably more interesting when caught moving the exit sign. Elsewhere, the War Raiders interrupted the MFTs’ title defense against Bakusai, leaving that championship argument unresolved.",
+        "One match found a winner. Another found more combatants. Friday’s most dependable finishing move was making the referee’s evening worse."
+      ],
+      "sources": [
+        {
+          "title": "WWE SmackDown results — November 13, 2026",
+          "url": "https://www.wwe.com/shows/smackdown/2026-11-13/results"
+        },
+        {
+          "title": "Fightful: SmackDown results — November 13, 2026",
+          "url": "https://www.fightful.com/wrestling/wwe-smackdown-results-11-13-2026-john-cena-appears-tiffany-stratton-more/"
+        }
+      ],
+      "promotions": [
+        "WWE"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-16-aew",
+      "date": "2026-11-16",
+      "kind": "Reported feature",
+      "title": "AEW: Dragunov collects the National debt",
+      "dek": "Ilja Dragunov took Tommaso Ciampa’s championship through a battle of damaged limbs.",
+      "paragraphs": [
+        "Full Gear in Phoenix on November 14 gave Ilja Dragunov his first AEW championship. He defeated Tommaso Ciampa for the National title, following a powerbomb with a D-Bomb and the pin. Before that, Ciampa worked on Dragunov’s arm while the challenger attacked the champion’s knee.",
+        "My take: this was an argument conducted through increasingly expensive body parts. Each man had a practical reason to struggle, which made the final burst feel earned rather than merely loud. The championship supplied the destination; the targeting supplied the street map. A title change is better when the match explains its own route.",
+        "Ciampa arrived with the belt and a plan. Dragunov left with the belt. Plans travel lighter."
+      ],
+      "sources": [
+        {
+          "title": "AEW Full Gear results — November 14, 2026",
+          "url": "https://www.allelitewrestling.com/post/aew-full-gear-results-november-14-2026"
+        },
+        {
+          "title": "Fightful: Full Gear results — November 14, 2026",
+          "url": "https://www.fightful.com/wrestling/aew-full-gear-results-11-14-2026-will-ospreay-vs-kyle-fletcher-texas-death-anarchy-in-the-arena-mercedes-mone-more/"
+        }
+      ],
+      "promotions": [
+        "AEW"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-16-nxt",
+      "date": "2026-11-16",
+      "kind": "Reported feature",
+      "title": "NXT: Kendal Grey puts the rematch on the calendar",
+      "dek": "A championship challenge becomes an appointment for November 17.",
+      "paragraphs": [
+        "NXT on November 10 gave Kendal Grey something sturdier than a pointed stare: a championship appointment. Grey confronted NXT Women’s Champion Kelani Jordan, and their rematch was announced for November 17. POST Wrestling reported that Jordan ended Grey’s reign at Heatwave in August.",
+        "My take: a returning challenger needs a destination before the audience needs another recap. Setting the date gives Grey’s grievance a useful clock and Jordan an opponent with unfinished business. The segment did not require a borrowed main-roster attraction or a committee meeting at ringside. A former champion wanted her opportunity; the show put it in writing.",
+        "The appointment is confirmed. The winner is not. Next Tuesday gets to handle the collection."
+      ],
+      "sources": [
+        {
+          "title": "WWE NXT results — November 10, 2026",
+          "url": "https://www.wwe.com/shows/wwenxt/2026-11-10"
+        },
+        {
+          "title": "POST Wrestling: Jordan–Grey rematch announced",
+          "url": "https://www.postwrestling.com/2026/11/10/kelani-jordan-vs-kendal-grey-title-rematch-set-for-11-17-wwe-nxt/"
+        }
+      ],
+      "promotions": [
+        "NXT"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-16-tna",
+      "date": "2026-11-16",
+      "kind": "Reported feature",
+      "title": "TNA: Slater keeps his destination",
+      "dek": "Leon Slater retained against Trey Miguel after a disrupted road to Edmonton.",
+      "paragraphs": [
+        "Destination X in Edmonton on November 15 kept its world champion despite a scrambled itinerary. Leon Slater defeated Trey Miguel with the Swanton 450 to retain the TNA World Championship. TNA’s official coverage said travel problems forced changes elsewhere, including pulling the advertised World Tag Team Championship match.",
+        "My take: a card can lose its original shape without losing its center. Slater and Miguel supplied the clearly defined championship contest the evening needed, while Ricky Sosa won the World X-Cup by last eliminating Fabian Aichner. The night still produced a champion’s defense and a newcomer’s calling card.",
+        "The departures board had its revisions. Slater’s nameplate did not. Edmonton received the main event with its champion attached."
+      ],
+      "sources": [
+        {
+          "title": "TNA Destination X official results — November 15, 2026",
+          "url": "https://tnawrestling.com/news/tna-destination-x-live-results"
+        },
+        {
+          "title": "TPWW: Destination X results — November 15, 2026",
+          "url": "https://www.tpww.net/2026/11/tna-destination-x-2026-results-nov-15-2026-mens-womens-ultimate-x-matches-2026-world-x-cup-leon-slater-vs-trey-miguel/"
+        }
+      ],
+      "promotions": [
+        "TNA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-16-aaa",
+      "date": "2026-11-16",
+      "kind": "TV review",
+      "title": "AAA: Pimpinela’s fight acquires a guest list",
+      "dek": "Omos won the No Disqualification main event after unidentified attackers intervened.",
+      "paragraphs": [
+        "AAA’s November 14 broadcast turned Pimpinela Escarlata’s No Disqualification fight with Omos into a gathering with very poor manners. El Grande Americano, Los Perros del Mal, La Parka and Rey Fenix became involved. Unidentified attackers then broke up Pimpinela’s cover, and Omos won with a chokeslam.",
+        "My take: the giant already supplied the size difference; the interruptions supplied a second contest over who controlled the scene. Pimpinela’s resistance gave the commotion a center, but the mystery needs a clear follow-up before the guest list becomes the whole story. The attackers’ identities were not established by commentary.",
+        "Omos got the pin. Pimpinela got another grievance. Somebody should have checked invitations at the ropes."
+      ],
+      "sources": [
+        {
+          "title": "AAA official November 14 highlights",
+          "url": "https://prod-www.luchalibreaaa.com/videos/omos-y-pimpinela-escarlata-desatan-el-caos-lucha-libre-aaa-highlights-14-de-noviembre-2026"
+        },
+        {
+          "title": "Cageside Seats: interference in Omos–Pimpinela",
+          "url": "https://www.cagesideseats.com/lucha-libre-aaa-cmll/487003/mysterious-attackers-help-omos-beat-pimpinela-escarlata-in-aaa-black-andromeda-adelicious"
+        }
+      ],
+      "promotions": [
+        "AAA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-16-njpw",
+      "date": "2026-11-16",
+      "kind": "Reported feature",
+      "title": "NJPW: The clock keeps a straight face",
+      "dek": "A time-limit draw anchored an evening of MxM’s expanding workload.",
+      "paragraphs": [
+        "The November 9 GasPE Invitational at Tokyo’s Shin-Kiba 1st RING began with Naruki Doi and Taiji Ishimori reaching a ten-minute time-limit draw. Bishamon defeated MxM Collection, while Mason Madden won the Rambo to determine the second-generation Milano. NJPW’s official account highlighted MxM’s three-match workload.",
+        "My take: a little absurdity benefits from a dependable clock. The draw gave the evening a familiar wrestling boundary before the increasingly elaborate collection of names and stipulations took over. Madden could lose a tag match and still collect a separate victory without either result erasing the other. Even comic business needs its receipts.",
+        "Ten minutes settled nothing. The rest of the evening made that look positively efficient."
+      ],
+      "sources": [
+        {
+          "title": "NJPW official GasPE Invitational report — November 9, 2026",
+          "url": "https://www.njpw.co.jp/681270/"
+        },
+        {
+          "title": "Fightful: GasPE Invitational results — event November 9, report November 10",
+          "url": "https://www.fightful.com/wrestling-news/njpw-el-desperado-gaspe-invitational-results-11-9"
+        }
+      ],
+      "promotions": [
+        "NJPW"
+      ]
+    },
     {
       "id": "pc-update-2026-11-11-wwe",
       "date": "2026-11-11",
