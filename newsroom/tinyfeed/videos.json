@@ -1,331 +1,336 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-20T18:45:51Z",
-  "failed": [
-    "NJPW"
-  ],
+  "fetchedAt": "2026-11-21T00:19:34Z",
+  "failed": [],
   "items": [
+    {
+      "id": "Nzyzgn4TARY",
+      "title": "FULL EPISODE: Lucha Libre AAA, November 21, 2026",
+      "published": "2026-11-20T23:27:25+00:00",
+      "promotion": "WWE",
+      "views": 0
+    },
+    {
+      "id": "XXriPMFE_kc",
+      "title": "Stephanie Vaquer addition shakes up Women's WarGames Match: WWE Now, Nov. 20, 2026",
+      "published": "2026-11-20T19:30:15+00:00",
+      "promotion": "WWE",
+      "views": 36057
+    },
+    {
+      "id": "9BKtdzaGI6Y",
+      "title": "EXCLUSIVE: 2026 AEW Continental Classic competitors speak following the first matches!",
+      "published": "2026-11-20T19:00:21+00:00",
+      "promotion": "AEW",
+      "views": 16753
+    },
+    {
+      "id": "H7fHLyGs5iY",
+      "title": "WWE pays tribute to “Cowboy” Bill Watts",
+      "published": "2026-11-20T18:52:07+00:00",
+      "promotion": "WWE",
+      "views": 8368
+    },
     {
       "id": "cxdoAD3PfCI",
       "title": "Trey Miguel Addresses Travel Hell & Courageous Destination X Match | TNA iMPACT! November 19, 2026",
       "published": "2026-11-20T18:00:05+00:00",
       "promotion": "TNA",
-      "views": 626
+      "views": 9515
     },
     {
       "id": "1LpXDlcBYUI",
       "title": "FULL MATCH: Kris Statlander vs Hikaru Shida | AEW Dynamite, 11/20/24",
       "published": "2026-11-20T16:00:11+00:00",
       "promotion": "AEW",
-      "views": 3691
+      "views": 11914
     },
     {
       "id": "tEPec7s_COg",
       "title": "The Toni Storm Tapes | Official Trailer",
       "published": "2026-11-20T15:00:38+00:00",
       "promotion": "AEW",
-      "views": 29393
+      "views": 68200
     },
     {
       "id": "Tn4khqzMjE4",
       "title": "Knockouts ALL-STAR Match Sees Champions and Contenders Face Off | TNA iMPACT! November 19, 2026",
       "published": "2026-11-20T15:00:24+00:00",
       "promotion": "TNA",
-      "views": 9103
+      "views": 24551
     },
     {
       "id": "U52O3jId4UM",
       "title": "FULL MATCH: Men’s WarGames Match: Survivor Series: WarGames 2025",
       "published": "2026-11-20T14:00:24+00:00",
       "promotion": "WWE",
-      "views": 235109
+      "views": 582589
     },
     {
       "id": "RZ0geHLqqWE",
       "title": "Every IYO SKY title win: WWE Playlist",
       "published": "2026-11-20T13:00:38+00:00",
       "promotion": "WWE",
-      "views": 46813
+      "views": 73938
+    },
+    {
+      "id": "ViiE23Jqubg",
+      "title": "【ヒストリー】新日本プロレス WORLD TAG LEAGUE 2012〜2025",
+      "published": "2026-11-20T13:00:15+00:00",
+      "promotion": "NJPW",
+      "views": 30514
     },
     {
       "id": "RGZZDrXCW4M",
       "title": "Kelani Jordan vs. Kendal Grey rivalry history | Every one-on-one match",
       "published": "2026-11-20T13:00:11+00:00",
       "promotion": "NXT",
-      "views": 9278
+      "views": 19090
     },
     {
       "id": "KbgbbIakQb0",
       "title": "FULL EPISODE: Reed vs. Gargano vs. Lee vs. Grimes; Breakker in action | WWE NXT, Nov. 28, 2023",
       "published": "2026-11-20T13:00:07+00:00",
       "promotion": "NXT",
-      "views": 5586
+      "views": 10653
     },
     {
       "id": "PFwtv2OgGqk",
       "title": "FULL MATCH: Timeless Toni Storm & Mina Shirakawa vs Riho & Alex Windsor | AEW Dynamite, 11/19/25",
       "published": "2026-11-20T10:00:03+00:00",
       "promotion": "AEW",
-      "views": 33975
+      "views": 44703
     },
     {
       "id": "voXHjxBtJWI",
       "title": "Nic Nemeth vs. Leon Slater for the TNA World Title (FULL MATCH) | TNA iMPACT! November 19, 2026",
       "published": "2026-11-20T04:00:32+00:00",
       "promotion": "TNA",
-      "views": 48400
+      "views": 57062
     },
     {
       "id": "ofq-Pxav4Qg",
       "title": "The Dollhouse RETURNS to TNA Led By Taryn Terrell | TNA iMPACT! November 19, 2026",
       "published": "2026-11-20T03:30:14+00:00",
       "promotion": "TNA",
-      "views": 74030
+      "views": 85725
     },
     {
       "id": "fjamrtNkXXc",
       "title": "EXCLUSIVE: IYO SKY will make the Women’s Intercontinental Title shine: Main Event, Nov. 18, 2026",
       "published": "2026-11-19T20:00:20+00:00",
       "promotion": "WWE",
-      "views": 129086
+      "views": 137586
     },
     {
       "id": "B6558DvZlJQ",
       "title": "Trick Williams looks to whoop that Kit Wilson: WWE Main Event highlights, Nov. 18, 2026",
       "published": "2026-11-19T19:30:09+00:00",
       "promotion": "WWE",
-      "views": 105553
-    },
-    {
-      "id": "hW3iHLh3D2A",
-      "title": "The Rock Final Boss delivers a Rock Concert: 30 Years of The Rock",
-      "published": "2026-11-19T19:00:09+00:00",
-      "promotion": "WWE",
-      "views": 88969
-    },
-    {
-      "id": "U8NxT-Sw2Yo",
-      "title": "Chad Gable and Rey Fenix stand up to The 946: WWE Main Event highlights, Nov. 18, 2026",
-      "published": "2026-11-19T19:00:05+00:00",
-      "promotion": "WWE",
-      "views": 285962
+      "views": 116324
     },
     {
       "id": "rDYSbONV_4c",
       "title": "FULL MATCH: Jurassic Express vs Adam Cole & Bobby Fish | AEW Rampage, 11/19/21",
       "published": "2026-11-19T16:00:39+00:00",
       "promotion": "AEW",
-      "views": 20267
+      "views": 20989
     },
     {
       "id": "3iH0_7xDpQs",
       "title": "FULL MATCH: Shinsuke Nakamura vs. Samoa Joe: NXT TakeOver: Toronto 2016",
       "published": "2026-11-19T15:00:33+00:00",
       "promotion": "NXT",
-      "views": 31667
+      "views": 34507
     },
     {
       "id": "mDYCvhqqbvQ",
       "title": "Bound for Unbound オープニングVTR／2026.11.20 東京・後楽園ホール",
       "published": "2026-11-19T13:00:15+00:00",
       "promotion": "NJPW",
-      "views": 74166
+      "views": 88001
     },
     {
       "id": "NHj2AnycR3s",
       "title": "FULL MATCH: Bobby Lashley vs Ricochet | AEW Dynamite, 11/19/25",
       "published": "2026-11-19T10:00:05+00:00",
       "promotion": "AEW",
-      "views": 23096
+      "views": 23710
     },
     {
       "id": "2MwVqJZpdl4",
       "title": "【📺地上波特番決定】『闘魂55年 WRESTLE KINGDOM 21 in 東京ドーム』 - 2027年1月4日よる11時15分 テレビ朝日系列地上波にて放送！",
       "published": "2026-11-19T08:19:20+00:00",
       "promotion": "NJPW",
-      "views": 19279
+      "views": 20772
     },
     {
       "id": "X1bTcp4UJM8",
       "title": "Hangman Page vs Bandido in Continental Classic Blue League Match | AEW Dynamite, 11/18/26",
       "published": "2026-11-19T05:00:09+00:00",
       "promotion": "AEW",
-      "views": 63227
+      "views": 65043
     },
     {
       "id": "BhjEq5KGVn8",
       "title": "Hangman Page vs Bandido in Continental Classic Blue League Match | AEW Dynamite, 11/18/26",
       "published": "2026-11-19T05:00:07+00:00",
       "promotion": "AEW",
-      "views": 115831
+      "views": 118959
     },
     {
       "id": "WtTlfFdFeTQ",
       "title": "Say his FULL NAME! Kyle Fletcher INTERRUPTS Andrade El Ídolo! | AEW Dynamite, 11/18/26",
       "published": "2026-11-19T04:55:01+00:00",
       "promotion": "AEW",
-      "views": 205290
+      "views": 212677
     },
     {
       "id": "MDn6CZthmUw",
       "title": "Queen Aminata vs Maya World vs AZM vs Mina Shirakawa - TBS Championship | AEW Dynamite, 11/18/26",
       "published": "2026-11-19T04:50:38+00:00",
       "promotion": "AEW",
-      "views": 103438
+      "views": 105790
     },
     {
       "id": "xmBIchpXIFA",
       "title": "Queen Aminata vs Maya World vs AZM vs Mina Shirakawa - TBS Championship | AEW Dynamite, 11/18/26",
       "published": "2026-11-19T04:50:11+00:00",
       "promotion": "AEW",
-      "views": 60136
+      "views": 61379
     },
     {
       "id": "w_hceIaSR2M",
       "title": "What did Swerve Strickland say to Hangman Page? | AEW Dynamite, 11/18/26",
       "published": "2026-11-19T04:45:38+00:00",
       "promotion": "AEW",
-      "views": 110825
+      "views": 115636
     },
     {
       "id": "4FF28TWHHHw",
       "title": "Mercedes Moné & The Cut celebrate their successes from AEW Full Gear! | AEW Dynamite, 11/18/26",
       "published": "2026-11-19T04:40:26+00:00",
       "promotion": "AEW",
-      "views": 92526
+      "views": 95268
     },
     {
       "id": "52xbR8snmsw",
       "title": "Mercedes Moné & The Cut celebrate their successes from AEW Full Gear! | AEW Dynamite, 11/18/26",
       "published": "2026-11-19T04:40:09+00:00",
       "promotion": "AEW",
-      "views": 67709
-    },
-    {
-      "id": "agCn7Rs2wcA",
-      "title": "The New Level & Swerve Strickland get asked to join The Don Callis Family! | AEW Dynamite, 11/18/26",
-      "published": "2026-11-19T04:35:31+00:00",
-      "promotion": "AEW",
-      "views": 302597
+      "views": 70567
     },
     {
       "id": "UneoLp72KMI",
       "title": "TANAHASHI JAM 2 by CSテレ朝チャンネル オープニングVTR／11.19 東京・後楽園ホール",
       "published": "2026-11-19T01:15:13+00:00",
       "promotion": "NJPW",
-      "views": 48817
+      "views": 51381
     },
     {
       "id": "PgxFvHrIKJg",
       "title": "Sting vs. Kurt Angle vs. Christian Cage: TNA World Title (FULL MATCH) | TNA Sacrifice 2007",
       "published": "2026-11-19T00:00:02+00:00",
       "promotion": "TNA",
-      "views": 9907
+      "views": 10153
     },
     {
       "id": "61QbqqSuJTU",
       "title": "JDC's FINAL Match vs. Eddie Edwards (FULL MATCH) | TNA Genesis 2026",
       "published": "2026-11-18T18:01:37+00:00",
       "promotion": "TNA",
-      "views": 19909
+      "views": 20333
     },
     {
       "id": "4oanAYJuRA4",
       "title": "FULL EPISODE: Gable vs. Dar; Valkyria vs. Li | WWE NXT, Nov. 21, 2023",
       "published": "2026-11-18T13:00:11+00:00",
       "promotion": "NXT",
-      "views": 17022
+      "views": 17335
     },
     {
       "id": "bwvIMOEF5L0",
       "title": "【新日カードランブルpresents！月刊69#34】デンジャラス・テッカーズが電撃復活でタイチが真相激白…WORLD TAG LEAGUE初制覇＆タッグベルト奪還へ！東京ドーム大会の最新情報も！",
       "published": "2026-11-18T10:00:23+00:00",
       "promotion": "NJPW",
-      "views": 113134
+      "views": 120096
     },
     {
       "id": "-IBmbFHdqws",
       "title": "TNA Genesis 2007 (FULL EVENT) | Booker T and Sting vs. Nash and Angle, Christian vs. Kaz",
       "published": "2026-11-17T22:00:24+00:00",
       "promotion": "TNA",
-      "views": 19774
+      "views": 20233
     },
     {
       "id": "iMjZwiIApU8",
       "title": "【アントニオ猪木の孫】猪木尚登 新日本プロレス入団決定",
       "published": "2026-11-17T22:00:15+00:00",
       "promotion": "NJPW",
-      "views": 531979
+      "views": 558914
     },
     {
       "id": "dFQrxo1WT6Q",
       "title": "Elijah vs. Jamie Stanley | TNA Xplosion November 13, 2026",
       "published": "2026-11-17T17:00:05+00:00",
       "promotion": "TNA",
-      "views": 17005
-    },
-    {
-      "id": "gSsSXDtqM4Y",
-      "title": "FULL MATCH: Shayna Baszler vs. Kairi Sane | 2-out-of-3 falls Match: NXT TakeOver: WarGames 2018",
-      "published": "2026-11-17T15:00:32+00:00",
-      "promotion": "NXT",
-      "views": 58067
+      "views": 17234
     },
     {
       "id": "-kIw4P3ZZM4",
       "title": "【上村優也と大合唱！】皆さまの歌声を入場VTRに！全国のファンと「3・2・1 オッシャー!!」",
       "published": "2026-11-17T11:00:39+00:00",
       "promotion": "NJPW",
-      "views": 17595
+      "views": 18028
     },
     {
       "id": "lfRyBEYe2sU",
       "title": "NEW HEROES #9 永井大貴【ドキュメンタリーシリーズ】",
       "published": "2026-11-17T09:00:15+00:00",
       "promotion": "NJPW",
-      "views": 57310
+      "views": 59536
     },
     {
       "id": "teBGor1rsA0",
       "title": "【11月19日デビュー】小畑詩音から皆さまへご挨拶 - 2026.11.19 東京・後楽園ホール『TANAHASHI JAM 2 by CSテレ朝チャンネル』",
       "published": "2026-11-17T06:00:38+00:00",
       "promotion": "NJPW",
-      "views": 30939
+      "views": 32447
     },
     {
       "id": "FCNxxdevPbo",
       "title": "Mustafa Ali SNAPS and DESTROYS Frankie Kazarian | TNA Destination X 2026 Highlights",
       "published": "2026-11-16T18:00:24+00:00",
       "promotion": "TNA",
-      "views": 46301
+      "views": 46724
     },
     {
       "id": "4UNHg23wB8k",
       "title": "Elijah's Concert Leads to IMPROMPTU Match | TNA Destination X 2026 Highlights",
       "published": "2026-11-16T15:00:21+00:00",
       "promotion": "TNA",
-      "views": 23671
+      "views": 23824
     },
     {
       "id": "_HpBuC0JEgA",
       "title": "【新日本プロレス】ナッツRV presents 上村優也＆タイチのルーツをキャンピングカーで辿る旅〜福岡編〜！ガウンの秘密＆思い出の食堂で禁断の㊙︎質問！レスリング部の恩師とも対面！",
       "published": "2026-11-16T10:00:34+00:00",
       "promotion": "NJPW",
-      "views": 40002
+      "views": 40714
     },
     {
       "id": "wHYyUTg2H54",
       "title": "マ・ジ・で ！フィリップ・マーロウ・ジュニアvsBUSHI【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-16T09:00:17+00:00",
       "promotion": "NJPW",
-      "views": 109622
+      "views": 111708
     },
     {
       "id": "Eq4BG_UqeuA",
       "title": "FULL TNA Destination X 2026 Highlights - Watch On Demand on TNA+ NOW!",
       "published": "2026-11-16T03:00:06+00:00",
       "promotion": "TNA",
-      "views": 70149
+      "views": 70882
     },
     {
       "id": "SIQYaa3ahYA",
@@ -339,14 +344,7 @@
       "title": "外道の相手は\"どうしても勝ちたいヤツ\"【11.20 後楽園 Bound for Unbound】",
       "published": "2026-11-14T09:00:05+00:00",
       "promotion": "NJPW",
-      "views": 73184
-    },
-    {
-      "id": "viqnkk78Bkg",
-      "title": "【NJPW Full Match】ザック・セイバーJr. vs エチセロ／2025.1.12 アメリカ『Battle in the Valley 2025』",
-      "published": "2026-11-13T11:08:26+00:00",
-      "promotion": "NJPW",
-      "views": 149283
+      "views": 73926
     },
     {
       "id": "QWl6p8P5fdE",
