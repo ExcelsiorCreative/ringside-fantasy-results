@@ -1,6 +1,160 @@
 {
-  "updatedAt": "2026-11-16T17:06:02Z",
+  "updatedAt": "2026-11-23T17:05:15Z",
   "articles": [
+    {
+      "id": "pc-week-2026-11-23-wwe",
+      "date": "2026-11-23",
+      "kind": "TV review",
+      "title": "WWE: IYO SKY clears the rooftop",
+      "dek": "A moonsault moved the Women’s Intercontinental Championship out of Raquel Rodriguez’s hands.",
+      "paragraphs": [
+        "Raw on November 16 gave IYO SKY a new championship and Raquel Rodriguez a very bad landing zone. SKY won the Women’s Intercontinental title with Over the Moonsault after Becky Lynch neutralized Liv Morgan’s ringside involvement. The finish changed the champion without pretending the surrounding dispute had disappeared.",
+        "My take: interference is easiest to tolerate when somebody finally clears the sidewalk and lets the wrestlers settle the bill. Lynch removed an obstacle; SKY supplied the decisive move. That distinction keeps the victory attached to its winner rather than to the evening’s guest list.",
+        "Rodriguez had the belt. SKY had the altitude. By closing time, only one of those advantages traveled home."
+      ],
+      "sources": [
+        {
+          "title": "WWE Raw official results — November 16, 2026",
+          "url": "https://www.wwe.com/shows/raw/2026-11-16/episode-brief-1-raw-nov-16-2026"
+        },
+        {
+          "title": "Fightful: IYO SKY wins the Women’s Intercontinental title",
+          "url": "https://www.fightful.com/wrestling-news/339522-iyo-sky-womens-ic-title"
+        }
+      ],
+      "promotions": [
+        "WWE"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-23-aew",
+      "date": "2026-11-23",
+      "kind": "TV review",
+      "title": "AEW: The standings decline to recognize seniority",
+      "dek": "Orange Cassidy and Bandido opened the Continental Classic by beating familiar company.",
+      "paragraphs": [
+        "Dynamite in Denver on November 18 opened the Continental Classic by making reputations check their coats. Orange Cassidy pinned Continental Champion Jon Moxley to collect three points. Bandido defeated Hangman Adam Page with the 21 Plex, also earning three. Neither tournament result changed a championship.",
+        "My take: round-robin wrestling needs consequences before it needs arithmetic. These wins immediately made the table interesting because established relationships could not protect either loser. Page initially rejected Bandido’s handshake before the two embraced, leaving frustration on screen without declaring their partnership demolished. A tournament can test friendship without ordering a funeral for it.",
+        "The standings accept points, not apologies. Wednesday’s old acquaintances discovered the cashier was open."
+      ],
+      "sources": [
+        {
+          "title": "AEW Dynamite official results — November 18, 2026",
+          "url": "https://www.allelitewrestling.com/post/aew-dynamite-results-november-18-2026-the-2026-continental-classic-begins-orange-cassidy-shocks"
+        },
+        {
+          "title": "PWTorch: Wade Keller’s November 18 Dynamite report",
+          "url": "https://www.pwtorch.com/site/2026/11/18/aew-dynamite-results-11-18-kellers-report-on-moxley-vs-cassidy-speedball-vs-nick-wayne-hangman-vs-bandido-full-gear-fallout/"
+        }
+      ],
+      "promotions": [
+        "AEW"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-23-nxt",
+      "date": "2026-11-23",
+      "kind": "TV review",
+      "title": "NXT: Jordan finds the emergency exit",
+      "dek": "Kendal Grey won the match; Kelani Jordan kept the championship.",
+      "paragraphs": [
+        "NXT’s November 17 championship rematch ended with Kelani Jordan choosing the referee over the submission hold. Trapped in Kendal Grey’s Ankle Lock, Jordan slapped the official and lost by disqualification. Grey received the victory, but Jordan retained the NXT Women’s Championship under the match’s rules.",
+        "My take: the finish works as a character confession. Jordan did not prove Grey could not beat her; she demonstrated how quickly she would abandon the contest to keep the property. That is useful villainy, provided the next chapter gives the challenger something stronger than another appointment. Grey’s performance deserves a consequence beyond a technical win.",
+        "The referee got the slap. Grey got the decision. Jordan kept the combination to the safe."
+      ],
+      "sources": [
+        {
+          "title": "WWE NXT official results — November 17, 2026",
+          "url": "https://www.wwe.com/shows/wwenxt/2026-11-17"
+        },
+        {
+          "title": "POST Wrestling: Jordan retains through deliberate disqualification",
+          "url": "https://www.postwrestling.com/2026/11/17/kelani-jordan-dqs-herself-against-kendal-grey-retains-nxt-womens-title-off-technicality/"
+        }
+      ],
+      "promotions": [
+        "NXT"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-23-tna",
+      "date": "2026-11-23",
+      "kind": "TV review",
+      "title": "TNA: Slater survives a crowded collection notice",
+      "dek": "Leon Slater retained against Nic Nemeth after the traffic at ringside cleared.",
+      "paragraphs": [
+        "Impact on November 19 sent Nic Nemeth after Leon Slater’s World Championship and supplied enough ringside traffic to require signals. Trey Miguel chased away Ryan Nemeth. Later, with the referee down, Elijah stopped Nic’s attempted chair involvement. Slater followed with a boot and Swanton 450 to retain.",
+        "My take: the champion’s finish was decisive, but the route there belonged to a crowded neighborhood. Miguel’s help preserved his relationship with Slater, while Elijah’s intervention kept a separate grievance alive. The show connected those stories through actions rather than asking everyone to repeat their address into a microphone.",
+        "Slater kept the championship. Nemeth collected interference in both directions. Even a shortcut can develop a traffic jam."
+      ],
+      "sources": [
+        {
+          "title": "TNA Impact official results — November 19, 2026",
+          "url": "https://tnawrestling.com/news/thursday-night-impact-on-amc-results-november-19-2026"
+        },
+        {
+          "title": "Fightful: November 19 Impact results",
+          "url": "https://www.fightful.com/wrestling/tna-impact-results-11-19-leon-slater-vs-nic-nemeth/"
+        }
+      ],
+      "promotions": [
+        "TNA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-23-aaa",
+      "date": "2026-11-23",
+      "kind": "TV review",
+      "title": "AAA: Two defenses, two different receipts",
+      "dek": "The Wagner Brothers and Los Perros del Mal kept their championships on November 21.",
+      "paragraphs": [
+        "AAA’s November 21 broadcast, taped November 14 in Mexico City, kept two sets of championships in familiar hands. The Wagner Brothers retained the tag titles against El Mesías and Mecha Wolf, with Wagner pinning Mesías after a Michinoku Driver. Los Perros del Mal retained the trios titles against El Grande Americano, Rey Fenix and La Parka.",
+        "My take: matching outcomes can tell different stories. The Wagners survived the challengers’ ambush; Daga used a title-belt strike before a double stomp pinned La Parka. One defense rewarded recovery, the other advertised another reason to dislike the champions. The belts stayed put without the finishes becoming interchangeable.",
+        "Same owners. Different receipts. Saturday’s gold was anything but a uniform investment."
+      ],
+      "sources": [
+        {
+          "title": "AAA November 21 official broadcast",
+          "url": "https://www.youtube.com/watch?v=Nzyzgn4TARY"
+        },
+        {
+          "title": "Pro Wrestling Dot Net: Chris Vetter’s November 21 AAA review, published November 22",
+          "url": "https://prowrestling.net/site/2026/11/22/aaa-lucha-libre-worldwide-results-11-21-vetters-review-of-los-wagner-brothers-vs-mecha-wolf-and-el-mesias-for-the-aaa-tag-titles-perros-del-mal-vs-el-grande-americano-rey-fenix-la-parka-for/"
+        },
+        {
+          "title": "BodySlam: November 21 AAA results and taping date",
+          "url": "https://bodyslam.net/aaa-on-fox-results-november-21st-2026/"
+        }
+      ],
+      "promotions": [
+        "AAA"
+      ]
+    },
+    {
+      "id": "pc-week-2026-11-23-njpw",
+      "date": "2026-11-23",
+      "kind": "Reported feature",
+      "title": "NJPW: Yano wins the title, loses the luggage",
+      "dek": "A new World Television Champion met an immediate problem of possession.",
+      "paragraphs": [
+        "Tanahashi Jam 2 on November 19 gave Toru Yano the NJPW World Television Championship and immediately complicated the handover. Yano defeated Shun Skywalker by roll-up after Hiroshi Tanahashi helped counter House of Torture’s interference. Yoshinobu Kanemaru attacked afterward and took the belt despite not winning the championship.",
+        "My take: this is wrestling’s version of receiving the deed while somebody drives away with the house. Yano’s victory changes the official record; Kanemaru’s theft gives the next confrontation a physical object to chase. Keeping those facts separate makes the angle easier to follow and the insult easier to enjoy.",
+        "Yano is the champion. Kanemaru has the luggage. Customer service should be a lively conversation."
+      ],
+      "sources": [
+        {
+          "title": "NJPW official: Yano wins, Kanemaru steals TV title",
+          "url": "https://www.njpw1972.com/682664"
+        },
+        {
+          "title": "F4W: Title change at Tanahashi Jam 2",
+          "url": "https://www.f4wonline.com/news/new-japan/title-change-takes-place-at-njpw-tanahashi-jam-2/"
+        }
+      ],
+      "promotions": [
+        "NJPW"
+      ]
+    },
     {
       "id": "pc-week-2026-11-16-wwe",
       "date": "2026-11-16",
