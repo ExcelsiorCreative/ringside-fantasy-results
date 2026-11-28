@@ -1,357 +1,364 @@
 {
   "generator": "TheBigRoomXXL/tinyfeed v1.5.0",
-  "fetchedAt": "2026-11-28T04:10:39Z",
+  "fetchedAt": "2026-11-28T13:14:35Z",
   "failed": [],
   "items": [
+    {
+      "id": "9pVB4FGiqLU",
+      "title": "【NJPW Full Match】武藤敬司 vs 髙田延彦／1995.10.9 東京・東京ドーム『激突!! 新日本プロレス対UWFインターナショナル全面戦争』",
+      "published": "2026-11-28T12:00:11+00:00",
+      "promotion": "NJPW",
+      "views": 8047
+    },
+    {
+      "id": "T2SmJATmeMQ",
+      "title": "FULL SEGMENT: Chris Jericho introduces \"The Lexicon of Le Champion\" | AEW Dynamite, 12/4/19",
+      "published": "2026-11-28T11:00:05+00:00",
+      "promotion": "AEW",
+      "views": 1656
+    },
+    {
+      "id": "JvkT3Oajbuw",
+      "title": "The Rock defeats “Stone Cold” Steve Austin at WrestleMania XIX: 30 Years of The Rock",
+      "published": "2026-11-28T04:00:39+00:00",
+      "promotion": "WWE",
+      "views": 52138
+    },
     {
       "id": "objDhMbRT1A",
       "title": "Full SmackDown highlights: Nov. 27, 2026",
       "published": "2026-11-28T03:11:47+00:00",
       "promotion": "WWE",
-      "views": 40039
+      "views": 696793
     },
     {
       "id": "0rgr9IBkycw",
       "title": "Kevin Owens & Finn Bálor vs. Gunther & Sami Zayn: SmackDown highlights, Nov. 27, 2026",
       "published": "2026-11-28T03:00:17+00:00",
       "promotion": "WWE",
-      "views": 28651
+      "views": 311327
     },
     {
       "id": "CIBXNyJdxSQ",
       "title": "Damian Priest targets Trick Williams’ injured knee: SmackDown highlights, Nov. 27, 2026",
       "published": "2026-11-28T02:45:15+00:00",
       "promotion": "WWE",
-      "views": 27454
+      "views": 249348
     },
     {
       "id": "ylgSrndcL_k",
       "title": "Paige helps Chelsea Green repel Tiffany Stratton, Blake Monroe: SmackDown highlights, Nov. 27, 2026",
       "published": "2026-11-28T02:30:33+00:00",
       "promotion": "WWE",
-      "views": 31598
+      "views": 269424
     },
     {
       "id": "4RCLIMhl3pg",
       "title": "Team Cargill ATTACKS their WarGames opponents: SmackDown highlights",
       "published": "2026-11-28T02:05:14+00:00",
       "promotion": "WWE",
-      "views": 29469
+      "views": 151962
     },
     {
       "id": "WIBhRQFWY_s",
       "title": "Alexa Bliss & Tatum Paxley reclaim WWE Women’s Tag Team Title: SmackDown highlights, Nov. 27, 2026",
       "published": "2026-11-28T02:00:11+00:00",
       "promotion": "WWE",
-      "views": 37517
+      "views": 220380
     },
     {
       "id": "VqHLgVcaQzg",
       "title": "FULL SEGMENT: CM Punk will not accept Seth Rollins on Team USA: SmackDown highlights, Nov. 27, 2026",
       "published": "2026-11-28T01:53:52+00:00",
       "promotion": "WWE",
-      "views": 125578
+      "views": 980797
     },
     {
       "id": "dVOCPcp1UcE",
       "title": "WWE remembers Jermaine Haley, also known as Bronson Reed",
       "published": "2026-11-28T01:37:30+00:00",
       "promotion": "WWE",
-      "views": 162669
+      "views": 647010
     },
     {
       "id": "sc--IkewSmk",
       "title": "EXCLUSIVE: Hear from the Continental Classic competitors of AEW Collision Thanksgiving!",
       "published": "2026-11-27T20:00:04+00:00",
       "promotion": "AEW",
-      "views": 24064
+      "views": 35787
     },
     {
       "id": "HtMUJ23A5MI",
       "title": "Moose's System Vengeance Continues in STREET FIGHT | TNA iMPACT! November 26, 2026",
       "published": "2026-11-27T18:00:35+00:00",
       "promotion": "TNA",
-      "views": 14445
+      "views": 19849
     },
     {
       "id": "1mSGkd8nUFY",
       "title": "The Toni Storm Tapes | Episode 1: MUNDANITIES",
       "published": "2026-11-27T15:00:33+00:00",
       "promotion": "AEW",
-      "views": 41292
+      "views": 54726
     },
     {
       "id": "hq4N4jiDM0U",
       "title": "AJ Francis' OPEN CHALLENGE Gets EXTREME Answer | TNA iMPACT! November 26, 2026",
       "published": "2026-11-27T15:00:17+00:00",
       "promotion": "TNA",
-      "views": 33884
+      "views": 40017
     },
     {
       "id": "T5UvvslKyKA",
       "title": "FULL EPISODE: Breakker vs. Frazer; Femi vs. Heights | WWE NXT, Dec. 26, 2023",
       "published": "2026-11-27T13:00:26+00:00",
       "promotion": "NXT",
-      "views": 15488
+      "views": 18650
     },
     {
       "id": "dWc2HUrcO8I",
       "title": "EXCLUSIVE: Hear from the Continental Classic competitors of AEW Dynamite Thanksgiving Eve!",
       "published": "2026-11-27T12:00:39+00:00",
       "promotion": "AEW",
-      "views": 30498
+      "views": 35626
     },
     {
       "id": "pl3qSjdRrN0",
       "title": "FULL MATCH: Chris Jericho vs Scorpio Sky - AEW World Championship | AEW Dynamite, 11/27/19",
       "published": "2026-11-27T10:00:01+00:00",
       "promotion": "AEW",
-      "views": 26137
+      "views": 32473
     },
     {
       "id": "HmHT_Tl4o3g",
       "title": "【音声のみ】外道選手のPodcast『Junk Yard Radio』第45回「外道が考える才能と幸せ」",
       "published": "2026-11-27T08:00:36+00:00",
       "promotion": "NJPW",
-      "views": 4512
+      "views": 5136
     },
     {
       "id": "tYHOYNyKl2M",
       "title": "Tommaso Ciampa vs Nick Wayne - C2 Gold League Match | | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T04:00:36+00:00",
       "promotion": "AEW",
-      "views": 89194
+      "views": 96314
     },
     {
       "id": "Bbd9gfm5Mc4",
       "title": "Tommaso Ciampa vs Nick Wayne - C2 Gold League Match | | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T04:00:31+00:00",
       "promotion": "AEW",
-      "views": 39779
+      "views": 42549
     },
     {
       "id": "tuDeJycAMRY",
       "title": "The Hardys, Sosa and Moose THRILL in All-Star Tag | TNA iMPACT! November 26, 2026",
       "published": "2026-11-27T04:00:01+00:00",
       "promotion": "TNA",
-      "views": 38731
+      "views": 41079
     },
     {
       "id": "MlucGjOMUiI",
       "title": "hear what bro had to say on thanksgiving collision 🤩",
       "published": "2026-11-27T03:50:11+00:00",
       "promotion": "AEW",
-      "views": 42982
+      "views": 45873
     },
     {
       "id": "du7ZrYxTryo",
       "title": "Queen Aminata & Mina Shirakawa vs Athena & Billie Starkz | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T03:45:18+00:00",
       "promotion": "AEW",
-      "views": 34476
+      "views": 36952
     },
     {
       "id": "OBqqjmi7YCk",
       "title": "Queen Aminata & Mina Shirakawa vs Athena & Billie Starkz | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T03:45:03+00:00",
       "promotion": "AEW",
-      "views": 18274
+      "views": 19482
     },
     {
       "id": "EWm8HAbctVA",
       "title": "The Kasper Brothers in tag team action! | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T03:40:11+00:00",
       "promotion": "AEW",
-      "views": 34034
+      "views": 36171
     },
     {
       "id": "Wv06Akfegbo",
       "title": "The INSANE conclusion to Konosuke Takeshita vs Bandido in the C2! | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T03:35:09+00:00",
       "promotion": "AEW",
-      "views": 34433
+      "views": 37203
     },
     {
       "id": "LZe__Aefux0",
       "title": "The INSANE conclusion to Konosuke Takeshita vs Bandido in the C2! | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T03:33:24+00:00",
       "promotion": "AEW",
-      "views": 55960
+      "views": 62390
     },
     {
       "id": "CxJIDN3hI48",
       "title": "Brody King vs Ricochet in C2 Blue League Match | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T03:30:17+00:00",
       "promotion": "AEW",
-      "views": 24927
+      "views": 26435
     },
     {
       "id": "UlMK_616yXY",
       "title": "Brody King vs Ricochet in C2 Blue League Match | AEW Collision Thanksgiving 2026",
       "published": "2026-11-27T03:30:08+00:00",
       "promotion": "AEW",
-      "views": 41696
-    },
-    {
-      "id": "N0dE8y9LYdQ",
-      "title": "Thekla watches as the Sisters of Sin pick up the win! | AEW Collision Thanksgiving 2026",
-      "published": "2026-11-27T03:25:17+00:00",
-      "promotion": "AEW",
-      "views": 53324
+      "views": 45002
     },
     {
       "id": "uNzBZjdt_4M",
       "title": "FULL MATCH: Team TNA vs. Team NXT | Men’s Survivor Series Match: NXT Showdown, Oct. 7, 2025",
       "published": "2026-11-26T15:00:26+00:00",
       "promotion": "NXT",
-      "views": 40079
+      "views": 45182
     },
     {
       "id": "567cIDLQovk",
       "title": "【新日本プロレス】ナッツRV presents 上村優也＆タイチの出張お悩み相談室〜福岡大学編〜！HEAT STORMが母校に凱旋！キャンピングカーの中で学生のお悩みをスッキリ解決！前編！",
       "published": "2026-11-26T10:00:25+00:00",
       "promotion": "NJPW",
-      "views": 24733
+      "views": 25540
     },
     {
       "id": "FbKHzFQJ5Ms",
       "title": "【NJPW Full Match】ウルフアロン＆ボルチン・オレッグ vs SANADA＆高橋裕二郎／ナッツRV Presents WORLD TAG LEAGUE 2026 - 11.23 横浜武道館",
       "published": "2026-11-26T09:00:37+00:00",
       "promotion": "NJPW",
-      "views": 107882
+      "views": 124165
     },
     {
       "id": "XEPSPnf550I",
       "title": "【NJPW Full Match】Yuto-Ice＆OSKAR vs カラム・ニューマン＆ジェイク・リー／ナッツRV Presents WORLD TAG LEAGUE 2026",
       "published": "2026-11-26T09:00:10+00:00",
       "promotion": "NJPW",
-      "views": 71747
+      "views": 77688
     },
     {
       "id": "Mr_6S7p-mTI",
       "title": "2009 TNA iMPACT Marathon!",
       "published": "2026-11-26T04:47:29+00:00",
       "promotion": "TNA",
-      "views": 143605
+      "views": 144662
     },
     {
       "id": "muOLmBhji9w",
       "title": "FULL EPISODE: Henley vs. Stratton; North American Title Triple Threat| WWE NXT, Dec. 19, 2023",
       "published": "2026-11-25T13:00:05+00:00",
       "promotion": "NXT",
-      "views": 55304
+      "views": 57006
     },
     {
       "id": "M-g8osUYjAw",
       "title": "TNA Genesis 2005 (FULL EVENT) | Christian Cage Debut, Elimination X, Abyss vs. Sabu",
       "published": "2026-11-24T22:00:16+00:00",
       "promotion": "TNA",
-      "views": 18250
+      "views": 19107
     },
     {
       "id": "HWPwF1tO8CI",
       "title": "Rich Swann vs. KC Navarro vs. Joe Alonzo vs. The Home Town Man | TNA Xplosion November 20, 2026",
       "published": "2026-11-24T17:00:19+00:00",
       "promotion": "TNA",
-      "views": 20724
+      "views": 20929
     },
     {
       "id": "n7ITYMuSQOE",
       "title": "FULL MATCH: Team Ripley vs. Team Baszler | WarGames Match: NXT TakeOver: WarGames 2019",
       "published": "2026-11-24T15:00:22+00:00",
       "promotion": "NXT",
-      "views": 300620
-    },
-    {
-      "id": "9pVB4FGiqLU",
-      "title": "【NJPW Full Match】武藤敬司 vs 髙田延彦／1995.10.9 東京・東京ドーム『激突!! 新日本プロレス対UWFインターナショナル全面戦争』",
-      "published": "2026-11-24T08:59:15+00:00",
-      "promotion": "NJPW",
-      "views": 2
+      "views": 308574
     },
     {
       "id": "vVvNkMNtaPw",
       "title": "Moose's Family UNITES and STANDS UP to The System (FULL MATCH) | TNA Slammiversary 2026",
       "published": "2026-11-23T17:10:58+00:00",
       "promotion": "TNA",
-      "views": 132956
+      "views": 135268
     },
     {
       "id": "cCj0C0fAvoY",
       "title": "2008 TNA iMPACT Marathon!",
       "published": "2026-11-23T04:23:27+00:00",
       "promotion": "TNA",
-      "views": 89068
+      "views": 89213
     },
     {
       "id": "6IAQDUDcxuI",
       "title": "The Rising vs. The Beat Down Clan: LOSING GROUP DISBANDS! (FULL MATCH) | TNA iMPACT! July 1, 2016",
       "published": "2026-11-22T18:00:21+00:00",
       "promotion": "TNA",
-      "views": 26106
+      "views": 26368
     },
     {
       "id": "G5KMcT-pj_M",
       "title": "Triple Threat Revolver: Yim, Taurus, Uemura and MORE! (FULL MATCH) | TNA Victory Road 2022",
       "published": "2026-11-22T15:00:28+00:00",
       "promotion": "TNA",
-      "views": 33797
+      "views": 34181
     },
     {
       "id": "14IeGFDnWCU",
       "title": "【2027.1.4 東京ドーム】これが55年の、誇り。 王者 辻陽太 vs 挑戦者 ケニー・オメガ IWGPヘビー級選手権試合【チケット発売中】",
       "published": "2026-11-22T03:00:37+00:00",
       "promotion": "NJPW",
-      "views": 61853
+      "views": 62404
     },
     {
       "id": "Zjz4BeJAfQ4",
       "title": "Xia Shows Her Righteous Side | TNA iMPACT! November 19, 2026",
       "published": "2026-11-21T18:00:19+00:00",
       "promotion": "TNA",
-      "views": 64497
+      "views": 65034
     },
     {
       "id": "gfVVaW5H0JA",
       "title": "The System MALFUNCTIONS as Bronson Battles Navarro | TNA iMPACT! November 19, 2026",
       "published": "2026-11-21T15:00:22+00:00",
       "promotion": "TNA",
-      "views": 44863
+      "views": 45106
     },
     {
       "id": "XdXpVPVGlNg",
       "title": "【ユニット紹介】イッテンヨンを前におさらい！新日本プロレスのメンバー＆ユニットはこちら",
       "published": "2026-11-21T09:00:36+00:00",
       "promotion": "NJPW",
-      "views": 47242
+      "views": 47397
     },
     {
       "id": "2QigVqmBBk4",
       "title": "ナッツRV Presents WORLD TAG LEAGUE 2026 オープニングVTR／11.23 神奈川・横浜武道館〜12.13 熊本・グランメッセ熊本",
       "published": "2026-11-21T03:00:21+00:00",
       "promotion": "NJPW",
-      "views": 55248
+      "views": 55384
     },
     {
       "id": "ViiE23Jqubg",
       "title": "【新日本プロレス】WORLD TAG LEAGUE 2012〜2025 決勝戦ダイジェスト",
       "published": "2026-11-20T13:00:15+00:00",
       "promotion": "NJPW",
-      "views": 102659
+      "views": 104946
     },
     {
       "id": "mDYCvhqqbvQ",
       "title": "Bound for Unbound オープニングVTR／2026.11.20 東京・後楽園ホール",
       "published": "2026-11-19T13:00:15+00:00",
       "promotion": "NJPW",
-      "views": 90935
+      "views": 91060
     },
     {
       "id": "2MwVqJZpdl4",
       "title": "【📺地上波特番決定】『闘魂55年 WRESTLE KINGDOM 21 in 東京ドーム』 - 2027年1月4日よる11時15分 テレビ朝日系列地上波にて放送！",
       "published": "2026-11-19T08:19:20+00:00",
       "promotion": "NJPW",
-      "views": 24093
+      "views": 24156
     },
     {
       "id": "QWl6p8P5fdE",
@@ -379,7 +386,7 @@
       "title": "Yo Soy El Patrón - Parte 2 - AAA Sin Límite - Lucha Libre AAA",
       "published": "2014-11-01T18:28:58+00:00",
       "promotion": "AAA",
-      "views": 6612
+      "views": 6613
     }
   ]
 }
